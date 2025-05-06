@@ -265,6 +265,11 @@ def get_all_brands(dy: Douyin):
 def run():
     # 获取数据
     dy = Douyin()
+    searches = None
+    stars = None
+    lives = None
+    musics = None
+    brands = None
     # 音乐
     musics, resp = dy.get_hot_music()
     save_raw_response(resp, 'hot-music')
