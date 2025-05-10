@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>抖音热门音乐榜</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            font-size: 28px;
+            color: #ff0050;
+            margin-bottom: 10px;
+        }
+        .update-time {
+            font-size: 14px;
+            color: #888;
+        }
+        .music-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .music-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .music-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+        .music-cover {
+            width: 100%;
+            height: 200px;
+            overflow: hidden;
+            position: relative;
+        }
+        .music-cover img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+        .music-card:hover .music-cover img {
+            transform: scale(1.05);
+        }
+        .rank {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(255, 0, 80, 0.8);
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .music-info {
+            padding: 15px;
+        }
+        .music-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .music-author {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 10px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .music-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-bottom: 10px;
+        }
+        .tag {
+            font-size: 12px;
+            background-color: #f0f0f0;
+            color: #666;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+        .tag.special {
+            background-color: #ffebf1;
+            color: #ff0050;
+            font-weight: 500;
+        }
+        .music-stats {
+            display: flex;
+            justify-content: space-between;
+            font-size: 13px;
+            color: #888;
+            margin-bottom: 15px;
+        }
+        .play-buttons {
+            display: flex;
+            gap: 10px;
+        }
+        .play-button {
+            flex: 1;
+            padding: 8px 0;
+            border: none;
+            border-radius: 5px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+            transition: background-color 0.3s;
+        }
+        .play-full {
+            background-color: #ff0050;
+            color: white;
+        }
+        .play-full:hover {
+            background-color: #e0004a;
+        }
+        .play-chorus {
+            background-color: #ffebf1;
+            color: #ff0050;
+        }
+        .play-chorus:hover {
+            background-color: #ffd5e1;
+        }
+        .empty-state {
+            text-align: center;
+            padding: 50px 20px;
+            color: #888;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px 20px;
+            color: #888;
+        }
+        .loading-spinner {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid rgba(255, 0, 80, 0.2);
+            border-radius: 50%;
+            border-top-color: #ff0050;
+            animation: spin 1s ease-in-out infinite;
+            margin-bottom: 15px;
+        }
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+        .error {
+            background-color: #fff0f0;
+            color: #e74c3c;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        /* 响应式调整 */
+        @media (max-width: 768px) {
+            .music-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>抖音热门音乐榜</h1>
+            <p class="update-time" id="update-time">更新时间：加载中...</p>
+        </header>
+        
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>正在加载音乐数据...</p>
+        </div>
+        
+        <div id="error" class="error" style="display: none;">
+            加载音乐数据失败，请稍后重试。
+        </div>
+        
+        <div id="music-list" class="music-list">
+            <!-- 音乐卡片将通过JavaScript动态生成 -->
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async function() {
+            try {
+                // 显示加载状态
+                const loadingElement = document.getElementById('loading');
+                const errorElement = document.getElementById('error');
+                const musicListElement = document.getElementById('music-list');
+                const updateTimeElement = document.getElementById('update-time');
+                
+                // 获取音乐数据
+                const response = await fetch('./assets/data.json');
+                if (!response.ok) {
+                    throw new Error('无法获取音乐数据');
+                }
+                
+                const data = await response.json();
+                
+                // 更新时间显示
+                updateTimeElement.textContent = `更新时间：${data.update_time}`;
+                
+                // 隐藏加载状态
+                loadingElement.style.display = 'none';
+                
+                // 如果没有音乐数据
+                if (!data.musics || data.musics.length === 0) {
+                    musicListElement.innerHTML = '<div class="empty-state">暂无音乐数据</div>';
+                    return;
+                }
+                
+                // 生成音乐卡片
+                let musicCardsHTML = '';
+                
+                data.musics.forEach(music => {
+                    // 获取封面图片
+                    const coverImage = music.files.cover_image ? 
+                        `./assets/${music.files.cover_image}` : 
+                        'https://via.placeholder.com/300x300/f0f0f0/ff0050?text=Music';
+                    
+                    // 获取最多3个标签
+                    let tagsHTML = '';
+                    let tags = [];
+                    
+                    // 收集所有非空标签
+                    if (music.tags) {
+                        for (const category in music.tags) {
+                            if (music.tags[category] && music.tags[category].length > 0) {
+                                tags = tags.concat(music.tags[category]);
+                            }
+                        }
+                    }
+                    
+                    // 取前3个标签
+                    const displayTags = tags.slice(0, 3);
+                    if (displayTags.length > 0) {
+                        tagsHTML = displayTags.map(tag => `<span class="tag">${tag}</span>`).join('');
+                    }
+                    
+                    // 检查是否有高潮部分
+                    const hasChorus = music.files.chorus ? true : false;
+                    
+                    // 判断音频类型
+                    const isFullAudio = music.audio_info?.is_full_audio !== false;
+                    const audioType = music.audio_info?.audio_type || (isFullAudio ? 'full' : 'chorus');
+                    
+                    // 创建卡片HTML
+                    musicCardsHTML += `
+                    <div class="music-card">
+                        <div class="music-cover">
+                            <img src="${coverImage}" alt="${music.title}">
+                            <div class="rank">${music.rank}</div>
+                        </div>
+                        <div class="music-info">
+                            <h3 class="music-title">${music.title}</h3>
+                            <p class="music-author">${music.author}</p>
+                            <div class="music-tags">
+                                ${tagsHTML}
+                                ${audioType === 'chorus' ? '<span class="tag special">原始音频已是高潮片段</span>' : ''}
+                            </div>
+                            <div class="music-stats">
+                                <span>热度：${music.heat.toLocaleString()}</span>
+                                <span>时长：${music.duration_formatted}</span>
+                            </div>
+                            <div class="play-buttons">
+                                <button class="play-button ${audioType === 'chorus' ? 'play-chorus' : 'play-full'}" onclick="playMusic('${music.id}', '${audioType === 'chorus' ? 'chorus' : 'normal'}')">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                                    </svg>
+                                    ${audioType === 'chorus' ? '播放高潮' : '播放完整版'}
+                                </button>
+                                ${hasChorus && audioType !== 'chorus' ? `
+                                <button class="play-button play-chorus" onclick="playMusic('${music.id}', 'chorus')">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <path d="M9 18V5l12-2v13"></path>
+                                        <circle cx="6" cy="18" r="3"></circle>
+                                        <circle cx="18" cy="16" r="3"></circle>
+                                    </svg>
+                                    高潮片段
+                                </button>
+                                ` : ''}
+                            </div>
+                        </div>
+                    </div>
+                    `;
+                });
+                
+                // 更新页面
+                musicListElement.innerHTML = musicCardsHTML;
+                
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+            }
+        });
+        
+        // 播放音乐函数
+        function playMusic(id, type) {
+            window.location.href = `./static/player.html?id=${id}&type=${type}`;
+        }
+    </script>
+</body>
+</html> 

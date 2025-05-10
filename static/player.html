@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>抖音热门音乐播放器</title>
+  <link rel="shortcut icon" href="./img/music_disc.png" type="image/x-icon" />
+  <link rel="stylesheet" href="./css/player.css" />
+</head>
+
+<body>
+  <div class="background"></div>
+  <audio loop src="">您的浏览器暂时不支持播放音乐嗷~</audio>
+  <div class="container">
+    <ul class="lrc-list"></ul>
+  </div>
+  <div id="songstatus">
+    <div id="songstatus_pic" onclick="control()">
+      <img src="./img/music_disc.png" id="status_pic">
+      <img src="./img/discpointer.png" id="discpointer_pic">
+    </div>
+  </div>
+  
+  <!-- 先加载播放器JS，后加载数据JS，保证顺序正确 -->
+  <script src="./js/player.js"></script>
+  <script src="./js/data.js"></script>
+</body>
+
+</html>
