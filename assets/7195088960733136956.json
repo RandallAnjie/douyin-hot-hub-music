@@ -1,0 +1,51 @@
+{
+  "id": "7195088960733136956",
+  "rank": 12,
+  "title": "战斗吧(纯音乐)（剪辑版）",
+  "author": "Meet遇见",
+  "album": "",
+  "heat": 17384443,
+  "user_count": 589969,
+  "duration": 22,
+  "duration_formatted": "22秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/7195088960733136956.jpg",
+    "audio": "music/7195088960733136956.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7195088960733136956_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "119.808秒 - 142.272秒 (持续22.464秒)",
+    "start_seconds": 119.808,
+    "duration_seconds": 22.464
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Jazz"
+    ],
+    "Themes": [
+      "Summer"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

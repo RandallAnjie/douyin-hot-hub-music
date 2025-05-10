@@ -1,0 +1,55 @@
+{
+  "id": "7488980235543694130",
+  "rank": 1,
+  "title": "第57次取消发送（回忆成了大问题）",
+  "author": "菲菲公主",
+  "album": "第57次取消发送",
+  "heat": 19260948,
+  "user_count": 2161457,
+  "duration": 12,
+  "duration_formatted": "12秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/7488980235543694130.jpg",
+    "audio": "music/7488980235543694130.mp3",
+    "lyrics": "lyrics/7488980235543694130.lrc",
+    "chorus_lyrics": "chorus_lyrics/7488980235543694130_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7488980235543694130.json",
+    "chorus_raw_lyrics": "raw_lyrics/7488980235543694130_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
+    "start_seconds": 48.768,
+    "duration_seconds": 18.623
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Miss"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Love",
+      "Low"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocPzXIQaurHM1mCBAxWcEUL9ToQA3BQiAEAAi"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}
