@@ -1,0 +1,54 @@
+{
+  "id": "6842162303987615757",
+  "rank": 18,
+  "title": "未闻花名十孔口琴版",
+  "author": "蓝馍馍",
+  "album": "",
+  "heat": 16989995,
+  "user_count": 134951,
+  "duration": 37,
+  "duration_formatted": "37秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": true,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/6842162303987615757.jpg",
+    "audio": "music/6842162303987615757.mp3",
+    "lyrics": "",
+    "chorus": "chorus/6842162303987615757_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 36.864秒 (持续36.864秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 36.864
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Easy Listening",
+      "Pop"
+    ],
+    "Themes": [
+      "Sunny",
+      "Spring",
+      "Summer"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

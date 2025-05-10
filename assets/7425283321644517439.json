@@ -1,0 +1,50 @@
+{
+  "id": "7425283321644517439",
+  "rank": 6,
+  "title": "风吹雾（前奏）",
+  "author": "Adoreya",
+  "album": "",
+  "heat": 17961793,
+  "user_count": 456483,
+  "duration": 42,
+  "duration_formatted": "42秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/7425283321644517439.jpg",
+    "audio": "music/7425283321644517439.mp3",
+    "lyrics": ""
+  },
+  "high_peak": {
+    "time_range": "43.200秒 - 61.055秒 (持续17.855秒)",
+    "start_seconds": 43.2,
+    "duration_seconds": 17.855
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Chill"
+    ],
+    "Genres": [
+      "Pop"
+    ],
+    "Themes": [
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

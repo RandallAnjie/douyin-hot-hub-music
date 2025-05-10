@@ -1,0 +1,56 @@
+{
+  "id": "7479039846686657307",
+  "rank": 8,
+  "title": "call me up（片段）",
+  "author": "三棱镜/zy",
+  "album": "call me up",
+  "heat": 19420016,
+  "user_count": 268210,
+  "duration": 23,
+  "duration_formatted": "23秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/7479039846686657307.jpg",
+    "audio": "music/7479039846686657307.mp3",
+    "lyrics": "lyrics/7479039846686657307.lrc",
+    "chorus_lyrics": "chorus_lyrics/7479039846686657307_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7479039846686657307.json",
+    "chorus_raw_lyrics": "raw_lyrics/7479039846686657307_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "29.184秒 - 71.424秒 (持续42.240秒)",
+    "start_seconds": 29.184,
+    "duration_seconds": 42.24
+  },
+  "tags": {
+    "Languages": [
+      "Chinese",
+      "English"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Hip Hop/Rap",
+      "Pop"
+    ],
+    "Themes": [
+      "Rainy",
+      "Love"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ownPaLAqAEMEQKiAvwWidMAxDPbArA54BrICQ"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

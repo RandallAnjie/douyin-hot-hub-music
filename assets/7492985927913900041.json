@@ -1,0 +1,42 @@
+{
+  "id": "7492985927913900041",
+  "rank": 37,
+  "title": "月亮照山川 - DJ（剪辑版）",
+  "author": "沃沃",
+  "album": "",
+  "heat": 16290648,
+  "user_count": 886440,
+  "duration": 34,
+  "duration_formatted": "34秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:41",
+  "files": {
+    "cover_image": "images/7492985927913900041.jpg",
+    "audio": "music/7492985927913900041.mp3",
+    "lyrics": ""
+  },
+  "high_peak": {
+    "time_range": "",
+    "start_seconds": null,
+    "duration_seconds": null
+  },
+  "tags": {
+    "Languages": null,
+    "Moods": null,
+    "Genres": null,
+    "Themes": null,
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": false
+  }
+}

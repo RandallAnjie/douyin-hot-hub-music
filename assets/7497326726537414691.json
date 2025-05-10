@@ -1,0 +1,52 @@
+{
+  "id": "7497326726537414691",
+  "rank": 36,
+  "title": "十字路口▏Pop RapType Beat（剪辑版）",
+  "author": "Lady Jane Music",
+  "album": "",
+  "heat": 16350733,
+  "user_count": 25382,
+  "duration": 73,
+  "duration_formatted": "73秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:41",
+  "files": {
+    "cover_image": "images/7497326726537414691.jpg",
+    "audio": "music/7497326726537414691.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7497326726537414691_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 39.360秒 (持续39.360秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 39.36
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Miss",
+      "Memory"
+    ],
+    "Genres": null,
+    "Themes": [
+      "Autumn"
+    ],
+    "SingingVersions": [
+      "High Quality"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

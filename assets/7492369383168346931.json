@@ -1,0 +1,55 @@
+{
+  "id": "7492369383168346931",
+  "rank": 10,
+  "title": "月亮照山川（DJ默涵片段）",
+  "author": "窝窝",
+  "album": "月亮照山川（DJ默涵版）",
+  "heat": 17446308,
+  "user_count": 4350028,
+  "duration": 14,
+  "duration_formatted": "14秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/7492369383168346931.jpg",
+    "audio": "music/7492369383168346931.mp3",
+    "lyrics": "lyrics/7492369383168346931.lrc",
+    "chorus_lyrics": "chorus_lyrics/7492369383168346931_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7492369383168346931.json",
+    "chorus_raw_lyrics": "raw_lyrics/7492369383168346931_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "149.952秒 - 179.904秒 (持续29.952秒)",
+    "start_seconds": 149.952,
+    "duration_seconds": 29.952
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Dance",
+      "Low"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oo0CA1KQEAaNAiuWEjATTgBtAsiscmfuvQ5BFi"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

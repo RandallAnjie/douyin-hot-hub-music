@@ -1,0 +1,54 @@
+{
+  "id": "7224142198715549752",
+  "rank": 28,
+  "title": "劳动最光荣(五一劳动节快乐)",
+  "author": "音乐趴",
+  "album": "",
+  "heat": 16582080,
+  "user_count": 1931462,
+  "duration": 75,
+  "duration_formatted": "75秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:41",
+  "files": {
+    "cover_image": "images/7224142198715549752.jpg",
+    "audio": "music/7224142198715549752.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7224142198715549752_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "46.848秒 - 75.456秒 (持续28.608秒)",
+    "start_seconds": 46.848,
+    "duration_seconds": 28.608
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Low",
+      "Danceable",
+      "Dance"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "7494541412545989388",
+  "rank": 11,
+  "title": "第57次取消发送（加速版）",
+  "author": "菲菲公主",
+  "album": "第57次取消发送",
+  "heat": 17429431,
+  "user_count": 180380,
+  "duration": 24,
+  "duration_formatted": "24秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-10 10:40",
+  "files": {
+    "cover_image": "images/7494541412545989388.jpg",
+    "audio": "music/7494541412545989388.mp3",
+    "lyrics": "lyrics/7494541412545989388.lrc",
+    "chorus_lyrics": "chorus_lyrics/7494541412545989388_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7494541412545989388.json",
+    "chorus_raw_lyrics": "raw_lyrics/7494541412545989388_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
+    "start_seconds": 48.768,
+    "duration_seconds": 18.623
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Miss"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Love",
+      "Low"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocPzXIQaurHM1mCBAxWcEUL9ToQA3BQiAEAAi"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}
