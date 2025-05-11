@@ -5,7 +5,7 @@
   "author": "DOS BeatSpace",
   "album": "",
   "heat": 16826342,
-  "user_count": 165988,
+  "user_count": 166239,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-11 07:05",
+  "update_time": "2025-05-11 08:18",
   "files": {
     "cover_image": "images/7499020587487250443.jpg",
-    "audio": "music/7499020587487250443.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7499020587487250443_chorus.mp3"
+    "audio": "assets/music/7499020587487250443.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "17.088秒 - 47.808秒 (持续30.720秒)",
@@ -47,6 +46,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }
