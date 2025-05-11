@@ -5,7 +5,7 @@
   "author": "Playboy",
   "album": "",
   "heat": 16057455,
-  "user_count": 197959,
+  "user_count": 197957,
   "duration": 210,
   "duration_formatted": "210秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 04:54",
+  "update_time": "2025-05-12 06:06",
   "files": {
     "cover_image": "images/7474160548586801162.jpg",
     "audio": "music/7474160548586801162.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7474160548586801162_chorus.mp3"
+    "lyrics": "lyrics/7474160548586801162.lrc",
+    "chorus": "chorus/7474160548586801162_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7474160548586801162_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7474160548586801162.json",
+    "chorus_raw_lyrics": "raw_lyrics/7474160548586801162_chorus.json"
   },
   "high_peak": {
     "time_range": "47.424秒 - 77.183秒 (持续29.759秒)",
