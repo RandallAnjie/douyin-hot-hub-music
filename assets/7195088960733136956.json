@@ -5,7 +5,7 @@
   "author": "Meet遇见",
   "album": "",
   "heat": 17384443,
-  "user_count": 594049,
+  "user_count": 594027,
   "duration": 22,
   "duration_formatted": "22秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 02:05",
+  "update_time": "2025-05-12 03:04",
   "files": {
     "cover_image": "images/7195088960733136956.jpg",
-    "audio": "music/7195088960733136956.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7195088960733136956_chorus.mp3"
+    "audio": "assets/music/7195088960733136956.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "119.808秒 - 142.272秒 (持续22.464秒)",
@@ -46,6 +45,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }

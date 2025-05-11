@@ -5,7 +5,7 @@
   "author": "音乐趴",
   "album": "",
   "heat": 16582080,
-  "user_count": 1930569,
+  "user_count": 1930553,
   "duration": 75,
   "duration_formatted": "75秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 02:06",
+  "update_time": "2025-05-12 03:11",
   "files": {
     "cover_image": "images/7224142198715549752.jpg",
-    "audio": "music/7224142198715549752.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7224142198715549752_chorus.mp3"
+    "audio": "assets/music/7224142198715549752.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "46.848秒 - 75.456秒 (持续28.608秒)",
@@ -47,8 +46,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
