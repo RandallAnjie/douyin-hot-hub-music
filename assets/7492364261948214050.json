@@ -5,7 +5,7 @@
   "author": "菲菲公主",
   "album": "第57次取消发送",
   "heat": 16811270,
-  "user_count": 49954,
+  "user_count": 50017,
   "duration": 17,
   "duration_formatted": "17秒",
   "is_original": false,
@@ -13,15 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 16:08",
+  "update_time": "2025-05-12 17:06",
   "files": {
     "cover_image": "images/7492364261948214050.jpg",
     "audio": "music/7492364261948214050.mp3",
-    "lyrics": "lyrics/7492364261948214050.lrc",
-    "chorus": "chorus/7492364261948214050_chorus.mp3",
-    "chorus_lyrics": "chorus_lyrics/7492364261948214050_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/7492364261948214050.json",
-    "chorus_raw_lyrics": "raw_lyrics/7492364261948214050_chorus.json"
+    "lyrics": "",
+    "chorus": "chorus/7492364261948214050_chorus.mp3"
   },
   "high_peak": {
     "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
@@ -46,7 +43,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocPzXIQaurHM1mCBAxWcEUL9ToQA3BQiAEAAi"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocPzXIQaurHM1mCBAxWcEUL9ToQA3BQiAEAAi"
   },
   "audio_info": {
     "is_full_audio": false,
