@@ -5,7 +5,7 @@
   "author": "Adoreya",
   "album": "",
   "heat": 17961793,
-  "user_count": 476248,
+  "user_count": 477045,
   "duration": 42,
   "duration_formatted": "42秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 20:08",
+  "update_time": "2025-05-12 21:13",
   "files": {
     "cover_image": "images/7425283321644517439.jpg",
-    "audio": "assets/music/7425283321644517439.mp3",
+    "audio": "music/7425283321644517439.mp3",
     "lyrics": ""
   },
   "high_peak": {
