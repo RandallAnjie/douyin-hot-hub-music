@@ -5,7 +5,7 @@
   "author": "雪人",
   "album": "",
   "heat": 16735853,
-  "user_count": 4114492,
+  "user_count": 4115418,
   "duration": 27,
   "duration_formatted": "27秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 18:08",
+  "update_time": "2025-05-12 19:13",
   "files": {
     "cover_image": "images/7252254284351473721.jpg",
-    "audio": "music/7252254284351473721.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7252254284351473721_chorus.mp3"
+    "audio": "assets/music/7252254284351473721.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "0.000秒 - 27.072秒 (持续27.072秒)",
@@ -46,8 +45,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
