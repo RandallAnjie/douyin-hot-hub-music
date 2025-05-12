@@ -5,7 +5,7 @@
   "author": "王力宏",
   "album": "心跳",
   "heat": 16551558,
-  "user_count": 4382551,
+  "user_count": 4383864,
   "duration": 16,
   "duration_formatted": "16秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 19:20",
+  "update_time": "2025-05-12 20:15",
   "files": {
     "cover_image": "images/7482371896877665043.jpg",
     "audio": "music/7482371896877665043.mp3",
@@ -44,7 +44,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEE83AzaEBFfBED3APAAfczWaCFgvd7DuCVfwu"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEE83AzaEBFfBED3APAAfczWaCFgvd7DuCVfwu"
   },
   "audio_info": {
     "is_full_audio": false,
