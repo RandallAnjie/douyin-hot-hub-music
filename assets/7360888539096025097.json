@@ -5,7 +5,7 @@
   "author": "晓晓",
   "album": "",
   "heat": 17168772,
-  "user_count": 7093277,
+  "user_count": 7093139,
   "duration": 35,
   "duration_formatted": "35秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 07:07",
+  "update_time": "2025-05-12 08:18",
   "files": {
     "cover_image": "images/7360888539096025097.jpg",
     "audio": "music/7360888539096025097.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
   },
   "audio_info": {
     "is_full_audio": false,
