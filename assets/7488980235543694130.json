@@ -5,7 +5,7 @@
   "author": "菲菲公主",
   "album": "第57次取消发送",
   "heat": 19260948,
-  "user_count": 2648217,
+  "user_count": 2657235,
   "duration": 12,
   "duration_formatted": "12秒",
   "is_original": false,
@@ -13,14 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-12 13:04",
+  "update_time": "2025-05-12 14:06",
   "files": {
     "cover_image": "images/7488980235543694130.jpg",
     "audio": "music/7488980235543694130.mp3",
-    "lyrics": "lyrics/7488980235543694130.lrc",
-    "chorus_lyrics": "chorus_lyrics/7488980235543694130_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/7488980235543694130.json",
-    "chorus_raw_lyrics": "raw_lyrics/7488980235543694130_chorus.json"
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
@@ -45,7 +42,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocPzXIQaurHM1mCBAxWcEUL9ToQA3BQiAEAAi"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocPzXIQaurHM1mCBAxWcEUL9ToQA3BQiAEAAi"
   },
   "audio_info": {
     "is_full_audio": false,
