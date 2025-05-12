@@ -5,7 +5,7 @@
   "author": "何勒巴",
   "album": "",
   "heat": 16622847,
-  "user_count": 148088,
+  "user_count": 148029,
   "duration": 32,
   "duration_formatted": "32秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-13 00:06",
+  "update_time": "2025-05-13 01:05",
   "files": {
     "cover_image": "images/7490830804307953676.jpg",
     "audio": "music/7490830804307953676.mp3",
@@ -45,7 +45,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
   },
   "audio_info": {
     "is_full_audio": false,
