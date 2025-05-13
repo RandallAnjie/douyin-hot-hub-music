@@ -5,7 +5,7 @@
   "author": "何勒巴",
   "album": "",
   "heat": 16622847,
-  "user_count": 150899,
+  "user_count": 150890,
   "duration": 32,
   "duration_formatted": "32秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-14 03:26",
+  "update_time": "2025-05-14 04:33",
   "files": {
     "cover_image": "images/7490830804307953676.jpg",
     "audio": "music/7490830804307953676.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7490830804307953676_chorus.mp3"
+    "lyrics": "lyrics/7490830804307953676.lrc",
+    "chorus": "chorus/7490830804307953676_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7490830804307953676_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7490830804307953676.json",
+    "chorus_raw_lyrics": "raw_lyrics/7490830804307953676_chorus.json"
   },
   "high_peak": {
     "time_range": "68.736秒 - 100.608秒 (持续31.872秒)",
@@ -42,7 +45,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
   },
   "audio_info": {
     "is_full_audio": false,

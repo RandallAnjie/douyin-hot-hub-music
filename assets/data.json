@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-05-14 04:02:14",
+  "update_time": "2025-05-14 05:01:29",
   "count": 50,
   "musics": [
     {
@@ -9,7 +9,7 @@
       "author": "菲菲公主",
       "album": "第57次取消发送",
       "heat": 19260948,
-      "user_count": 2950820,
+      "user_count": 2951118,
       "duration": 12,
       "duration_formatted": "12秒",
       "is_original": false,
@@ -17,7 +17,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:03",
+      "update_time": "2025-05-14 04:04",
       "files": {
         "cover_image": "images/7488980235543694130.jpg",
         "audio": "music/7488980235543694130.mp3",
@@ -49,7 +49,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMPAkigErQAiiMXgJwWFAaI4j8ACEzATpBIL8"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMPAkigErQAiiMXgJwWFAaI4j8ACEzATpBIL8"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -64,7 +64,7 @@
       "author": "DJ狗峰Remix",
       "album": "",
       "heat": 18709213,
-      "user_count": 274991,
+      "user_count": 274969,
       "duration": 78,
       "duration_formatted": "78秒",
       "is_original": true,
@@ -72,11 +72,12 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:04",
+      "update_time": "2025-05-14 04:04",
       "files": {
         "cover_image": "images/7497599919235434530.jpg",
-        "audio": "assets/music/7497599919235434530.mp3",
+        "audio": "music/7497599919235434530.mp3",
         "lyrics": "lyrics/7497599919235434530.lrc",
+        "chorus": "chorus/7497599919235434530_chorus.mp3",
         "chorus_lyrics": "chorus_lyrics/7497599919235434530_chorus.lrc",
         "raw_lyrics": "raw_lyrics/7497599919235434530.json",
         "chorus_raw_lyrics": "raw_lyrics/7497599919235434530_chorus.json"
@@ -103,12 +104,12 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o0ZASASXCnAIWAho8xCFE4PHIB8fWAKfLgDHt9"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o0ZASASXCnAIWAho8xCFE4PHIB8fWAKfLgDHt9"
       },
       "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
       }
     },
     {
@@ -118,7 +119,7 @@
       "author": "任素汐",
       "album": "亲爱的你啊（电视剧《无尽的尽头》主题曲）",
       "heat": 19093772,
-      "user_count": 1384482,
+      "user_count": 1384754,
       "duration": 31,
       "duration_formatted": "31秒",
       "is_original": false,
@@ -126,7 +127,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:04",
       "files": {
         "cover_image": "images/7499414777794628389.jpg",
         "audio": "music/7499414777794628389.mp3",
@@ -160,7 +161,7 @@
       "author": "神兔小P",
       "album": "",
       "heat": 18560169,
-      "user_count": 651281,
+      "user_count": 651224,
       "duration": 104,
       "duration_formatted": "104秒",
       "is_original": true,
@@ -168,7 +169,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7497920788503758911.jpg",
         "audio": "music/7497920788503758911.mp3",
@@ -214,7 +215,7 @@
       "author": "T-Chenxi",
       "album": "",
       "heat": 18175839,
-      "user_count": 745999,
+      "user_count": 745957,
       "duration": 97,
       "duration_formatted": "97秒",
       "is_original": false,
@@ -222,7 +223,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7393038292575094796.jpg",
         "audio": "music/7393038292575094796.mp3",
@@ -258,7 +259,7 @@
       "author": "Adoreya",
       "album": "",
       "heat": 17961793,
-      "user_count": 484344,
+      "user_count": 484310,
       "duration": 42,
       "duration_formatted": "42秒",
       "is_original": false,
@@ -266,7 +267,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7425283321644517439.jpg",
         "audio": "music/7425283321644517439.mp3",
@@ -308,7 +309,7 @@
       "author": "王睿卓",
       "album": "心中的日月",
       "heat": 17717918,
-      "user_count": 2341953,
+      "user_count": 2341984,
       "duration": 34,
       "duration_formatted": "34秒",
       "is_original": false,
@@ -316,7 +317,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/6994804848738716447.jpg",
         "audio": "music/6994804848738716447.mp3",
@@ -357,7 +358,7 @@
       "author": "三棱镜/zy",
       "album": "call me up",
       "heat": 19420016,
-      "user_count": 281328,
+      "user_count": 281342,
       "duration": 23,
       "duration_formatted": "23秒",
       "is_original": false,
@@ -365,7 +366,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7479039846686657307.jpg",
         "audio": "music/7479039846686657307.mp3",
@@ -413,7 +414,7 @@
       "author": "Kmm",
       "album": "",
       "heat": 17447250,
-      "user_count": 96053,
+      "user_count": 96050,
       "duration": 154,
       "duration_formatted": "154秒",
       "is_original": false,
@@ -421,7 +422,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7433866412206393380.jpg",
         "audio": "music/7433866412206393380.mp3",
@@ -467,7 +468,7 @@
       "author": "窝窝",
       "album": "月亮照山川（DJ默涵版）",
       "heat": 17446308,
-      "user_count": 5231804,
+      "user_count": 5232104,
       "duration": 14,
       "duration_formatted": "14秒",
       "is_original": false,
@@ -475,7 +476,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7492369383168346931.jpg",
         "audio": "music/7492369383168346931.mp3",
@@ -507,7 +508,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4oLIGekZGFtkmAkA5LkBzQABaIAvCXQIJeeDI"
+        "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4oLIGekZGFtkmAkA5LkBzQABaIAvCXQIJeeDI"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -522,7 +523,7 @@
       "author": "菲菲公主",
       "album": "第57次取消发送",
       "heat": 17429431,
-      "user_count": 200009,
+      "user_count": 200006,
       "duration": 24,
       "duration_formatted": "24秒",
       "is_original": false,
@@ -530,14 +531,11 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:05",
       "files": {
         "cover_image": "images/7494541412545989388.jpg",
-        "audio": "music/7494541412545989388.mp3",
-        "lyrics": "lyrics/7494541412545989388.lrc",
-        "chorus_lyrics": "chorus_lyrics/7494541412545989388_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7494541412545989388.json",
-        "chorus_raw_lyrics": "raw_lyrics/7494541412545989388_chorus.json"
+        "audio": "assets/music/7494541412545989388.mp3",
+        "lyrics": ""
       },
       "high_peak": {
         "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
@@ -577,7 +575,7 @@
       "author": "Meet遇见",
       "album": "",
       "heat": 17384443,
-      "user_count": 600129,
+      "user_count": 600142,
       "duration": 22,
       "duration_formatted": "22秒",
       "is_original": true,
@@ -585,12 +583,11 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:18",
       "files": {
         "cover_image": "images/7195088960733136956.jpg",
-        "audio": "music/7195088960733136956.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7195088960733136956_chorus.mp3"
+        "audio": "assets/music/7195088960733136956.mp3",
+        "lyrics": ""
       },
       "high_peak": {
         "time_range": "119.808秒 - 142.272秒 (持续22.464秒)",
@@ -618,7 +615,7 @@
       "audio_info": {
         "is_full_audio": false,
         "audio_type": "chorus",
-        "has_chorus_segment": true
+        "has_chorus_segment": false
       }
     },
     {
@@ -628,7 +625,7 @@
       "author": "流浪声乐生",
       "album": "蝴蝶飞了一整天",
       "heat": 18249046,
-      "user_count": 18111,
+      "user_count": 18116,
       "duration": 43,
       "duration_formatted": "43秒",
       "is_original": false,
@@ -636,7 +633,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:25",
       "files": {
         "cover_image": "images/7495726041175132177.jpg",
         "audio": "music/7495726041175132177.mp3",
@@ -681,7 +678,7 @@
       "author": "菲菲公主",
       "album": "第57次取消发送",
       "heat": 17364394,
-      "user_count": 318627,
+      "user_count": 318578,
       "duration": 21,
       "duration_formatted": "21秒",
       "is_original": false,
@@ -689,7 +686,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:25",
       "files": {
         "cover_image": "images/7495421999381170982.jpg",
         "audio": "music/7495421999381170982.mp3",
@@ -722,7 +719,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMPAkigErQAiiMXgJwWFAaI4j8ACEzATpBIL8"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMPAkigErQAiiMXgJwWFAaI4j8ACEzATpBIL8"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -737,7 +734,7 @@
       "author": "Daya & Alan Walker",
       "album": "Hide Away (Alan Walker Remix)",
       "heat": 17244233,
-      "user_count": 809256,
+      "user_count": 809238,
       "duration": 30,
       "duration_formatted": "30秒",
       "is_original": false,
@@ -745,7 +742,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:25",
       "files": {
         "cover_image": "images/7364578014729226241.jpg",
         "audio": "music/7364578014729226241.mp3",
@@ -793,7 +790,7 @@
       "author": "Jeff Jarvis",
       "album": "Off The Hook",
       "heat": 17240202,
-      "user_count": 4035711,
+      "user_count": 4035715,
       "duration": 191,
       "duration_formatted": "191秒",
       "is_original": false,
@@ -801,12 +798,11 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:25",
       "files": {
         "cover_image": "images/7483124696051386369.jpg",
-        "audio": "music/7483124696051386369.mp3",
+        "audio": "assets/music/7483124696051386369.mp3",
         "lyrics": "lyrics/7483124696051386369.lrc",
-        "chorus": "chorus/7483124696051386369_chorus.mp3",
         "chorus_lyrics": "chorus_lyrics/7483124696051386369_chorus.lrc",
         "raw_lyrics": "raw_lyrics/7483124696051386369.json",
         "chorus_raw_lyrics": "raw_lyrics/7483124696051386369_chorus.json"
@@ -836,9 +832,9 @@
         "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8IQPPTEgdZiDB07WAg09AZoiA0rdkABBEPAr"
       },
       "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
       }
     },
     {
@@ -848,7 +844,7 @@
       "author": "晓晓",
       "album": "",
       "heat": 17168772,
-      "user_count": 7086475,
+      "user_count": 7086442,
       "duration": 35,
       "duration_formatted": "35秒",
       "is_original": false,
@@ -856,7 +852,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7360888539096025097.jpg",
         "audio": "music/7360888539096025097.mp3",
@@ -891,7 +887,7 @@
         ]
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -906,7 +902,7 @@
       "author": "蓝馍馍",
       "album": "",
       "heat": 16989995,
-      "user_count": 147283,
+      "user_count": 147285,
       "duration": 37,
       "duration_formatted": "37秒",
       "is_original": true,
@@ -914,7 +910,7 @@
       "is_aed_music": true,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/6842162303987615757.jpg",
         "audio": "music/6842162303987615757.mp3",
@@ -960,7 +956,7 @@
       "author": "徐槿焱",
       "album": "",
       "heat": 16832448,
-      "user_count": 1822236,
+      "user_count": 1822200,
       "duration": 61,
       "duration_formatted": "61秒",
       "is_original": false,
@@ -968,11 +964,14 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:11",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7497884325994694694.jpg",
         "audio": "music/7497884325994694694.mp3",
-        "lyrics": ""
+        "lyrics": "lyrics/7497884325994694694.lrc",
+        "chorus_lyrics": "chorus_lyrics/7497884325994694694_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7497884325994694694.json",
+        "chorus_raw_lyrics": "raw_lyrics/7497884325994694694_chorus.json"
       },
       "high_peak": {
         "time_range": "181.824秒 - 205.631秒 (持续23.807秒)",
@@ -1015,7 +1014,7 @@
       "author": "DOS BeatSpace",
       "album": "",
       "heat": 16826342,
-      "user_count": 222403,
+      "user_count": 222401,
       "duration": 30,
       "duration_formatted": "30秒",
       "is_original": false,
@@ -1023,7 +1022,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:18",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7499020587487250443.jpg",
         "audio": "music/7499020587487250443.mp3",
@@ -1067,7 +1066,7 @@
       "author": "菲菲公主",
       "album": "第57次取消发送",
       "heat": 16811270,
-      "user_count": 52265,
+      "user_count": 52255,
       "duration": 17,
       "duration_formatted": "17秒",
       "is_original": false,
@@ -1075,12 +1074,15 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:18",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7492364261948214050.jpg",
         "audio": "music/7492364261948214050.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7492364261948214050_chorus.mp3"
+        "lyrics": "lyrics/7492364261948214050.lrc",
+        "chorus": "chorus/7492364261948214050_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7492364261948214050_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7492364261948214050.json",
+        "chorus_raw_lyrics": "raw_lyrics/7492364261948214050_chorus.json"
       },
       "high_peak": {
         "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
@@ -1120,7 +1122,7 @@
       "author": "Lunak",
       "album": "Hide Away（Techno）",
       "heat": 16807634,
-      "user_count": 287050,
+      "user_count": 287060,
       "duration": 17,
       "duration_formatted": "17秒",
       "is_original": false,
@@ -1128,7 +1130,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:25",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7481979078522719039.jpg",
         "audio": "music/7481979078522719039.mp3",
@@ -1171,7 +1173,7 @@
       "author": "slow_77",
       "album": "西厢寻他（0.8x）",
       "heat": 16741167,
-      "user_count": 166891,
+      "user_count": 166902,
       "duration": 40,
       "duration_formatted": "40秒",
       "is_original": false,
@@ -1179,7 +1181,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:25",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7470425414512969744.jpg",
         "audio": "music/7470425414512969744.mp3",
@@ -1212,7 +1214,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oArFMfAbCGbIrf9hEVIAhe1evzcAoLIGAmYIOf"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oArFMfAbCGbIrf9hEVIAhe1evzcAoLIGAmYIOf"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -1227,7 +1229,7 @@
       "author": "雪人",
       "album": "",
       "heat": 16735853,
-      "user_count": 4137964,
+      "user_count": 4138037,
       "duration": 27,
       "duration_formatted": "27秒",
       "is_original": true,
@@ -1235,7 +1237,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:26",
+      "update_time": "2025-05-14 04:32",
       "files": {
         "cover_image": "images/7252254284351473721.jpg",
         "audio": "music/7252254284351473721.mp3",
@@ -1280,7 +1282,7 @@
       "author": "菲菲公主",
       "album": "第57次取消发送",
       "heat": 16668670,
-      "user_count": 86090,
+      "user_count": 86295,
       "duration": 155,
       "duration_formatted": "155秒",
       "is_original": true,
@@ -1288,7 +1290,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:26",
+      "update_time": "2025-05-14 04:33",
       "files": {
         "cover_image": "images/7491130229642512401.jpg",
         "audio": "music/7491130229642512401.mp3",
@@ -1336,7 +1338,7 @@
       "author": "何勒巴",
       "album": "",
       "heat": 16622847,
-      "user_count": 150899,
+      "user_count": 150890,
       "duration": 32,
       "duration_formatted": "32秒",
       "is_original": false,
@@ -1344,12 +1346,15 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:26",
+      "update_time": "2025-05-14 04:33",
       "files": {
         "cover_image": "images/7490830804307953676.jpg",
         "audio": "music/7490830804307953676.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7490830804307953676_chorus.mp3"
+        "lyrics": "lyrics/7490830804307953676.lrc",
+        "chorus": "chorus/7490830804307953676_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7490830804307953676_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7490830804307953676.json",
+        "chorus_raw_lyrics": "raw_lyrics/7490830804307953676_chorus.json"
       },
       "high_peak": {
         "time_range": "68.736秒 - 100.608秒 (持续31.872秒)",
@@ -1373,7 +1378,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -1388,7 +1393,7 @@
       "author": "施正泽",
       "album": "",
       "heat": 16608280,
-      "user_count": 979538,
+      "user_count": 979561,
       "duration": 38,
       "duration_formatted": "38秒",
       "is_original": false,
@@ -1396,7 +1401,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:33",
+      "update_time": "2025-05-14 04:33",
       "files": {
         "cover_image": "images/7495698966752757779.jpg",
         "audio": "music/7495698966752757779.mp3",
@@ -1427,7 +1432,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osPiaAAIBJiArlAJATWEEnoawHKmZllQZ6AQE"
+        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osPiaAAIBJiArlAJATWEEnoawHKmZllQZ6AQE"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -1442,7 +1447,7 @@
       "author": "音乐趴",
       "album": "",
       "heat": 16582080,
-      "user_count": 1928652,
+      "user_count": 1928649,
       "duration": 75,
       "duration_formatted": "75秒",
       "is_original": true,
@@ -1450,7 +1455,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:33",
+      "update_time": "2025-05-14 04:33",
       "files": {
         "cover_image": "images/7224142198715549752.jpg",
         "audio": "music/7224142198715549752.mp3",
@@ -1496,7 +1501,7 @@
       "author": "王力宏",
       "album": "心跳",
       "heat": 16551558,
-      "user_count": 4400298,
+      "user_count": 4400190,
       "duration": 16,
       "duration_formatted": "16秒",
       "is_original": false,
@@ -1504,14 +1509,11 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:33",
+      "update_time": "2025-05-14 04:33",
       "files": {
         "cover_image": "images/7482371896877665043.jpg",
         "audio": "music/7482371896877665043.mp3",
-        "lyrics": "lyrics/7482371896877665043.lrc",
-        "chorus_lyrics": "chorus_lyrics/7482371896877665043_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7482371896877665043.json",
-        "chorus_raw_lyrics": "raw_lyrics/7482371896877665043_chorus.json"
+        "lyrics": ""
       },
       "high_peak": {
         "time_range": "96.384秒 - 147.455秒 (持续51.071秒)",
@@ -1535,7 +1537,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEE83AzaEBFfBED3APAAfczWaCFgvd7DuCVfwu"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEE83AzaEBFfBED3APAAfczWaCFgvd7DuCVfwu"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -1550,7 +1552,7 @@
       "author": "4Hunnid",
       "album": "",
       "heat": 16536757,
-      "user_count": 21195,
+      "user_count": 21194,
       "duration": 245,
       "duration_formatted": "245秒",
       "is_original": true,
@@ -1558,11 +1560,12 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:33",
+      "update_time": "2025-05-14 04:39",
       "files": {
         "cover_image": "images/7238106858339190845.jpg",
-        "audio": "assets/music/7238106858339190845.mp3",
-        "lyrics": ""
+        "audio": "music/7238106858339190845.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7238106858339190845_chorus.mp3"
       },
       "high_peak": {
         "time_range": "25.728秒 - 71.424秒 (持续45.696秒)",
@@ -1589,9 +1592,9 @@
         "lyric_url": ""
       },
       "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
       }
     },
     {
@@ -1601,7 +1604,7 @@
       "author": "DLSS",
       "album": "",
       "heat": 16533246,
-      "user_count": 23441,
+      "user_count": 23436,
       "duration": 118,
       "duration_formatted": "118秒",
       "is_original": false,
@@ -1609,7 +1612,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:40",
+      "update_time": "2025-05-14 04:40",
       "files": {
         "cover_image": "images/7488770538384066598.jpg",
         "audio": "music/7488770538384066598.mp3",
@@ -1640,7 +1643,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osJdfCDHTAAATFZNoG16EACtgEMcBerEAA0AE2"
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osJdfCDHTAAATFZNoG16EACtgEMcBerEAA0AE2"
       },
       "audio_info": {
         "is_full_audio": true,
@@ -1655,7 +1658,7 @@
       "author": "哈口HaKo",
       "album": "",
       "heat": 16483238,
-      "user_count": 369802,
+      "user_count": 369783,
       "duration": 45,
       "duration_formatted": "45秒",
       "is_original": false,
@@ -1663,10 +1666,10 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:40",
+      "update_time": "2025-05-14 04:40",
       "files": {
         "cover_image": "images/7493124665259870242.jpg",
-        "audio": "assets/music/7493124665259870242.mp3",
+        "audio": "music/7493124665259870242.mp3",
         "lyrics": ""
       },
       "high_peak": {
@@ -1697,7 +1700,7 @@
       "author": "暴躁默",
       "album": "最近",
       "heat": 16457213,
-      "user_count": 273770,
+      "user_count": 273771,
       "duration": 19,
       "duration_formatted": "19秒",
       "is_original": false,
@@ -1705,7 +1708,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:47",
+      "update_time": "2025-05-14 04:40",
       "files": {
         "cover_image": "images/7486422980302818111.jpg",
         "audio": "music/7486422980302818111.mp3",
@@ -1739,7 +1742,7 @@
       "author": "李雪萌 & 李璟崎KevinGee",
       "album": "",
       "heat": 16444622,
-      "user_count": 1268481,
+      "user_count": 1268480,
       "duration": 28,
       "duration_formatted": "28秒",
       "is_original": false,
@@ -1747,15 +1750,12 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:47",
+      "update_time": "2025-05-14 04:40",
       "files": {
         "cover_image": "images/7372012991927093274.jpg",
         "audio": "music/7372012991927093274.mp3",
-        "lyrics": "lyrics/7372012991927093274.lrc",
-        "chorus": "chorus/7372012991927093274_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7372012991927093274_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7372012991927093274.json",
-        "chorus_raw_lyrics": "raw_lyrics/7372012991927093274_chorus.json"
+        "lyrics": "",
+        "chorus": "chorus/7372012991927093274_chorus.mp3"
       },
       "high_peak": {
         "time_range": "96.768秒 - 124.800秒 (持续28.032秒)",
@@ -1782,7 +1782,7 @@
         ]
       },
       "music_info": {
-        "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIIMgFfMEtIAqgzCafAIIGFEJfAqAO0jDOBICE"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIIMgFfMEtIAqgzCafAIIGFEJfAqAO0jDOBICE"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -1797,7 +1797,7 @@
       "author": "BOKIE",
       "album": "COME BABY!",
       "heat": 16412409,
-      "user_count": 33067,
+      "user_count": 33083,
       "duration": 20,
       "duration_formatted": "20秒",
       "is_original": false,
@@ -1805,10 +1805,10 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:47",
+      "update_time": "2025-05-14 04:46",
       "files": {
         "cover_image": "images/7497320218546931729.jpg",
-        "audio": "assets/music/7497320218546931729.mp3",
+        "audio": "music/7497320218546931729.mp3",
         "lyrics": ""
       },
       "high_peak": {
@@ -1848,7 +1848,7 @@
       "author": "Lady Jane Music",
       "album": "",
       "heat": 16350733,
-      "user_count": 25398,
+      "user_count": 25390,
       "duration": 73,
       "duration_formatted": "73秒",
       "is_original": true,
@@ -1856,7 +1856,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:47",
       "files": {
         "cover_image": "images/7497326726537414691.jpg",
         "audio": "music/7497326726537414691.mp3",
@@ -1900,7 +1900,7 @@
       "author": "沃沃",
       "album": "",
       "heat": 16290648,
-      "user_count": 989978,
+      "user_count": 990004,
       "duration": 34,
       "duration_formatted": "34秒",
       "is_original": false,
@@ -1908,7 +1908,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:47",
       "files": {
         "cover_image": "images/7492985927913900041.jpg",
         "audio": "music/7492985927913900041.mp3",
@@ -1942,7 +1942,7 @@
       "author": "神兔小P",
       "album": "",
       "heat": 16275572,
-      "user_count": 130656,
+      "user_count": 130657,
       "duration": 168,
       "duration_formatted": "168秒",
       "is_original": false,
@@ -1950,7 +1950,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:47",
       "files": {
         "cover_image": "images/7451222916757194789.jpg",
         "audio": "music/7451222916757194789.mp3",
@@ -1982,7 +1982,7 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQfnKyZBtdDaVqlE3HFwNEAAAHA7EgBehVACiC"
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQfnKyZBtdDaVqlE3HFwNEAAAHA7EgBehVACiC"
       },
       "audio_info": {
         "is_full_audio": true,
@@ -2005,7 +2005,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:47",
       "files": {
         "cover_image": "images/7129703375939045378.jpg",
         "audio": "music/7129703375939045378.mp3",
@@ -2053,7 +2053,7 @@
       "author": "翼",
       "album": "",
       "heat": 16243728,
-      "user_count": 3363980,
+      "user_count": 3363956,
       "duration": 70,
       "duration_formatted": "70秒",
       "is_original": true,
@@ -2061,7 +2061,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:47",
       "files": {
         "cover_image": "images/7217699675418691643.jpg",
         "audio": "music/7217699675418691643.mp3",
@@ -2105,7 +2105,7 @@
       "author": "19",
       "album": "",
       "heat": 16239562,
-      "user_count": 272731,
+      "user_count": 272718,
       "duration": 180,
       "duration_formatted": "180秒",
       "is_original": false,
@@ -2113,12 +2113,11 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:47",
       "files": {
         "cover_image": "images/7471953276247902244.jpg",
-        "audio": "music/7471953276247902244.mp3",
+        "audio": "assets/music/7471953276247902244.mp3",
         "lyrics": "lyrics/7471953276247902244.lrc",
-        "chorus": "chorus/7471953276247902244_chorus.mp3",
         "chorus_lyrics": "chorus_lyrics/7471953276247902244_chorus.lrc",
         "raw_lyrics": "raw_lyrics/7471953276247902244.json",
         "chorus_raw_lyrics": "raw_lyrics/7471953276247902244_chorus.json"
@@ -2146,12 +2145,12 @@
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMfZItHnorwxFA8tuGBDIaEQgAFfAnCqtnDCAE"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMfZItHnorwxFA8tuGBDIaEQgAFfAnCqtnDCAE"
       },
       "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
       }
     },
     {
@@ -2161,7 +2160,7 @@
       "author": "BCD Studio",
       "album": "Take it easy",
       "heat": 16204562,
-      "user_count": 1597939,
+      "user_count": 1597928,
       "duration": 3,
       "duration_formatted": "3秒",
       "is_original": false,
@@ -2169,7 +2168,7 @@
       "is_aed_music": true,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:54",
       "files": {
         "cover_image": "images/6990639268368484354.jpg",
         "audio": "music/6990639268368484354.mp3",
@@ -2210,7 +2209,7 @@
       "author": "彭小羽&林尘宇",
       "album": "",
       "heat": 16190079,
-      "user_count": 236328,
+      "user_count": 236343,
       "duration": 303,
       "duration_formatted": "303秒",
       "is_original": true,
@@ -2218,7 +2217,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:54",
       "files": {
         "cover_image": "images/7319391505642620978.jpg",
         "audio": "music/7319391505642620978.mp3",
@@ -2260,7 +2259,7 @@
       "author": "腾&杨邪",
       "album": "天空闪耀",
       "heat": 16166856,
-      "user_count": 110435,
+      "user_count": 110434,
       "duration": 104,
       "duration_formatted": "104秒",
       "is_original": true,
@@ -2268,7 +2267,7 @@
       "is_aed_music": true,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:54",
       "files": {
         "cover_image": "images/6870911260309850120.jpg",
         "audio": "music/6870911260309850120.mp3",
@@ -2319,7 +2318,7 @@
       "author": "隔壁王叔",
       "album": "",
       "heat": 16124933,
-      "user_count": 19745135,
+      "user_count": 19745163,
       "duration": 171,
       "duration_formatted": "171秒",
       "is_original": false,
@@ -2327,7 +2326,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 03:54",
+      "update_time": "2025-05-14 04:54",
       "files": {
         "cover_image": "images/7368081694577117220.jpg",
         "audio": "music/7368081694577117220.mp3",
@@ -2373,7 +2372,7 @@
       "author": "Playboy",
       "album": "",
       "heat": 16057455,
-      "user_count": 202016,
+      "user_count": 202015,
       "duration": 210,
       "duration_formatted": "210秒",
       "is_original": false,
@@ -2381,7 +2380,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 04:01",
+      "update_time": "2025-05-14 05:01",
       "files": {
         "cover_image": "images/7474160548586801162.jpg",
         "audio": "music/7474160548586801162.mp3",
@@ -2425,7 +2424,7 @@
       "author": "磨尖的粉笔",
       "album": "",
       "heat": 16009468,
-      "user_count": 376486,
+      "user_count": 376465,
       "duration": 43,
       "duration_formatted": "43秒",
       "is_original": false,
@@ -2433,7 +2432,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 04:02",
+      "update_time": "2025-05-14 05:01",
       "files": {
         "cover_image": "images/7443058102645180453.jpg",
         "audio": "music/7443058102645180453.mp3",
@@ -2478,7 +2477,7 @@
       "author": "林景云NuNew (Chawarin Perdpiriyawong)",
       "album": "风月",
       "heat": 15963352,
-      "user_count": 166860,
+      "user_count": 166849,
       "duration": 38,
       "duration_formatted": "38秒",
       "is_original": false,
@@ -2486,7 +2485,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 04:02",
+      "update_time": "2025-05-14 05:01",
       "files": {
         "cover_image": "images/7481647215270710057.jpg",
         "audio": "music/7481647215270710057.mp3",
@@ -2520,7 +2519,7 @@
       "author": "李浩岩吖",
       "album": "低调奢华",
       "heat": 15955401,
-      "user_count": 32156,
+      "user_count": 32164,
       "duration": 57,
       "duration_formatted": "57秒",
       "is_original": false,
@@ -2528,7 +2527,7 @@
       "is_aed_music": true,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 04:02",
+      "update_time": "2025-05-14 05:01",
       "files": {
         "cover_image": "images/6872378706799626248.jpg",
         "audio": "music/6872378706799626248.mp3",
@@ -2573,7 +2572,7 @@
       "author": "Steven / Zy",
       "album": "谁会来拆穿（如果爱你注定要多一点等候）",
       "heat": 15917040,
-      "user_count": 83171,
+      "user_count": 83141,
       "duration": 26,
       "duration_formatted": "26秒",
       "is_original": false,
@@ -2581,7 +2580,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-14 04:02",
+      "update_time": "2025-05-14 05:01",
       "files": {
         "cover_image": "images/7495937133234276368.jpg",
         "audio": "music/7495937133234276368.mp3",
