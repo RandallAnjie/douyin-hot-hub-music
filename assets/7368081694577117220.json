@@ -5,7 +5,7 @@
   "author": "隔壁王叔",
   "album": "",
   "heat": 16124933,
-  "user_count": 19745163,
+  "user_count": 19745228,
   "duration": 171,
   "duration_formatted": "171秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-14 04:54",
+  "update_time": "2025-05-14 05:06",
   "files": {
     "cover_image": "images/7368081694577117220.jpg",
     "audio": "music/7368081694577117220.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7368081694577117220_chorus.mp3"
+    "lyrics": "lyrics/7368081694577117220.lrc",
+    "chorus": "chorus/7368081694577117220_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7368081694577117220_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7368081694577117220.json",
+    "chorus_raw_lyrics": "raw_lyrics/7368081694577117220_chorus.json"
   },
   "high_peak": {
     "time_range": "108.096秒 - 139.968秒 (持续31.872秒)",

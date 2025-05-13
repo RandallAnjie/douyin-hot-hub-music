@@ -5,7 +5,7 @@
   "author": "菲菲公主",
   "album": "第57次取消发送",
   "heat": 17429431,
-  "user_count": 200006,
+  "user_count": 199986,
   "duration": 24,
   "duration_formatted": "24秒",
   "is_original": false,
@@ -13,11 +13,14 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-14 04:05",
+  "update_time": "2025-05-14 05:04",
   "files": {
     "cover_image": "images/7494541412545989388.jpg",
-    "audio": "assets/music/7494541412545989388.mp3",
-    "lyrics": ""
+    "audio": "music/7494541412545989388.mp3",
+    "lyrics": "lyrics/7494541412545989388.lrc",
+    "chorus_lyrics": "chorus_lyrics/7494541412545989388_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7494541412545989388.json",
+    "chorus_raw_lyrics": "raw_lyrics/7494541412545989388_chorus.json"
   },
   "high_peak": {
     "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
