@@ -2,32 +2,17 @@
   {
     "start_time": 0.93,
     "end_time": 5.93,
-    "content": "Boys seem to like the girls"
-  },
-  {
-    "start_time": 2.45,
-    "end_time": 7.45,
-    "content": "Who laugh at anything"
+    "content": "Boys seem to like the girls who laugh at anything"
   },
   {
     "start_time": 4.69,
     "end_time": 9.690000000000001,
-    "content": "The ones who get undressed"
-  },
-  {
-    "start_time": 6.14,
-    "end_time": 11.14,
-    "content": "Before the second date"
+    "content": "The ones who get undressed before the second date"
   },
   {
     "start_time": 8.29,
     "end_time": 13.29,
-    "content": "Girls seem to like the boys"
-  },
-  {
-    "start_time": 9.89,
-    "end_time": 14.89,
-    "content": "Who don't appreciate"
+    "content": "Girls seem to like the boys who don't appreciate"
   },
   {
     "start_time": 11.41,
@@ -42,7 +27,7 @@
   {
     "start_time": 18.77,
     "end_time": 23.77,
-    "content": "Got my both eyes out for Mr Right"
+    "content": "Got my both eyes out for Mr.Right"
   },
   {
     "start_time": 22.37,
@@ -75,14 +60,29 @@
     "content": "Where do the good boys go to hide away, hide away?"
   },
   {
-    "start_time": 60.01,
-    "end_time": 65.00999999999999,
-    "content": "Boys seem to like the girls"
+    "start_time": 45.05,
+    "end_time": 50.05,
+    "content": "Hide away, hide away"
   },
   {
-    "start_time": 61.56,
-    "end_time": 66.56,
-    "content": "Who like to kiss and tell"
+    "start_time": 51.73,
+    "end_time": 56.73,
+    "content": "Where do the"
+  },
+  {
+    "start_time": 56.17,
+    "end_time": 61.17,
+    "content": "Hide away"
+  },
+  {
+    "start_time": 57.97,
+    "end_time": 62.97,
+    "content": "Hide away"
+  },
+  {
+    "start_time": 60.01,
+    "end_time": 65.00999999999999,
+    "content": "Boys seem to like the girls who like to kiss and tell"
   },
   {
     "start_time": 63.77,
@@ -92,21 +92,16 @@
   {
     "start_time": 67.29,
     "end_time": 72.29,
-    "content": "But I'd rather find a boy"
+    "content": "But I'd rather find a boy who is down for the chase"
   },
   {
-    "start_time": 68.93,
-    "end_time": 73.93,
-    "content": "Who is down for the chase"
-  },
-  {
-    "start_time": 71.44,
-    "end_time": 76.44,
+    "start_time": 70.93,
+    "end_time": 75.93,
     "content": "Putting in the time that it takes"
   },
   {
-    "start_time": 74.24,
-    "end_time": 79.24,
+    "start_time": 73.93,
+    "end_time": 78.93,
     "content": "Where do the good boys go to hide away, hide away?"
   },
   {
@@ -123,5 +118,65 @@
     "start_time": 85.02,
     "end_time": 90.02,
     "content": "Where do the good boys go to hide away, hide away?"
+  },
+  {
+    "start_time": 89.13,
+    "end_time": 94.13,
+    "content": "Hide away, hide away"
+  },
+  {
+    "start_time": 101.05,
+    "end_time": 106.05,
+    "content": "Hide away"
+  },
+  {
+    "start_time": 102.21,
+    "end_time": 107.21,
+    "content": "Hide away"
+  },
+  {
+    "start_time": 104.55,
+    "end_time": 109.55,
+    "content": "Where do the good boys go to hide away, hide away?"
+  },
+  {
+    "start_time": 110.81,
+    "end_time": 115.81,
+    "content": "Where do the good good girl who needs a little company"
+  },
+  {
+    "start_time": 115.21,
+    "end_time": 120.21,
+    "content": "Hide away"
+  },
+  {
+    "start_time": 117.47,
+    "end_time": 122.47,
+    "content": "Hide away"
+  },
+  {
+    "start_time": 119.31,
+    "end_time": 124.31,
+    "content": "Hide away, hide away"
+  },
+  {
+    "start_time": 123.05,
+    "end_time": 128.05,
+    "content": "Hide away, hide away"
+  },
+  {
+    "start_time": 126.86,
+    "end_time": 131.86,
+    "content": "good good girl"
+  },
+  {
+    "start_time": 130.01,
+    "end_time": 135.01,
+    "content": "Hide away, hide away"
+  },
+  {
+    "start_time": 133.25,
+    "end_time": 138.25,
+    "content": "All the money and the time that it takes"
   }
 ]
