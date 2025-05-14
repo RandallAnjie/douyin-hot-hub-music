@@ -5,7 +5,7 @@
   "author": "李浩岩吖",
   "album": "低调奢华",
   "heat": 15955401,
-  "user_count": 34103,
+  "user_count": 34164,
   "duration": 57,
   "duration_formatted": "57秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": true,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-14 22:08",
+  "update_time": "2025-05-15 00:12",
   "files": {
     "cover_image": "images/6872378706799626248.jpg",
-    "audio": "assets/music/6872378706799626248.mp3",
-    "lyrics": ""
+    "audio": "music/6872378706799626248.mp3",
+    "lyrics": "",
+    "chorus": "chorus/6872378706799626248_chorus.mp3"
   },
   "high_peak": {
     "time_range": "17.280秒 - 56.832秒 (持续39.552秒)",
@@ -45,8 +46,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
