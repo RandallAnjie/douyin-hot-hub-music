@@ -5,7 +5,7 @@
   "author": "bbno$",
   "album": "sophisticated",
   "heat": 16247639,
-  "user_count": 81954,
+  "user_count": 81997,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-15 00:11",
+  "update_time": "2025-05-15 01:05",
   "files": {
     "cover_image": "images/7129703375939045378.jpg",
     "audio": "music/7129703375939045378.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/941c0831efd24e2083b0c51a73f4b0d8"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/941c0831efd24e2083b0c51a73f4b0d8"
   },
   "audio_info": {
     "is_full_audio": false,
