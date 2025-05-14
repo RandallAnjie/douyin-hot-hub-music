@@ -5,7 +5,7 @@
   "author": "流浪声乐生",
   "album": "蝴蝶飞了一整天",
   "heat": 18249046,
-  "user_count": 18781,
+  "user_count": 18965,
   "duration": 43,
   "duration_formatted": "43秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-14 13:05",
+  "update_time": "2025-05-14 14:07",
   "files": {
     "cover_image": "images/7495726041175132177.jpg",
     "audio": "music/7495726041175132177.mp3",
@@ -40,7 +40,9 @@
     "Themes": [
       "Love"
     ],
-    "SingingVersions": null
+    "SingingVersions": [
+      "republished version"
+    ]
   },
   "music_info": {
     "lyric_url": ""
