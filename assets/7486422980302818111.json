@@ -5,7 +5,7 @@
   "author": "暴躁默",
   "album": "最近",
   "heat": 16457213,
-  "user_count": 276183,
+  "user_count": 276253,
   "duration": 19,
   "duration_formatted": "19秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-15 22:08",
+  "update_time": "2025-05-15 23:06",
   "files": {
     "cover_image": "images/7486422980302818111.jpg",
-    "audio": "assets/music/7486422980302818111.mp3",
+    "audio": "music/7486422980302818111.mp3",
     "lyrics": ""
   },
   "high_peak": {
