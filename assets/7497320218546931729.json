@@ -5,7 +5,7 @@
   "author": "BOKIE",
   "album": "COME BABY!",
   "heat": 16412409,
-  "user_count": 35452,
+  "user_count": 35458,
   "duration": 20,
   "duration_formatted": "20秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-16 15:07",
+  "update_time": "2025-05-16 16:28",
   "files": {
     "cover_image": "images/7497320218546931729.jpg",
-    "audio": "music/7497320218546931729.mp3",
+    "audio": "assets/music/7497320218546931729.mp3",
     "lyrics": ""
   },
   "high_peak": {
