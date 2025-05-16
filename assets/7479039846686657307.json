@@ -5,7 +5,7 @@
   "author": "三棱镜/zy",
   "album": "call me up",
   "heat": 19420016,
-  "user_count": 289664,
+  "user_count": 289949,
   "duration": 23,
   "duration_formatted": "23秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-16 18:05",
+  "update_time": "2025-05-16 19:05",
   "files": {
     "cover_image": "images/7479039846686657307.jpg",
     "audio": "music/7479039846686657307.mp3",
@@ -46,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ownPaLAqAEMEQKiAvwWidMAxDPbArA54BrICQ"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ownPaLAqAEMEQKiAvwWidMAxDPbArA54BrICQ"
   },
   "audio_info": {
     "is_full_audio": false,
