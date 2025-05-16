@@ -1,11 +1,11 @@
 {
   "id": "7360888539096025097",
-  "rank": 17,
+  "rank": 16,
   "title": "五一假期快乐无比DJ（主歌）",
   "author": "晓晓",
   "album": "",
   "heat": 17168772,
-  "user_count": 7077018,
+  "user_count": 7076781,
   "duration": 35,
   "duration_formatted": "35秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-16 19:06",
+  "update_time": "2025-05-16 20:09",
   "files": {
     "cover_image": "images/7360888539096025097.jpg",
     "audio": "music/7360888539096025097.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
   },
   "audio_info": {
     "is_full_audio": false,

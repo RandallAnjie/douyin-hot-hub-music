@@ -1,11 +1,11 @@
 {
   "id": "7129703375939045378",
-  "rank": 39,
+  "rank": 38,
   "title": "sophisticated",
   "author": "bbno$",
   "album": "sophisticated",
   "heat": 16247639,
-  "user_count": 83802,
+  "user_count": 83883,
   "duration": 60,
   "duration_formatted": "60秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-16 19:07",
+  "update_time": "2025-05-16 20:10",
   "files": {
     "cover_image": "images/7129703375939045378.jpg",
     "audio": "music/7129703375939045378.mp3",

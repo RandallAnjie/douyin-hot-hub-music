@@ -1,11 +1,11 @@
 {
   "id": "7224142198715549752",
-  "rank": 28,
+  "rank": 27,
   "title": "劳动最光荣(五一劳动节快乐)",
   "author": "音乐趴",
   "album": "",
   "heat": 16582080,
-  "user_count": 1926359,
+  "user_count": 1926323,
   "duration": 75,
   "duration_formatted": "75秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-16 19:06",
+  "update_time": "2025-05-16 20:10",
   "files": {
     "cover_image": "images/7224142198715549752.jpg",
     "audio": "music/7224142198715549752.mp3",
