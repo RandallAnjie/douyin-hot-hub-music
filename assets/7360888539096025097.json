@@ -5,7 +5,7 @@
   "author": "晓晓",
   "album": "",
   "heat": 17168772,
-  "user_count": 7074806,
+  "user_count": 7074685,
   "duration": 35,
   "duration_formatted": "35秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-17 13:05",
+  "update_time": "2025-05-17 14:12",
   "files": {
     "cover_image": "images/7360888539096025097.jpg",
-    "audio": "assets/music/7360888539096025097.mp3",
+    "audio": "music/7360888539096025097.mp3",
     "lyrics": "lyrics/7360888539096025097.lrc",
+    "chorus": "chorus/7360888539096025097_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7360888539096025097_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7360888539096025097.json",
     "chorus_raw_lyrics": "raw_lyrics/7360888539096025097_chorus.json"
@@ -47,11 +48,11 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
   },
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": false
+    "has_chorus_segment": true
   }
 }
