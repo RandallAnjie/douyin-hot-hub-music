@@ -5,7 +5,7 @@
   "author": "晓晓",
   "album": "",
   "heat": 17168772,
-  "user_count": 7072662,
+  "user_count": 7072597,
   "duration": 35,
   "duration_formatted": "35秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 00:05",
+  "update_time": "2025-05-18 01:04",
   "files": {
     "cover_image": "images/7360888539096025097.jpg",
     "audio": "music/7360888539096025097.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7360888539096025097_chorus.mp3"
+    "lyrics": "lyrics/7360888539096025097.lrc",
+    "chorus": "chorus/7360888539096025097_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7360888539096025097_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7360888539096025097.json",
+    "chorus_raw_lyrics": "raw_lyrics/7360888539096025097_chorus.json"
   },
   "high_peak": {
     "time_range": "49.344秒 - 81.407秒 (持续32.063秒)",
@@ -45,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owlAEACFeEAzBZAgDjtZAUEUCdRIDfnBDQUmNl"
   },
   "audio_info": {
     "is_full_audio": false,
