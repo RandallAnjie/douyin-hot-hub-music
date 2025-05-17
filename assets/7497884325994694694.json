@@ -5,7 +5,7 @@
   "author": "徐槿焱",
   "album": "",
   "heat": 16832448,
-  "user_count": 1815475,
+  "user_count": 1815408,
   "duration": 61,
   "duration_formatted": "61秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 06:04",
+  "update_time": "2025-05-18 07:04",
   "files": {
     "cover_image": "images/7497884325994694694.jpg",
     "audio": "music/7497884325994694694.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQCbSVdEARzlAIUIBCFQFzADAgaeABoqfeGani"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQCbSVdEARzlAIUIBCFQFzADAgaeABoqfeGani"
   },
   "audio_info": {
     "is_full_audio": false,
