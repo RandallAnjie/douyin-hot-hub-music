@@ -5,7 +5,7 @@
   "author": "Lunak",
   "album": "Hide Away（Techno）",
   "heat": 16807634,
-  "user_count": 296610,
+  "user_count": 296605,
   "duration": 17,
   "duration_formatted": "17秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-19 04:12",
+  "update_time": "2025-05-19 05:04",
   "files": {
     "cover_image": "images/7481979078522719039.jpg",
-    "audio": "assets/music/7481979078522719039.mp3",
+    "audio": "music/7481979078522719039.mp3",
     "lyrics": ""
   },
   "high_peak": {
