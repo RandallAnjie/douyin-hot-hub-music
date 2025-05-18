@@ -5,7 +5,7 @@
   "author": "4Hunnid",
   "album": "",
   "heat": 16536757,
-  "user_count": 21102,
+  "user_count": 21107,
   "duration": 245,
   "duration_formatted": "245秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 18:46",
+  "update_time": "2025-05-18 19:05",
   "files": {
     "cover_image": "images/7238106858339190845.jpg",
-    "audio": "music/7238106858339190845.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7238106858339190845_chorus.mp3"
+    "audio": "assets/music/7238106858339190845.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "25.728秒 - 71.424秒 (持续45.696秒)",
@@ -45,8 +44,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
