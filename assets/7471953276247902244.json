@@ -5,7 +5,7 @@
   "author": "19",
   "album": "",
   "heat": 16239562,
-  "user_count": 281601,
+  "user_count": 281573,
   "duration": 180,
   "duration_formatted": "180秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-19 02:08",
+  "update_time": "2025-05-19 03:13",
   "files": {
     "cover_image": "images/7471953276247902244.jpg",
-    "audio": "music/7471953276247902244.mp3",
+    "audio": "assets/music/7471953276247902244.mp3",
     "lyrics": "lyrics/7471953276247902244.lrc",
-    "chorus": "chorus/7471953276247902244_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7471953276247902244_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7471953276247902244.json",
     "chorus_raw_lyrics": "raw_lyrics/7471953276247902244_chorus.json"
@@ -46,11 +45,11 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMfZItHnorwxFA8tuGBDIaEQgAFfAnCqtnDCAE"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMfZItHnorwxFA8tuGBDIaEQgAFfAnCqtnDCAE"
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
