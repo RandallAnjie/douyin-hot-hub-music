@@ -5,7 +5,7 @@
   "author": "Steven / Zy",
   "album": "谁会来拆穿（如果爱你注定要多一点等候）",
   "heat": 15917040,
-  "user_count": 86739,
+  "user_count": 86775,
   "duration": 26,
   "duration_formatted": "26秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 11:30",
+  "update_time": "2025-05-18 12:58",
   "files": {
     "cover_image": "images/7495937133234276368.jpg",
-    "audio": "music/7495937133234276368.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7495937133234276368_chorus.mp3"
+    "audio": "assets/music/7495937133234276368.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "0.000秒 - 26.304秒 (持续26.304秒)",
@@ -48,8 +47,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }

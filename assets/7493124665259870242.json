@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 11:29",
+  "update_time": "2025-05-18 12:23",
   "files": {
     "cover_image": "images/7493124665259870242.jpg",
-    "audio": "music/7493124665259870242.mp3",
+    "audio": "assets/music/7493124665259870242.mp3",
     "lyrics": ""
   },
   "high_peak": {
