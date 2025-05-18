@@ -5,7 +5,7 @@
   "author": "BCD Studio",
   "album": "Take it easy",
   "heat": 16204562,
-  "user_count": 1599580,
+  "user_count": 1599597,
   "duration": 3,
   "duration_formatted": "3秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": true,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-19 03:20",
+  "update_time": "2025-05-19 04:26",
   "files": {
     "cover_image": "images/6990639268368484354.jpg",
-    "audio": "music/6990639268368484354.mp3",
-    "lyrics": "",
-    "chorus": "chorus/6990639268368484354_chorus.mp3"
+    "audio": "assets/music/6990639268368484354.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "0.000秒 - 5.000秒 (持续5.000秒)",
@@ -44,6 +43,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }
