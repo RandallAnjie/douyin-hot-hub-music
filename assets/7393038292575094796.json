@@ -5,7 +5,7 @@
   "author": "T-Chenxi",
   "album": "",
   "heat": 18175839,
-  "user_count": 740528,
+  "user_count": 740521,
   "duration": 97,
   "duration_formatted": "97秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 16:12",
+  "update_time": "2025-05-18 17:05",
   "files": {
     "cover_image": "images/7393038292575094796.jpg",
-    "audio": "assets/music/7393038292575094796.mp3",
+    "audio": "music/7393038292575094796.mp3",
     "lyrics": ""
   },
   "high_peak": {

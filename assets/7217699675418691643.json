@@ -5,7 +5,7 @@
   "author": "翼",
   "album": "",
   "heat": 16243728,
-  "user_count": 3357195,
+  "user_count": 3357121,
   "duration": 70,
   "duration_formatted": "70秒",
   "is_original": true,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 16:40",
+  "update_time": "2025-05-18 17:13",
   "files": {
     "cover_image": "images/7217699675418691643.jpg",
-    "audio": "assets/music/7217699675418691643.mp3",
-    "lyrics": ""
+    "audio": "music/7217699675418691643.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7217699675418691643_chorus.mp3"
   },
   "high_peak": {
     "time_range": "7.296秒 - 24.768秒 (持续17.472秒)",
@@ -44,8 +45,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
