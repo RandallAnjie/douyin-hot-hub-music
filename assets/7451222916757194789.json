@@ -5,7 +5,7 @@
   "author": "神兔小P",
   "album": "",
   "heat": 16275572,
-  "user_count": 150682,
+  "user_count": 151093,
   "duration": 168,
   "duration_formatted": "168秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 12:30",
+  "update_time": "2025-05-18 14:07",
   "files": {
     "cover_image": "images/7451222916757194789.jpg",
-    "audio": "assets/music/7451222916757194789.mp3",
+    "audio": "music/7451222916757194789.mp3",
     "lyrics": "lyrics/7451222916757194789.lrc",
+    "chorus": "chorus/7451222916757194789_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7451222916757194789_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7451222916757194789.json",
     "chorus_raw_lyrics": "raw_lyrics/7451222916757194789_chorus.json"
@@ -44,11 +45,11 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQfnKyZBtdDaVqlE3HFwNEAAAHA7EgBehVACiC"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQfnKyZBtdDaVqlE3HFwNEAAAHA7EgBehVACiC"
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }

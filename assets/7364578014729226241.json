@@ -5,7 +5,7 @@
   "author": "Daya & Alan Walker",
   "album": "Hide Away (Alan Walker Remix)",
   "heat": 17244233,
-  "user_count": 830160,
+  "user_count": 830987,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-18 12:09",
+  "update_time": "2025-05-18 14:06",
   "files": {
     "cover_image": "images/7364578014729226241.jpg",
-    "audio": "assets/music/7364578014729226241.mp3",
+    "audio": "music/7364578014729226241.mp3",
     "lyrics": "lyrics/7364578014729226241.lrc",
+    "chorus": "chorus/7364578014729226241_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7364578014729226241_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7364578014729226241.json",
     "chorus_raw_lyrics": "raw_lyrics/7364578014729226241_chorus.json"
@@ -45,11 +46,11 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocfsEWx5bxlTAA3jVNAtEgtGQAiMA0BYENBhAi"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocfsEWx5bxlTAA3jVNAtEgtGQAiMA0BYENBhAi"
   },
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": false
+    "has_chorus_segment": true
   }
 }
