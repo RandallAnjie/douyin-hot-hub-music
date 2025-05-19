@@ -5,7 +5,7 @@
   "author": "闫辽艳",
   "album": "",
   "heat": 16802800,
-  "user_count": 6083451,
+  "user_count": 6083370,
   "duration": 34,
   "duration_formatted": "34秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-20 06:04",
+  "update_time": "2025-05-20 07:07",
   "files": {
     "cover_image": "images/7365829040438003763.jpg",
     "audio": "music/7365829040438003763.mp3",
@@ -46,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owAzDEAXE7QAfzayEClAJEFAkSOR9BffzyFxcr"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owAzDEAXE7QAfzayEClAJEFAkSOR9BffzyFxcr"
   },
   "audio_info": {
     "is_full_audio": false,
