@@ -5,7 +5,7 @@
   "author": "蓝馍馍",
   "album": "",
   "heat": 15894342,
-  "user_count": 147919,
+  "user_count": 147918,
   "duration": 37,
   "duration_formatted": "37秒",
   "is_original": true,
@@ -13,11 +13,12 @@
   "is_aed_music": true,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-20 02:07",
+  "update_time": "2025-05-20 03:05",
   "files": {
     "cover_image": "images/6842162303987615757.jpg",
-    "audio": "assets/music/6842162303987615757.mp3",
-    "lyrics": ""
+    "audio": "music/6842162303987615757.mp3",
+    "lyrics": "",
+    "chorus": "chorus/6842162303987615757_chorus.mp3"
   },
   "high_peak": {
     "time_range": "0.000秒 - 36.864秒 (持续36.864秒)",
@@ -46,8 +47,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
