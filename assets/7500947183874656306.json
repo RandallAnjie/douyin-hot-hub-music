@@ -1,0 +1,53 @@
+{
+  "id": "7500947183874656306",
+  "rank": 4,
+  "title": "去远方（DJ达苏deep Remix）（剪辑版）",
+  "author": "DJ达苏deep",
+  "album": "",
+  "heat": 17508016,
+  "user_count": 534895,
+  "duration": 30,
+  "duration_formatted": "30秒",
+  "is_original": false,
+  "is_commerce_music": true,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:04",
+  "files": {
+    "cover_image": "images/7500947183874656306.jpg",
+    "audio": "music/7500947183874656306.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7500947183874656306_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "92.544秒 - 122.496秒 (持续29.952秒)",
+    "start_seconds": 92.544,
+    "duration_seconds": 29.952
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Danceable",
+      "Low"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7123789566997252127",
+  "rank": 42,
+  "title": "蜜桃物语",
+  "author": "仁辰 & 于行",
+  "album": "",
+  "heat": 15639519,
+  "user_count": 7646268,
+  "duration": 170,
+  "duration_formatted": "170秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:18",
+  "files": {
+    "cover_image": "images/7123789566997252127.jpg",
+    "audio": "music/7123789566997252127.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7123789566997252127_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "139.200秒 - 168.768秒 (持续29.568秒)",
+    "start_seconds": 139.2,
+    "duration_seconds": 29.568
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Chill"
+    ],
+    "Genres": [
+      "BGM",
+      "Others"
+    ],
+    "Themes": [
+      "Sunny",
+      "Food",
+      "Vlog"
+    ],
+    "SingingVersions": [
+      "republished version"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

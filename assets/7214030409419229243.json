@@ -1,0 +1,56 @@
+{
+  "id": "7214030409419229243",
+  "rank": 39,
+  "title": "母亲节快乐(纯音乐)",
+  "author": "郭丹妮",
+  "album": "",
+  "heat": 15690646,
+  "user_count": 538986,
+  "duration": 97,
+  "duration_formatted": "97秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:18",
+  "files": {
+    "cover_image": "images/7214030409419229243.jpg",
+    "audio": "music/7214030409419229243.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7214030409419229243_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "49.344秒 - 69.887秒 (持续20.543秒)",
+    "start_seconds": 49.344,
+    "duration_seconds": 20.543
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Miss",
+      "Memory",
+      "Chill",
+      "Calm"
+    ],
+    "Genres": [
+      "Easy Listening"
+    ],
+    "Themes": [
+      "Spring"
+    ],
+    "SingingVersions": [
+      "High Quality"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

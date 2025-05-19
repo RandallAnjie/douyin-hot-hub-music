@@ -1,0 +1,50 @@
+{
+  "id": "7212858922800711713",
+  "rank": 25,
+  "title": "小可爱萌萌哒（剪辑版）",
+  "author": "李佳语",
+  "album": "",
+  "heat": 16032694,
+  "user_count": 77358,
+  "duration": 29,
+  "duration_formatted": "29秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:17",
+  "files": {
+    "cover_image": "images/7212858922800711713.jpg",
+    "audio": "music/7212858922800711713.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7212858922800711713_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "19.392秒 - 48.768秒 (持续29.376秒)",
+    "start_seconds": 19.392,
+    "duration_seconds": 29.376
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Happy",
+      "Cute"
+    ],
+    "Genres": null,
+    "Themes": [
+      "Food"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

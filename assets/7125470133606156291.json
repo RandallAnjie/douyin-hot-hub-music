@@ -1,0 +1,51 @@
+{
+  "id": "7125470133606156291",
+  "rank": 14,
+  "title": "藍色多瑙河交響 (F)",
+  "author": "Music Time",
+  "album": "藍色多瑙河交響 (F)",
+  "heat": 16419893,
+  "user_count": 97615,
+  "duration": 136,
+  "duration_formatted": "136秒",
+  "is_original": false,
+  "is_commerce_music": true,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:17",
+  "files": {
+    "cover_image": "images/7125470133606156291.jpg",
+    "audio": "music/7125470133606156291.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7125470133606156291_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "91.968秒 - 107.135秒 (持续15.167秒)",
+    "start_seconds": 91.968,
+    "duration_seconds": 15.167
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Happy",
+      "Chill",
+      "Romantic"
+    ],
+    "Genres": null,
+    "Themes": [
+      "Spring"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

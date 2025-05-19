@@ -1,0 +1,51 @@
+{
+  "id": "7169409553196468260",
+  "rank": 17,
+  "title": "可可爱爱",
+  "author": "西瓜milk",
+  "album": "",
+  "heat": 16356354,
+  "user_count": 1888575,
+  "duration": 95,
+  "duration_formatted": "95秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:17",
+  "files": {
+    "cover_image": "images/7169409553196468260.jpg",
+    "audio": "music/7169409553196468260.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7169409553196468260_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 15.000秒 (持续15.000秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 15.0
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Funny",
+      "Happy",
+      "Cute"
+    ],
+    "Genres": null,
+    "Themes": [
+      "Food"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

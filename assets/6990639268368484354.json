@@ -1,11 +1,11 @@
 {
   "id": "6990639268368484354",
-  "rank": 41,
+  "rank": 32,
   "title": "爆炸",
   "author": "BCD Studio",
   "album": "Take it easy",
-  "heat": 16204562,
-  "user_count": 1600924,
+  "heat": 15895452,
+  "user_count": 1601009,
   "duration": 3,
   "duration_formatted": "3秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": true,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-19 22:06",
+  "update_time": "2025-05-19 23:18",
   "files": {
     "cover_image": "images/6990639268368484354.jpg",
     "audio": "music/6990639268368484354.mp3",

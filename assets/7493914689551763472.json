@@ -1,0 +1,54 @@
+{
+  "id": "7493914689551763472",
+  "rank": 44,
+  "title": "脆弱的女人（1.2x）",
+  "author": "卡西恩",
+  "album": "脆弱的女人",
+  "heat": 15581834,
+  "user_count": 36821,
+  "duration": 19,
+  "duration_formatted": "19秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:18",
+  "files": {
+    "cover_image": "images/7493914689551763472.jpg",
+    "audio": "music/7493914689551763472.mp3",
+    "lyrics": "lyrics/7493914689551763472.lrc",
+    "chorus_lyrics": "chorus_lyrics/7493914689551763472_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7493914689551763472.json",
+    "chorus_raw_lyrics": "raw_lyrics/7493914689551763472_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "101.184秒 - 148.608秒 (持续47.424秒)",
+    "start_seconds": 101.184,
+    "duration_seconds": 47.424
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Memory"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Rainy"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUe8vLvaIQBQAwPZveeTgAxFzAujQGG0BA0nCU"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

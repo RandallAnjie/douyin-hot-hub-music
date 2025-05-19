@@ -1,0 +1,53 @@
+{
+  "id": "7500602994050222089",
+  "rank": 31,
+  "title": "空灵之波（剪辑版）",
+  "author": "WindFi风歌",
+  "album": "",
+  "heat": 15908097,
+  "user_count": 201276,
+  "duration": 54,
+  "duration_formatted": "54秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:17",
+  "files": {
+    "cover_image": "images/7500602994050222089.jpg",
+    "audio": "music/7500602994050222089.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7500602994050222089_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "31.872秒 - 85.823秒 (持续53.951秒)",
+    "start_seconds": 31.872,
+    "duration_seconds": 53.951
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Healing",
+      "Chill",
+      "Calm"
+    ],
+    "Genres": [
+      "Easy Listening"
+    ],
+    "Themes": null,
+    "SingingVersions": [
+      "High Quality"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

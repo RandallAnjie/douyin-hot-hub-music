@@ -1,0 +1,57 @@
+{
+  "id": "7484910423926393611",
+  "rank": 9,
+  "title": "@𝟱 𝟳 𝟱 𝟳 🅴创作的原声",
+  "author": "𝟱 𝟳 𝟱 𝟳 🅴/于佐伊ZOE",
+  "album": "橘子味的夏天（selflove）",
+  "heat": 16759344,
+  "user_count": 41246,
+  "duration": 18,
+  "duration_formatted": "18秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:10",
+  "files": {
+    "cover_image": "images/7484910423926393611.jpg",
+    "audio": "music/7484910423926393611.mp3",
+    "lyrics": "lyrics/7484910423926393611.lrc",
+    "chorus_lyrics": "chorus_lyrics/7484910423926393611_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7484910423926393611.json",
+    "chorus_raw_lyrics": "raw_lyrics/7484910423926393611_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "31.488秒 - 63.167秒 (持续31.679秒)",
+    "start_seconds": 31.488,
+    "duration_seconds": 31.679
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Hip Hop/Rap",
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Summer"
+    ],
+    "SingingVersions": [
+      "republished version"
+    ]
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIKA2LSfhboDG7vAmefEdf1vAMIlCAAI1gbiIy"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
+  }
+}

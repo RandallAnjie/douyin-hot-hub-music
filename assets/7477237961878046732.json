@@ -1,0 +1,42 @@
+{
+  "id": "7477237961878046732",
+  "rank": 29,
+  "title": "游京DJ",
+  "author": "瑞悦儿",
+  "album": "",
+  "heat": 15965986,
+  "user_count": 88974,
+  "duration": 34,
+  "duration_formatted": "34秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-19 23:17",
+  "files": {
+    "cover_image": "images/7477237961878046732.jpg",
+    "audio": "music/7477237961878046732.mp3",
+    "lyrics": ""
+  },
+  "high_peak": {
+    "time_range": "",
+    "start_seconds": null,
+    "duration_seconds": null
+  },
+  "tags": {
+    "Languages": null,
+    "Moods": null,
+    "Genres": null,
+    "Themes": null,
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": false
+  }
+}
