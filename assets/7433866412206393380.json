@@ -5,7 +5,7 @@
   "author": "Kmm",
   "album": "",
   "heat": 17447250,
-  "user_count": 96882,
+  "user_count": 96923,
   "duration": 154,
   "duration_formatted": "154秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-19 07:07",
+  "update_time": "2025-05-19 08:18",
   "files": {
     "cover_image": "images/7433866412206393380.jpg",
-    "audio": "music/7433866412206393380.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7433866412206393380_chorus.mp3"
+    "audio": "assets/music/7433866412206393380.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "36.672秒 - 73.919秒 (持续37.247秒)",
@@ -47,8 +46,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
