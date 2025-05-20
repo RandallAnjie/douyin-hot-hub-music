@@ -5,7 +5,7 @@
   "author": "一树星火",
   "album": "",
   "heat": 15838680,
-  "user_count": 370249,
+  "user_count": 370762,
   "duration": 20,
   "duration_formatted": "20秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-20 12:07",
+  "update_time": "2025-05-20 13:06",
   "files": {
     "cover_image": "images/7499634980970792998.jpg",
     "audio": "music/7499634980970792998.mp3",
@@ -43,7 +43,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQezIa0eCE9fBATO9tCyIcmTAALTBQFkTUGGAI"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQezIa0eCE9fBATO9tCyIcmTAALTBQFkTUGGAI"
   },
   "audio_info": {
     "is_full_audio": false,
