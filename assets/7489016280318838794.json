@@ -5,7 +5,7 @@
   "author": "Youzee Music",
   "album": "",
   "heat": 15985119,
-  "user_count": 28069,
+  "user_count": 28086,
   "duration": 158,
   "duration_formatted": "158秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-20 16:14",
+  "update_time": "2025-05-20 17:06",
   "files": {
     "cover_image": "images/7489016280318838794.jpg",
-    "audio": "assets/music/7489016280318838794.mp3",
-    "lyrics": ""
+    "audio": "music/7489016280318838794.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7489016280318838794_chorus.mp3"
   },
   "high_peak": {
     "time_range": "40.128秒 - 64.128秒 (持续24.000秒)",
@@ -45,8 +46,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
