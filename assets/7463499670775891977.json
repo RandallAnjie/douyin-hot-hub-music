@@ -5,7 +5,7 @@
   "author": "_砚安",
   "album": "",
   "heat": 16016068,
-  "user_count": 395524,
+  "user_count": 395976,
   "duration": 51,
   "duration_formatted": "51秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-20 21:29",
+  "update_time": "2025-05-20 22:06",
   "files": {
     "cover_image": "images/7463499670775891977.jpg",
-    "audio": "assets/music/7463499670775891977.mp3",
+    "audio": "music/7463499670775891977.mp3",
     "lyrics": ""
   },
   "high_peak": {
