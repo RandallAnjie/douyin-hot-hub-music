@@ -5,7 +5,7 @@
   "author": "陈小满 & 庄淇文29",
   "album": "",
   "heat": 16114245,
-  "user_count": 1719387,
+  "user_count": 1719355,
   "duration": 27,
   "duration_formatted": "27秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-21 01:05",
+  "update_time": "2025-05-21 02:06",
   "files": {
     "cover_image": "images/7363794259227822116.jpg",
     "audio": "music/7363794259227822116.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEAAbUiEEgQzKT4fEsihBaDmHxmplWB6BANsA6"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEAAbUiEEgQzKT4fEsihBaDmHxmplWB6BANsA6"
   },
   "audio_info": {
     "is_full_audio": false,
