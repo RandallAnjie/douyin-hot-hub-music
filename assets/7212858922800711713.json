@@ -5,7 +5,7 @@
   "author": "李佳语",
   "album": "",
   "heat": 16032694,
-  "user_count": 77736,
+  "user_count": 77745,
   "duration": 29,
   "duration_formatted": "29秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-21 19:05",
+  "update_time": "2025-05-21 20:44",
   "files": {
     "cover_image": "images/7212858922800711713.jpg",
-    "audio": "music/7212858922800711713.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7212858922800711713_chorus.mp3"
+    "audio": "assets/music/7212858922800711713.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "19.392秒 - 48.768秒 (持续29.376秒)",
@@ -45,6 +44,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }

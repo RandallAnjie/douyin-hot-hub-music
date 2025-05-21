@@ -5,7 +5,7 @@
   "author": "DJ达苏deep",
   "album": "",
   "heat": 17508016,
-  "user_count": 574265,
+  "user_count": 575957,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-21 19:04",
+  "update_time": "2025-05-21 20:07",
   "files": {
     "cover_image": "images/7500947183874656306.jpg",
     "audio": "music/7500947183874656306.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7500947183874656306_chorus.mp3"
+    "lyrics": "lyrics/7500947183874656306.lrc",
+    "chorus": "chorus/7500947183874656306_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7500947183874656306_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7500947183874656306.json",
+    "chorus_raw_lyrics": "raw_lyrics/7500947183874656306_chorus.json"
   },
   "high_peak": {
     "time_range": "92.544秒 - 122.496秒 (持续29.952秒)",
@@ -43,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": ""
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUromAaQqEMkiPEWrAoxCaIijA2ABA5PktwqC"
   },
   "audio_info": {
     "is_full_audio": false,
