@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-23 05:06",
+  "update_time": "2025-05-23 06:06",
   "files": {
     "cover_image": "images/7501619625590327331.jpg",
     "audio": "music/7501619625590327331.mp3",
@@ -47,7 +47,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIZAAAgsCsAEAA6oenNFEOIJEBufHADm8gDct7"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIZAAAgsCsAEAA6oenNFEOIJEBufHADm8gDct7"
   },
   "audio_info": {
     "is_full_audio": false,
