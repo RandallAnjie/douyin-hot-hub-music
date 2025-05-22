@@ -1,0 +1,52 @@
+{
+  "id": "7254835277997492282",
+  "rank": 9,
+  "title": "声声慢（吉他）",
+  "author": "马成林",
+  "album": "",
+  "heat": 16431534,
+  "user_count": 198156,
+  "duration": 187,
+  "duration_formatted": "187秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:13",
+  "files": {
+    "cover_image": "images/7254835277997492282.jpg",
+    "audio": "music/7254835277997492282.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7254835277997492282_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "0.000秒 - 18.816秒 (持续18.816秒)",
+    "start_seconds": 0.0,
+    "duration_seconds": 18.816
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Healing",
+      "Miss",
+      "Memory",
+      "Chill"
+    ],
+    "Genres": null,
+    "Themes": [
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

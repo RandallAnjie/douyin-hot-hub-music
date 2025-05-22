@@ -1,0 +1,58 @@
+{
+  "id": "7482324352224430132",
+  "rank": 24,
+  "title": "搀扶（Cover 马健涛）（剪辑版）",
+  "author": "桂林玉儿",
+  "album": "",
+  "heat": 15863025,
+  "user_count": 625366,
+  "duration": 26,
+  "duration_formatted": "26秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:19",
+  "files": {
+    "cover_image": "images/7482324352224430132.jpg",
+    "audio": "music/7482324352224430132.mp3",
+    "lyrics": "lyrics/7482324352224430132.lrc",
+    "chorus": "chorus/7482324352224430132_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7482324352224430132_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7482324352224430132.json",
+    "chorus_raw_lyrics": "raw_lyrics/7482324352224430132_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "26.688秒 - 52.608秒 (持续25.920秒)",
+    "start_seconds": 26.688,
+    "duration_seconds": 25.92
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Miss",
+      "Memory"
+    ],
+    "Genres": [
+      "Pop",
+      "Chinese Pop"
+    ],
+    "Themes": [
+      "Low",
+      "Love",
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oscjENigMDCMmNAwApFgAZnADtegkBL1EVfZWE"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

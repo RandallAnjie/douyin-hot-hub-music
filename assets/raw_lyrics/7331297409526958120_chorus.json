@@ -1,0 +1,62 @@
+[
+  {
+    "start_time": 0.08200000000000074,
+    "end_time": 5.082000000000002,
+    "content": "I love you"
+  },
+  {
+    "start_time": 1.282,
+    "end_time": 6.282000000000001,
+    "content": "I miss you"
+  },
+  {
+    "start_time": 2.482,
+    "end_time": 7.482,
+    "content": "I like you"
+  },
+  {
+    "start_time": 3.7220000000000004,
+    "end_time": 8.722000000000001,
+    "content": "I need you"
+  },
+  {
+    "start_time": 4.882000000000001,
+    "end_time": 9.882000000000001,
+    "content": "I want you"
+  },
+  {
+    "start_time": 6.162,
+    "end_time": 11.161999999999999,
+    "content": "I have to wait for you"
+  },
+  {
+    "start_time": 9.681999999999999,
+    "end_time": 14.681999999999999,
+    "content": "I love you"
+  },
+  {
+    "start_time": 10.882000000000001,
+    "end_time": 15.882000000000001,
+    "content": "I miss you"
+  },
+  {
+    "start_time": 12.122,
+    "end_time": 17.122,
+    "content": "I like you"
+  },
+  {
+    "start_time": 13.242,
+    "end_time": 18.242,
+    "content": "I need you"
+  },
+  {
+    "start_time": 14.482,
+    "end_time": 19.2,
+    "content": "I want you"
+  },
+  {
+    "start_time": 15.721999999999998,
+    "end_time": 19.2,
+    "content": "I have to wait for you"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "7501150240558467109",
+  "rank": 11,
+  "title": "坏女孩（DJ版）（焱焱Dz Remix）（剪辑版）",
+  "author": "焱焱Dz",
+  "album": "",
+  "heat": 16343467,
+  "user_count": 67486,
+  "duration": 31,
+  "duration_formatted": "31秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:18",
+  "files": {
+    "cover_image": "images/7501150240558467109.jpg",
+    "audio": "music/7501150240558467109.mp3",
+    "lyrics": "lyrics/7501150240558467109.lrc",
+    "chorus": "chorus/7501150240558467109_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7501150240558467109_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7501150240558467109.json",
+    "chorus_raw_lyrics": "raw_lyrics/7501150240558467109_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "229.440秒 - 260.351秒 (持续30.911秒)",
+    "start_seconds": 229.44,
+    "duration_seconds": 30.911
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Danceable",
+      "Low"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogO0DABEEgAiAA8NfWBQEPAi6PZZRb9ZLJJsh7"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

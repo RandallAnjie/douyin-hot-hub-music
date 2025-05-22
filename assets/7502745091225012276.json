@@ -1,0 +1,57 @@
+{
+  "id": "7502745091225012276",
+  "rank": 25,
+  "title": "我也渴望有人懂（剪辑版）",
+  "author": "张瑞军",
+  "album": "",
+  "heat": 15860084,
+  "user_count": 381352,
+  "duration": 46,
+  "duration_formatted": "46秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:19",
+  "files": {
+    "cover_image": "images/7502745091225012276.jpg",
+    "audio": "music/7502745091225012276.mp3",
+    "lyrics": "lyrics/7502745091225012276.lrc",
+    "chorus": "chorus/7502745091225012276_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7502745091225012276_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7502745091225012276.json",
+    "chorus_raw_lyrics": "raw_lyrics/7502745091225012276_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "73.920秒 - 121.152秒 (持续47.232秒)",
+    "start_seconds": 73.92,
+    "duration_seconds": 47.232
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Pop",
+      "Chinese Pop"
+    ],
+    "Themes": [
+      "Low",
+      "Love",
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ooQ9k7ApEiK0vAAgzc0WmBnAEEjKhQAfQBLiAs"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

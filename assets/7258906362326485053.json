@@ -1,0 +1,56 @@
+{
+  "id": "7258906362326485053",
+  "rank": 39,
+  "title": "崩溃大哭",
+  "author": "雪人",
+  "album": "",
+  "heat": 15634031,
+  "user_count": 958271,
+  "duration": 45,
+  "duration_formatted": "45秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:20",
+  "files": {
+    "cover_image": "images/7258906362326485053.jpg",
+    "audio": "music/7258906362326485053.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7258906362326485053_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "12.096秒 - 27.648秒 (持续15.552秒)",
+    "start_seconds": 12.096,
+    "duration_seconds": 15.552
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Happy"
+    ],
+    "Genres": [
+      "Folk",
+      "Chinese Folk"
+    ],
+    "Themes": [
+      "Spring"
+    ],
+    "SingingVersions": [
+      "Medley",
+      "Derivative",
+      "Seed"
+    ]
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

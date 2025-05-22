@@ -1,0 +1,52 @@
+{
+  "id": "7467863332159195186",
+  "rank": 34,
+  "title": "Miss",
+  "author": "D@nGer",
+  "album": "",
+  "heat": 15716074,
+  "user_count": 78532,
+  "duration": 50,
+  "duration_formatted": "50秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:19",
+  "files": {
+    "cover_image": "images/7467863332159195186.jpg",
+    "audio": "music/7467863332159195186.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7467863332159195186_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "86.784秒 - 136.511秒 (持续49.727秒)",
+    "start_seconds": 86.784,
+    "duration_seconds": 49.727
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Hip Hop/Rap"
+    ],
+    "Themes": [
+      "Rainy",
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

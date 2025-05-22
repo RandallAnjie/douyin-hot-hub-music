@@ -1,0 +1,55 @@
+{
+  "id": "7331297409526958120",
+  "rank": 44,
+  "title": "Gimme（嗓音的故事）（剪辑版）",
+  "author": "人面兽心&花凯",
+  "album": "",
+  "heat": 15544031,
+  "user_count": 79218,
+  "duration": 19,
+  "duration_formatted": "19秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:20",
+  "files": {
+    "cover_image": "images/7331297409526958120.jpg",
+    "audio": "music/7331297409526958120.mp3",
+    "lyrics": "lyrics/7331297409526958120.lrc",
+    "chorus": "chorus/7331297409526958120_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7331297409526958120_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7331297409526958120.json",
+    "chorus_raw_lyrics": "raw_lyrics/7331297409526958120_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "4.608秒 - 23.808秒 (持续19.200秒)",
+    "start_seconds": 4.608,
+    "duration_seconds": 19.2
+  },
+  "tags": {
+    "Languages": [
+      "English"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "DJ",
+      "Others"
+    ],
+    "Themes": [
+      "Dance"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/6a5818cd6721434bbd29c0bf28913961"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

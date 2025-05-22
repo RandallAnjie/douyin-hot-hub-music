@@ -1,57 +1,15 @@
 {
-  "update_time": "2025-05-22 20:08:51",
-  "count": 43,
+  "update_time": "2025-05-22 21:20:24",
+  "count": 45,
   "musics": [
     {
-      "id": "7499414777794628389",
-      "rank": 1,
-      "title": "亲爱的你啊（架子鼓版）",
-      "author": "任素汐",
-      "album": "亲爱的你啊（电视剧《无尽的尽头》主题曲）",
-      "heat": 18548520,
-      "user_count": 3299680,
-      "duration": 31,
-      "duration_formatted": "31秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7499414777794628389.jpg",
-        "audio": "music/7499414777794628389.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "",
-        "start_seconds": null,
-        "duration_seconds": null
-      },
-      "tags": {
-        "Languages": null,
-        "Moods": null,
-        "Genres": null,
-        "Themes": null,
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": false
-      }
-    },
-    {
       "id": "7497590497452641050",
-      "rank": 2,
+      "rank": 1,
       "title": "那些喊给天空的（氛围版）",
       "author": "黄子弘凡",
       "album": "那些喊给天空的",
       "heat": 16503694,
-      "user_count": 467054,
+      "user_count": 471285,
       "duration": 26,
       "duration_formatted": "26秒",
       "is_original": false,
@@ -59,7 +17,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:13",
       "files": {
         "cover_image": "images/7497590497452641050.jpg",
         "audio": "music/7497590497452641050.mp3",
@@ -88,12 +46,12 @@
     },
     {
       "id": "7502263602888411945",
-      "rank": 3,
+      "rank": 2,
       "title": "千万次想象（让我再相爱一场）",
       "author": "张杰",
       "album": "千万次想象",
       "heat": 15003485,
-      "user_count": 263940,
+      "user_count": 266132,
       "duration": 33,
       "duration_formatted": "33秒",
       "is_original": true,
@@ -101,7 +59,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:13",
       "files": {
         "cover_image": "images/7502263602888411945.jpg",
         "audio": "music/7502263602888411945.mp3",
@@ -141,13 +99,1682 @@
       }
     },
     {
-      "id": "7500947183874656306",
+      "id": "7499414777794628389",
+      "rank": 3,
+      "title": "亲爱的你啊（架子鼓版）",
+      "author": "任素汐",
+      "album": "亲爱的你啊（电视剧《无尽的尽头》主题曲）",
+      "heat": 17914781,
+      "user_count": 3316610,
+      "duration": 31,
+      "duration_formatted": "31秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7499414777794628389.jpg",
+        "audio": "music/7499414777794628389.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "",
+        "start_seconds": null,
+        "duration_seconds": null
+      },
+      "tags": {
+        "Languages": null,
+        "Moods": null,
+        "Genres": null,
+        "Themes": null,
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7463499670775891977",
       "rank": 4,
+      "title": "探故知",
+      "author": "_砚安",
+      "album": "",
+      "heat": 17203593,
+      "user_count": 410742,
+      "duration": 51,
+      "duration_formatted": "51秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7463499670775891977.jpg",
+        "audio": "music/7463499670775891977.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "",
+        "start_seconds": null,
+        "duration_seconds": null
+      },
+      "tags": {
+        "Languages": null,
+        "Moods": null,
+        "Genres": null,
+        "Themes": null,
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7503070175798282255",
+      "rank": 5,
+      "title": "Somehow（剪辑版2）",
+      "author": "Ray Saetta",
+      "album": "",
+      "heat": 17054519,
+      "user_count": 112413,
+      "duration": 27,
+      "duration_formatted": "27秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7503070175798282255.jpg",
+        "audio": "music/7503070175798282255.mp3",
+        "lyrics": "lyrics/7503070175798282255.lrc",
+        "chorus_lyrics": "chorus_lyrics/7503070175798282255_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7503070175798282255.json",
+        "chorus_raw_lyrics": "raw_lyrics/7503070175798282255_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "27.264秒 - 136.703秒 (持续109.439秒)",
+        "start_seconds": 27.264,
+        "duration_seconds": 109.439
+      },
+      "tags": {
+        "Languages": [
+          "English"
+        ],
+        "Moods": [
+          "Lonely",
+          "Miss",
+          "Memory",
+          "Chill"
+        ],
+        "Genres": [
+          "Hip Hop/Rap",
+          "Trap Rap"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMALZfA9EEDqsWAAFVotgDkBIE2WDyAfgCwFAZ"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7482371896877665043",
+      "rank": 6,
+      "title": "心跳（你又在哭泣我给不了安慰）",
+      "author": "王力宏",
+      "album": "心跳",
+      "heat": 16837821,
+      "user_count": 4534862,
+      "duration": 16,
+      "duration_formatted": "16秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7482371896877665043.jpg",
+        "audio": "music/7482371896877665043.mp3",
+        "lyrics": "lyrics/7482371896877665043.lrc",
+        "chorus_lyrics": "chorus_lyrics/7482371896877665043_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7482371896877665043.json",
+        "chorus_raw_lyrics": "raw_lyrics/7482371896877665043_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "96.384秒 - 147.455秒 (持续51.071秒)",
+        "start_seconds": 96.384,
+        "duration_seconds": 51.071
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Romantic"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEgCriAzglNavQABAE21rS26pmiAAt3IT4WWE"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7380052947785631798",
+      "rank": 7,
+      "title": "宠坏(1.2x热播版)",
+      "author": "小瑞",
+      "album": "宠坏（可不可以把你宠坏）",
+      "heat": 16665566,
+      "user_count": 114221,
+      "duration": 43,
+      "duration_formatted": "43秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7380052947785631798.jpg",
+        "audio": "music/7380052947785631798.mp3",
+        "lyrics": "lyrics/7380052947785631798.lrc",
+        "chorus": "chorus/7380052947785631798_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7380052947785631798_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7380052947785631798.json",
+        "chorus_raw_lyrics": "raw_lyrics/7380052947785631798_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 21.504秒 (持续21.504秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 21.504
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Romantic"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMArKRwXDIDeOqgXC6FAD0ZsRBfjmAAIEzg0td"
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7499726912275023924",
+      "rank": 8,
+      "title": "Heldatn Forkint",
+      "author": "GETLIR",
+      "album": "",
+      "heat": 16474247,
+      "user_count": 55329,
+      "duration": 130,
+      "duration_formatted": "130秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7499726912275023924.jpg",
+        "audio": "music/7499726912275023924.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7499726912275023924_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "19.200秒 - 37.248秒 (持续18.048秒)",
+        "start_seconds": 19.2,
+        "duration_seconds": 18.048
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Dynamic"
+        ],
+        "Genres": [
+          "Electronic"
+        ],
+        "Themes": [
+          "Dance",
+          "Transition"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7254835277997492282",
+      "rank": 9,
+      "title": "声声慢（吉他）",
+      "author": "马成林",
+      "album": "",
+      "heat": 16431534,
+      "user_count": 198156,
+      "duration": 187,
+      "duration_formatted": "187秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7254835277997492282.jpg",
+        "audio": "music/7254835277997492282.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7254835277997492282_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 18.816秒 (持续18.816秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 18.816
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Healing",
+          "Miss",
+          "Memory",
+          "Chill"
+        ],
+        "Genres": null,
+        "Themes": [
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7319391505642620978",
+      "rank": 10,
+      "title": "夏至未至（0.9钢琴治愈版）",
+      "author": "彭小羽&林尘宇",
+      "album": "",
+      "heat": 16429669,
+      "user_count": 302306,
+      "duration": 303,
+      "duration_formatted": "303秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:13",
+      "files": {
+        "cover_image": "images/7319391505642620978.jpg",
+        "audio": "assets/music/7319391505642620978.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 35.520秒 (持续35.520秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 35.52
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Healing",
+          "Calm"
+        ],
+        "Genres": null,
+        "Themes": [
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7501150240558467109",
+      "rank": 11,
+      "title": "坏女孩（DJ版）（焱焱Dz Remix）（剪辑版）",
+      "author": "焱焱Dz",
+      "album": "",
+      "heat": 16343467,
+      "user_count": 67486,
+      "duration": 31,
+      "duration_formatted": "31秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7501150240558467109.jpg",
+        "audio": "music/7501150240558467109.mp3",
+        "lyrics": "lyrics/7501150240558467109.lrc",
+        "chorus": "chorus/7501150240558467109_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7501150240558467109_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7501150240558467109.json",
+        "chorus_raw_lyrics": "raw_lyrics/7501150240558467109_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "229.440秒 - 260.351秒 (持续30.911秒)",
+        "start_seconds": 229.44,
+        "duration_seconds": 30.911
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Dynamic"
+        ],
+        "Genres": [
+          "DJ",
+          "Others"
+        ],
+        "Themes": [
+          "Danceable",
+          "Low"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogO0DABEEgAiAA8NfWBQEPAi6PZZRb9ZLJJsh7"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7457400072759248937",
+      "rank": 12,
+      "title": "两难（Cover 加木）（剪辑版）",
+      "author": "李群然",
+      "album": "",
+      "heat": 16307643,
+      "user_count": 23962,
+      "duration": 39,
+      "duration_formatted": "39秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7457400072759248937.jpg",
+        "audio": "music/7457400072759248937.mp3",
+        "lyrics": "lyrics/7457400072759248937.lrc",
+        "chorus": "chorus/7457400072759248937_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7457400072759248937_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7457400072759248937.json",
+        "chorus_raw_lyrics": "raw_lyrics/7457400072759248937_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "3.264秒 - 42.048秒 (持续38.784秒)",
+        "start_seconds": 3.264,
+        "duration_seconds": 38.784
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Sorrow"
+        ],
+        "Genres": [
+          "Hip Hop/Rap",
+          "Pop",
+          "Chinese Pop"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": [
+          "Seed"
+        ]
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQ8VAVSIQPyeQAQiEJeXiafMCpAADQzaixEFAB"
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7294074640125233163",
+      "rank": 13,
+      "title": "520（纯音乐）（剪辑版）",
+      "author": "Eliezer",
+      "album": "",
+      "heat": 16275715,
+      "user_count": 184406,
+      "duration": 28,
+      "duration_formatted": "28秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7294074640125233163.jpg",
+        "audio": "music/7294074640125233163.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7294074640125233163_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "42.432秒 - 70.655秒 (持续28.223秒)",
+        "start_seconds": 42.432,
+        "duration_seconds": 28.223
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Miss",
+          "Memory"
+        ],
+        "Genres": null,
+        "Themes": [
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "6990639268368484354",
+      "rank": 14,
+      "title": "爆炸",
+      "author": "BCD Studio",
+      "album": "Take it easy",
+      "heat": 16261326,
+      "user_count": 1604714,
+      "duration": 3,
+      "duration_formatted": "3秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": true,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/6990639268368484354.jpg",
+        "audio": "music/6990639268368484354.mp3",
+        "lyrics": "",
+        "chorus": "chorus/6990639268368484354_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 5.000秒 (持续5.000秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 5.0
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": null,
+        "Genres": null,
+        "Themes": [
+          "Sound Effect"
+        ],
+        "SingingVersions": [
+          "Seed"
+        ]
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7488980235543694130",
+      "rank": 15,
+      "title": "第57次取消发送（回忆成了大问题）",
+      "author": "菲菲公主",
+      "album": "第57次取消发送",
+      "heat": 16224451,
+      "user_count": 3871740,
+      "duration": 12,
+      "duration_formatted": "12秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7488980235543694130.jpg",
+        "audio": "music/7488980235543694130.mp3",
+        "lyrics": "lyrics/7488980235543694130.lrc",
+        "chorus_lyrics": "chorus_lyrics/7488980235543694130_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7488980235543694130.json",
+        "chorus_raw_lyrics": "raw_lyrics/7488980235543694130_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
+        "start_seconds": 48.768,
+        "duration_seconds": 18.623
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Miss"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop"
+        ],
+        "Themes": [
+          "Love",
+          "Low"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oYIzefITkB9TAmGRCAekLiFGAQI4BAiXB1UQVa"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7481184976222849829",
+      "rank": 16,
+      "title": "城北的花（架子鼓版）",
+      "author": "王宇宙Leto/乔浚丞",
+      "album": "城北的花",
+      "heat": 16212670,
+      "user_count": 5924122,
+      "duration": 23,
+      "duration_formatted": "23秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7481184976222849829.jpg",
+        "audio": "music/7481184976222849829.mp3",
+        "lyrics": "lyrics/7481184976222849829.lrc",
+        "chorus_lyrics": "chorus_lyrics/7481184976222849829_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7481184976222849829.json",
+        "chorus_raw_lyrics": "raw_lyrics/7481184976222849829_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "59.136秒 - 106.559秒 (持续47.423秒)",
+        "start_seconds": 59.136,
+        "duration_seconds": 47.423
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Memory"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop",
+          "Hip Hop/Rap"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o01qssQEiIBBemDiqoA6Dzqr3ApgsWAAEQyEPM"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7169409553196468260",
+      "rank": 17,
+      "title": "可可爱爱",
+      "author": "西瓜milk",
+      "album": "",
+      "heat": 16207510,
+      "user_count": 1902636,
+      "duration": 95,
+      "duration_formatted": "95秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7169409553196468260.jpg",
+        "audio": "music/7169409553196468260.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7169409553196468260_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 15.000秒 (持续15.000秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 15.0
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Funny",
+          "Happy",
+          "Cute"
+        ],
+        "Genres": null,
+        "Themes": [
+          "Food"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7472683447744564003",
+      "rank": 18,
+      "title": "月亮翻过小山坡（架子鼓版）",
+      "author": "王海颖、孙圳翰",
+      "album": "月亮翻过小山坡（架子鼓版）",
+      "heat": 16199991,
+      "user_count": 9750681,
+      "duration": 24,
+      "duration_formatted": "24秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7472683447744564003.jpg",
+        "audio": "music/7472683447744564003.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "",
+        "start_seconds": null,
+        "duration_seconds": null
+      },
+      "tags": {
+        "Languages": null,
+        "Moods": [
+          "Memory"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop"
+        ],
+        "Themes": [
+          "Sunny"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7477237961878046732",
+      "rank": 19,
+      "title": "游京DJ",
+      "author": "瑞悦儿",
+      "album": "",
+      "heat": 16192645,
+      "user_count": 102863,
+      "duration": 34,
+      "duration_formatted": "34秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7477237961878046732.jpg",
+        "audio": "music/7477237961878046732.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "",
+        "start_seconds": null,
+        "duration_seconds": null
+      },
+      "tags": {
+        "Languages": null,
+        "Moods": null,
+        "Genres": null,
+        "Themes": null,
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7377913833476802572",
+      "rank": 20,
+      "title": "时尚动感放克律动  Funk Caravan Main",
+      "author": "MangoAudio",
+      "album": "时尚动感放克律动  Funk Caravan Main",
+      "heat": 16141258,
+      "user_count": 2146998,
+      "duration": 132,
+      "duration_formatted": "132秒",
+      "is_original": false,
+      "is_commerce_music": true,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:18",
+      "files": {
+        "cover_image": "images/7377913833476802572.jpg",
+        "audio": "music/7377913833476802572.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7377913833476802572_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "32.064秒 - 63.936秒 (持续31.872秒)",
+        "start_seconds": 32.064,
+        "duration_seconds": 31.872
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Happy",
+          "Dynamic"
+        ],
+        "Genres": [
+          "R&B/Soul"
+        ],
+        "Themes": [
+          "Summer",
+          "Dance"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7503529187983018767",
+      "rank": 21,
+      "title": "零距离的思念（剪辑版）",
+      "author": "TINY7",
+      "album": "Chose one me",
+      "heat": 16095969,
+      "user_count": 21426,
+      "duration": 27,
+      "duration_formatted": "27秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7503529187983018767.jpg",
+        "audio": "music/7503529187983018767.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "",
+        "start_seconds": null,
+        "duration_seconds": null
+      },
+      "tags": {
+        "Languages": null,
+        "Moods": null,
+        "Genres": null,
+        "Themes": null,
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7372012991927093274",
+      "rank": 22,
+      "title": "我要你明媚（剪辑版）",
+      "author": "李雪萌 & 李璟崎KevinGee",
+      "album": "",
+      "heat": 15935356,
+      "user_count": 1464606,
+      "duration": 28,
+      "duration_formatted": "28秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7372012991927093274.jpg",
+        "audio": "music/7372012991927093274.mp3",
+        "lyrics": "lyrics/7372012991927093274.lrc",
+        "chorus": "chorus/7372012991927093274_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7372012991927093274_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7372012991927093274.json",
+        "chorus_raw_lyrics": "raw_lyrics/7372012991927093274_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "96.768秒 - 124.800秒 (持续28.032秒)",
+        "start_seconds": 96.768,
+        "duration_seconds": 28.032
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Romantic",
+          "Chill"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop"
+        ],
+        "Themes": [
+          "Autumn"
+        ],
+        "SingingVersions": [
+          "Seed"
+        ]
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIIMgFfMEtIAqgzCafAIIGFEJfAqAO0jDOBICE"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7443058102645180453",
+      "rank": 23,
+      "title": " 错爱（磨尖的粉笔 Remix）（剪辑版）",
+      "author": "磨尖的粉笔",
+      "album": "",
+      "heat": 15906104,
+      "user_count": 434843,
+      "duration": 43,
+      "duration_formatted": "43秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7443058102645180453.jpg",
+        "audio": "music/7443058102645180453.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7443058102645180453_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "66.240秒 - 109.632秒 (持续43.392秒)",
+        "start_seconds": 66.24,
+        "duration_seconds": 43.392
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Chill"
+        ],
+        "Genres": [
+          "BGM",
+          "Others"
+        ],
+        "Themes": [
+          "Sunny",
+          "Relaxing"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7482324352224430132",
+      "rank": 24,
+      "title": "搀扶（Cover 马健涛）（剪辑版）",
+      "author": "桂林玉儿",
+      "album": "",
+      "heat": 15863025,
+      "user_count": 625366,
+      "duration": 26,
+      "duration_formatted": "26秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7482324352224430132.jpg",
+        "audio": "music/7482324352224430132.mp3",
+        "lyrics": "lyrics/7482324352224430132.lrc",
+        "chorus": "chorus/7482324352224430132_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7482324352224430132_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7482324352224430132.json",
+        "chorus_raw_lyrics": "raw_lyrics/7482324352224430132_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "26.688秒 - 52.608秒 (持续25.920秒)",
+        "start_seconds": 26.688,
+        "duration_seconds": 25.92
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Miss",
+          "Memory"
+        ],
+        "Genres": [
+          "Pop",
+          "Chinese Pop"
+        ],
+        "Themes": [
+          "Low",
+          "Love",
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oscjENigMDCMmNAwApFgAZnADtegkBL1EVfZWE"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7502745091225012276",
+      "rank": 25,
+      "title": "我也渴望有人懂（剪辑版）",
+      "author": "张瑞军",
+      "album": "",
+      "heat": 15860084,
+      "user_count": 381352,
+      "duration": 46,
+      "duration_formatted": "46秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7502745091225012276.jpg",
+        "audio": "music/7502745091225012276.mp3",
+        "lyrics": "lyrics/7502745091225012276.lrc",
+        "chorus": "chorus/7502745091225012276_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7502745091225012276_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7502745091225012276.json",
+        "chorus_raw_lyrics": "raw_lyrics/7502745091225012276_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "73.920秒 - 121.152秒 (持续47.232秒)",
+        "start_seconds": 73.92,
+        "duration_seconds": 47.232
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Sorrow"
+        ],
+        "Genres": [
+          "Pop",
+          "Chinese Pop"
+        ],
+        "Themes": [
+          "Low",
+          "Love",
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ooQ9k7ApEiK0vAAgzc0WmBnAEEjKhQAfQBLiAs"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7501890620568782875",
+      "rank": 26,
+      "title": "热恋夏季 (炙热的爱意)",
+      "author": "南小尧",
+      "album": "",
+      "heat": 15847632,
+      "user_count": 30694,
+      "duration": 174,
+      "duration_formatted": "174秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7501890620568782875.jpg",
+        "audio": "music/7501890620568782875.mp3",
+        "lyrics": "lyrics/7501890620568782875.lrc",
+        "chorus": "chorus/7501890620568782875_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7501890620568782875_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7501890620568782875.json",
+        "chorus_raw_lyrics": "raw_lyrics/7501890620568782875_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "86.400秒 - 150.719秒 (持续64.319秒)",
+        "start_seconds": 86.4,
+        "duration_seconds": 64.319
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Happy",
+          "Sweet",
+          "Romantic"
+        ],
+        "Genres": [
+          "Pop",
+          "Chinese Pop"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIjpgPD4IFF3I9CVuAEEA2aABzeJfz3XQQfBAJ"
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7499080095263049782",
+      "rank": 27,
+      "title": "A Summer Rain In The Afternoon（剪辑版5）",
+      "author": "xone",
+      "album": "",
+      "heat": 15837202,
+      "user_count": 75725,
+      "duration": 28,
+      "duration_formatted": "28秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7499080095263049782.jpg",
+        "audio": "music/7499080095263049782.mp3",
+        "lyrics": "lyrics/7499080095263049782.lrc",
+        "chorus": "chorus/7499080095263049782_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7499080095263049782_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7499080095263049782.json",
+        "chorus_raw_lyrics": "raw_lyrics/7499080095263049782_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "166.656秒 - 191.231秒 (持续24.575秒)",
+        "start_seconds": 166.656,
+        "duration_seconds": 24.575
+      },
+      "tags": {
+        "Languages": [
+          "English"
+        ],
+        "Moods": [
+          "Romantic"
+        ],
+        "Genres": [
+          "Pop"
+        ],
+        "Themes": [
+          "Love"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIA5rAbQaW7MRIJcAvruiyAEAABiPBoTcFgNE"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "6729322481988930311",
+      "rank": 28,
+      "title": "闪耀",
+      "author": "汪苏泷",
+      "album": "",
+      "heat": 15819724,
+      "user_count": 234892,
+      "duration": 33,
+      "duration_formatted": "33秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": true,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/6729322481988930311.jpg",
+        "audio": "music/6729322481988930311.mp3",
+        "lyrics": "lyrics/6729322481988930311.lrc",
+        "chorus": "chorus/6729322481988930311_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/6729322481988930311_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/6729322481988930311.json",
+        "chorus_raw_lyrics": "raw_lyrics/6729322481988930311_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 28.416秒 (持续28.416秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 28.416
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Happy",
+          "Romantic"
+        ],
+        "Genres": [
+          "Pop"
+        ],
+        "Themes": [
+          "Summer"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/30798902fc6244d28695d690edf58035"
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7123789566997252127",
+      "rank": 29,
+      "title": "蜜桃物语",
+      "author": "仁辰 & 于行",
+      "album": "",
+      "heat": 15770376,
+      "user_count": 7672895,
+      "duration": 170,
+      "duration_formatted": "170秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7123789566997252127.jpg",
+        "audio": "music/7123789566997252127.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7123789566997252127_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "139.200秒 - 168.768秒 (持续29.568秒)",
+        "start_seconds": 139.2,
+        "duration_seconds": 29.568
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Chill"
+        ],
+        "Genres": [
+          "BGM",
+          "Others"
+        ],
+        "Themes": [
+          "Sunny",
+          "Food",
+          "Vlog"
+        ],
+        "SingingVersions": [
+          "republished version"
+        ]
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7314976193820264482",
+      "rank": 30,
+      "title": "重大的新闻通知 ",
+      "author": "追乐者",
+      "album": "",
+      "heat": 15767790,
+      "user_count": 2005974,
+      "duration": 101,
+      "duration_formatted": "101秒",
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7314976193820264482.jpg",
+        "audio": "music/7314976193820264482.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7314976193820264482_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "0.000秒 - 23.424秒 (持续23.424秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 23.424
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Inspirational"
+        ],
+        "Genres": [
+          "BGM",
+          "Others"
+        ],
+        "Themes": [
+          "Current News"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7442651261282503433",
+      "rank": 31,
+      "title": "爱的就是你 (可爱版)",
+      "author": "崔十八/听潮阁",
+      "album": "爱的就是你",
+      "heat": 15757348,
+      "user_count": 1714955,
+      "duration": 19,
+      "duration_formatted": "19秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7442651261282503433.jpg",
+        "audio": "music/7442651261282503433.mp3",
+        "lyrics": ""
+      },
+      "high_peak": {
+        "time_range": "",
+        "start_seconds": null,
+        "duration_seconds": null
+      },
+      "tags": {
+        "Languages": null,
+        "Moods": null,
+        "Genres": null,
+        "Themes": null,
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": true,
+        "audio_type": "full",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7470425414512969744",
+      "rank": 32,
+      "title": "西厢寻他（0.8x）片段",
+      "author": "slow_77",
+      "album": "西厢寻他（0.8x）",
+      "heat": 15738364,
+      "user_count": 217071,
+      "duration": 40,
+      "duration_formatted": "40秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7470425414512969744.jpg",
+        "audio": "music/7470425414512969744.mp3",
+        "lyrics": "lyrics/7470425414512969744.lrc",
+        "chorus": "chorus/7470425414512969744_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7470425414512969744_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7470425414512969744.json",
+        "chorus_raw_lyrics": "raw_lyrics/7470425414512969744_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "83.136秒 - 125.568秒 (持续42.432秒)",
+        "start_seconds": 83.136,
+        "duration_seconds": 42.432
+      },
+      "tags": {
+        "Languages": [
+          "Chinese"
+        ],
+        "Moods": [
+          "Sorrow"
+        ],
+        "Genres": [
+          "Chinese Pop",
+          "Pop",
+          "Chinese Style"
+        ],
+        "Themes": [
+          "No Theme"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oArFMfAbCGbIrf9hEVIAhe1evzcAoLIGAmYIOf"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7495363922929666842",
+      "rank": 33,
+      "title": "Colorful World 2025（剪辑版1)",
+      "author": "万妮达Vinida Weng",
+      "album": "Colorful World 2025",
+      "heat": 15733828,
+      "user_count": 108315,
+      "duration": 13,
+      "duration_formatted": "13秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7495363922929666842.jpg",
+        "audio": "music/7495363922929666842.mp3",
+        "lyrics": "lyrics/7495363922929666842.lrc",
+        "chorus_lyrics": "chorus_lyrics/7495363922929666842_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7495363922929666842.json",
+        "chorus_raw_lyrics": "raw_lyrics/7495363922929666842_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "145.536秒 - 182.784秒 (持续37.248秒)",
+        "start_seconds": 145.536,
+        "duration_seconds": 37.248
+      },
+      "tags": {
+        "Languages": [
+          "Chinese",
+          "English"
+        ],
+        "Moods": [
+          "Dynamic"
+        ],
+        "Genres": [
+          "Hip Hop/Rap",
+          "Chinese Pop",
+          "Pop"
+        ],
+        "Themes": [
+          "Dance"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogeirtAKIExoRTAAu1ot1DcBGIJkCrAfgCXFAZ"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": false
+      }
+    },
+    {
+      "id": "7467863332159195186",
+      "rank": 34,
+      "title": "Miss",
+      "author": "D@nGer",
+      "album": "",
+      "heat": 15716074,
+      "user_count": 78532,
+      "duration": 50,
+      "duration_formatted": "50秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7467863332159195186.jpg",
+        "audio": "music/7467863332159195186.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7467863332159195186_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "86.784秒 - 136.511秒 (持续49.727秒)",
+        "start_seconds": 86.784,
+        "duration_seconds": 49.727
+      },
+      "tags": {
+        "Languages": [
+          "non_vocal"
+        ],
+        "Moods": [
+          "Sorrow"
+        ],
+        "Genres": [
+          "Hip Hop/Rap"
+        ],
+        "Themes": [
+          "Rainy",
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": ""
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7500947183874656306",
+      "rank": 35,
       "title": "去远方（DJ达苏deep Remix）（剪辑版）",
       "author": "DJ达苏deep",
       "album": "",
-      "heat": 17508016,
-      "user_count": 604428,
+      "heat": 15699384,
+      "user_count": 606066,
       "duration": 30,
       "duration_formatted": "30秒",
       "is_original": false,
@@ -155,7 +1782,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:19",
       "files": {
         "cover_image": "images/7500947183874656306.jpg",
         "audio": "music/7500947183874656306.mp3",
@@ -190,7 +1817,7 @@
         ]
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUromAaQqEMkiPEWrAoxCaIijA2ABA5PktwqC"
+        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUromAaQqEMkiPEWrAoxCaIijA2ABA5PktwqC"
       },
       "audio_info": {
         "is_full_audio": false,
@@ -199,48 +1826,106 @@
       }
     },
     {
-      "id": "7497920788503758911",
-      "rank": 5,
-      "title": "可爱又迷人的反派角色",
-      "author": "神兔小P",
+      "id": "7501619625590327331",
+      "rank": 36,
+      "title": "DIY Dream（剪辑版）",
+      "author": "蓝爵醺调",
       "album": "",
-      "heat": 17328083,
-      "user_count": 655651,
-      "duration": 104,
-      "duration_formatted": "104秒",
-      "is_original": true,
+      "heat": 15693483,
+      "user_count": 43112,
+      "duration": 24,
+      "duration_formatted": "24秒",
+      "is_original": false,
       "is_commerce_music": false,
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:19",
       "files": {
-        "cover_image": "images/7497920788503758911.jpg",
-        "audio": "music/7497920788503758911.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7497920788503758911_chorus.mp3"
+        "cover_image": "images/7501619625590327331.jpg",
+        "audio": "music/7501619625590327331.mp3",
+        "lyrics": "lyrics/7501619625590327331.lrc",
+        "chorus": "chorus/7501619625590327331_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7501619625590327331_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7501619625590327331.json",
+        "chorus_raw_lyrics": "raw_lyrics/7501619625590327331_chorus.json"
       },
       "high_peak": {
-        "time_range": "0.000秒 - 15.936秒 (持续15.936秒)",
-        "start_seconds": 0.0,
-        "duration_seconds": 15.936
+        "time_range": "83.904秒 - 107.711秒 (持续23.807秒)",
+        "start_seconds": 83.904,
+        "duration_seconds": 23.807
+      },
+      "tags": {
+        "Languages": [
+          "English"
+        ],
+        "Moods": [
+          "Miss",
+          "Memory",
+          "Chill"
+        ],
+        "Genres": [
+          "Pop"
+        ],
+        "Themes": [
+          "Love",
+          "Summer"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIZAAAgsCsAEAA6oenNFEOIJEBufHADm8gDct7"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7467120604502640650",
+      "rank": 37,
+      "title": "上头旋律 (DJ廷 Remix)",
+      "author": "DJ廷",
+      "album": "",
+      "heat": 15673579,
+      "user_count": 243105,
+      "duration": 65,
+      "duration_formatted": "65秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:19",
+      "files": {
+        "cover_image": "images/7467120604502640650.jpg",
+        "audio": "music/7467120604502640650.mp3",
+        "lyrics": "",
+        "chorus": "chorus/7467120604502640650_chorus.mp3"
+      },
+      "high_peak": {
+        "time_range": "19.968秒 - 50.880秒 (持续30.912秒)",
+        "start_seconds": 19.968,
+        "duration_seconds": 30.912
       },
       "tags": {
         "Languages": [
           "non_vocal"
         ],
         "Moods": [
-          "Happy",
-          "Cute"
+          "Dynamic"
         ],
         "Genres": [
-          "Electronic"
+          "DJ",
+          "Others"
         ],
         "Themes": [
-          "Summer"
+          "Dance",
+          "Low"
         ],
         "SingingVersions": [
-          "republished version"
+          "Seed"
         ]
       },
       "music_info": {
@@ -253,176 +1938,13 @@
       }
     },
     {
-      "id": "7490830804307953676",
-      "rank": 6,
-      "title": "奇不奇怪 （何勒巴 Remix）（剪辑版）",
-      "author": "何勒巴",
-      "album": "",
-      "heat": 17035479,
-      "user_count": 173001,
-      "duration": 32,
-      "duration_formatted": "32秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7490830804307953676.jpg",
-        "audio": "music/7490830804307953676.mp3",
-        "lyrics": "lyrics/7490830804307953676.lrc",
-        "chorus": "chorus/7490830804307953676_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7490830804307953676_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7490830804307953676.json",
-        "chorus_raw_lyrics": "raw_lyrics/7490830804307953676_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "68.736秒 - 100.608秒 (持续31.872秒)",
-        "start_seconds": 68.736,
-        "duration_seconds": 31.872
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Sunny"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQNQsCfgAFArAz32AIFCQDaDrfd5iewEBaCBDI"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7425283321644517439",
-      "rank": 7,
-      "title": "风吹雾（前奏）",
-      "author": "Adoreya",
-      "album": "",
-      "heat": 16892026,
-      "user_count": 528736,
-      "duration": 42,
-      "duration_formatted": "42秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7425283321644517439.jpg",
-        "audio": "music/7425283321644517439.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "43.200秒 - 61.055秒 (持续17.855秒)",
-        "start_seconds": 43.2,
-        "duration_seconds": 17.855
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "Pop"
-        ],
-        "Themes": [
-          "Autumn"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7365829040438003763",
-      "rank": 8,
-      "title": "母亲节快乐（副歌）",
-      "author": "闫辽艳",
-      "album": "",
-      "heat": 16802800,
-      "user_count": 6076244,
-      "duration": 34,
-      "duration_formatted": "34秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7365829040438003763.jpg",
-        "audio": "music/7365829040438003763.mp3",
-        "lyrics": "lyrics/7365829040438003763.lrc",
-        "chorus": "chorus/7365829040438003763_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7365829040438003763_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7365829040438003763.json",
-        "chorus_raw_lyrics": "raw_lyrics/7365829040438003763_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "155.328秒 - 185.279秒 (持续29.951秒)",
-        "start_seconds": 155.328,
-        "duration_seconds": 29.951
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Dynamic"
-        ],
-        "Genres": [
-          "DJ",
-          "Others"
-        ],
-        "Themes": [
-          "Love",
-          "Low"
-        ],
-        "SingingVersions": [
-          "High Quality"
-        ]
-      },
-      "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/owAzDEAXE7QAfzayEClAJEFAkSOR9BffzyFxcr"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
       "id": "7484910423926393611",
-      "rank": 9,
+      "rank": 38,
       "title": "@𝟱 𝟳 𝟱 𝟳 🅴创作的原声",
       "author": "𝟱 𝟳 𝟱 𝟳 🅴/于佐伊ZOE",
       "album": "橘子味的夏天（selflove）",
-      "heat": 16759344,
-      "user_count": 43070,
+      "heat": 15638404,
+      "user_count": 43127,
       "duration": 18,
       "duration_formatted": "18秒",
       "is_original": false,
@@ -430,7 +1952,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:19",
       "files": {
         "cover_image": "images/7484910423926393611.jpg",
         "audio": "music/7484910423926393611.mp3",
@@ -473,192 +1995,31 @@
       }
     },
     {
-      "id": "7499020587487250443",
-      "rank": 10,
-      "title": "“Free” 100%晴天（Pop x Trap Type Beat）（剪辑版）",
-      "author": "DOS BeatSpace",
+      "id": "7258906362326485053",
+      "rank": 39,
+      "title": "崩溃大哭",
+      "author": "雪人",
       "album": "",
-      "heat": 16758823,
-      "user_count": 348514,
-      "duration": 30,
-      "duration_formatted": "30秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7499020587487250443.jpg",
-        "audio": "music/7499020587487250443.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7499020587487250443_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "17.088秒 - 47.808秒 (持续30.720秒)",
-        "start_seconds": 17.088,
-        "duration_seconds": 30.72
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Miss",
-          "Memory",
-          "Chill",
-          "Romantic"
-        ],
-        "Genres": null,
-        "Themes": null,
-        "SingingVersions": [
-          "High Quality"
-        ]
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7488980235543694130",
-      "rank": 11,
-      "title": "第57次取消发送（回忆成了大问题）",
-      "author": "菲菲公主",
-      "album": "第57次取消发送",
-      "heat": 16753941,
-      "user_count": 3865253,
-      "duration": 12,
-      "duration_formatted": "12秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7488980235543694130.jpg",
-        "audio": "music/7488980235543694130.mp3",
-        "lyrics": "lyrics/7488980235543694130.lrc",
-        "chorus_lyrics": "chorus_lyrics/7488980235543694130_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7488980235543694130.json",
-        "chorus_raw_lyrics": "raw_lyrics/7488980235543694130_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
-        "start_seconds": 48.768,
-        "duration_seconds": 18.623
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Miss"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Love",
-          "Low"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oYIzefITkB9TAmGRCAekLiFGAQI4BAiXB1UQVa"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7482371896877665043",
-      "rank": 12,
-      "title": "心跳（你又在哭泣我给不了安慰）",
-      "author": "王力宏",
-      "album": "心跳",
-      "heat": 16610528,
-      "user_count": 4533494,
-      "duration": 16,
-      "duration_formatted": "16秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7482371896877665043.jpg",
-        "audio": "music/7482371896877665043.mp3",
-        "lyrics": "lyrics/7482371896877665043.lrc",
-        "chorus_lyrics": "chorus_lyrics/7482371896877665043_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7482371896877665043.json",
-        "chorus_raw_lyrics": "raw_lyrics/7482371896877665043_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "96.384秒 - 147.455秒 (持续51.071秒)",
-        "start_seconds": 96.384,
-        "duration_seconds": 51.071
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Romantic"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Love"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEgCriAzglNavQABAE21rS26pmiAAt3IT4WWE"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7195088960733136956",
-      "rank": 13,
-      "title": "战斗吧(纯音乐)（剪辑版）",
-      "author": "Meet遇见",
-      "album": "",
-      "heat": 16474766,
-      "user_count": 618485,
-      "duration": 22,
-      "duration_formatted": "22秒",
+      "heat": 15634031,
+      "user_count": 958271,
+      "duration": 45,
+      "duration_formatted": "45秒",
       "is_original": true,
       "is_commerce_music": false,
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:20",
       "files": {
-        "cover_image": "images/7195088960733136956.jpg",
-        "audio": "music/7195088960733136956.mp3",
+        "cover_image": "images/7258906362326485053.jpg",
+        "audio": "music/7258906362326485053.mp3",
         "lyrics": "",
-        "chorus": "chorus/7195088960733136956_chorus.mp3"
+        "chorus": "chorus/7258906362326485053_chorus.mp3"
       },
       "high_peak": {
-        "time_range": "119.808秒 - 142.272秒 (持续22.464秒)",
-        "start_seconds": 119.808,
-        "duration_seconds": 22.464
+        "time_range": "12.096秒 - 27.648秒 (持续15.552秒)",
+        "start_seconds": 12.096,
+        "duration_seconds": 15.552
       },
       "tags": {
         "Languages": [
@@ -668,119 +2029,16 @@
           "Happy"
         ],
         "Genres": [
-          "Jazz"
+          "Folk",
+          "Chinese Folk"
         ],
         "Themes": [
-          "Summer"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7451222916757194789",
-      "rank": 14,
-      "title": "干物女（神兔小P Remix）（剪辑版3）",
-      "author": "神兔小P",
-      "album": "",
-      "heat": 16376591,
-      "user_count": 184806,
-      "duration": 168,
-      "duration_formatted": "168秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7451222916757194789.jpg",
-        "audio": "music/7451222916757194789.mp3",
-        "lyrics": "lyrics/7451222916757194789.lrc",
-        "chorus": "chorus/7451222916757194789_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7451222916757194789_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7451222916757194789.json",
-        "chorus_raw_lyrics": "raw_lyrics/7451222916757194789_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "103.104秒 - 128.640秒 (持续25.536秒)",
-        "start_seconds": 103.104,
-        "duration_seconds": 25.536
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Cute"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Sunny"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oQfnKyZBtdDaVqlE3HFwNEAAAHA7EgBehVACiC"
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7500077136017836051",
-      "rank": 15,
-      "title": "Lojd(Meo)",
-      "author": "Hhe",
-      "album": "",
-      "heat": 16368297,
-      "user_count": 34742,
-      "duration": 125,
-      "duration_formatted": "125秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7500077136017836051.jpg",
-        "audio": "music/7500077136017836051.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7500077136017836051_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "0.000秒 - 25.152秒 (持续25.152秒)",
-        "start_seconds": 0.0,
-        "duration_seconds": 25.152
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Dynamic"
-        ],
-        "Genres": [
-          "Hip Hop/Rap"
-        ],
-        "Themes": [
-          "Dance"
+          "Spring"
         ],
         "SingingVersions": [
-          "High Quality"
+          "Medley",
+          "Derivative",
+          "Seed"
         ]
       },
       "music_info": {
@@ -793,701 +2051,38 @@
       }
     },
     {
-      "id": "7169409553196468260",
-      "rank": 16,
-      "title": "可可爱爱",
-      "author": "西瓜milk",
-      "album": "",
-      "heat": 16356354,
-      "user_count": 1902284,
-      "duration": 95,
-      "duration_formatted": "95秒",
+      "id": "7493914689551763472",
+      "rank": 40,
+      "title": "脆弱的女人（1.2x）",
+      "author": "卡西恩",
+      "album": "脆弱的女人",
+      "heat": 15615969,
+      "user_count": 45541,
+      "duration": 19,
+      "duration_formatted": "19秒",
       "is_original": true,
       "is_commerce_music": false,
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
+      "update_time": "2025-05-22 21:20",
       "files": {
-        "cover_image": "images/7169409553196468260.jpg",
-        "audio": "music/7169409553196468260.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7169409553196468260_chorus.mp3"
+        "cover_image": "images/7493914689551763472.jpg",
+        "audio": "music/7493914689551763472.mp3",
+        "lyrics": "lyrics/7493914689551763472.lrc",
+        "chorus_lyrics": "chorus_lyrics/7493914689551763472_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7493914689551763472.json",
+        "chorus_raw_lyrics": "raw_lyrics/7493914689551763472_chorus.json"
       },
       "high_peak": {
-        "time_range": "0.000秒 - 15.000秒 (持续15.000秒)",
-        "start_seconds": 0.0,
-        "duration_seconds": 15.0
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Funny",
-          "Happy",
-          "Cute"
-        ],
-        "Genres": null,
-        "Themes": [
-          "Food"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7497320218546931729",
-      "rank": 17,
-      "title": "COME BABY!",
-      "author": "BOKIE",
-      "album": "COME BABY!",
-      "heat": 16288801,
-      "user_count": 38443,
-      "duration": 20,
-      "duration_formatted": "20秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7497320218546931729.jpg",
-        "audio": "music/7497320218546931729.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "99.456秒 - 129.983秒 (持续30.527秒)",
-        "start_seconds": 99.456,
-        "duration_seconds": 30.527
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Dynamic"
-        ],
-        "Genres": [
-          "Electronic"
-        ],
-        "Themes": [
-          "Dance",
-          "Transition"
-        ],
-        "SingingVersions": [
-          "High Quality"
-        ]
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7319391505642620978",
-      "rank": 18,
-      "title": "夏至未至（0.9钢琴治愈版）",
-      "author": "彭小羽&林尘宇",
-      "album": "",
-      "heat": 16273088,
-      "user_count": 301849,
-      "duration": 303,
-      "duration_formatted": "303秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7319391505642620978.jpg",
-        "audio": "music/7319391505642620978.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7319391505642620978_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "0.000秒 - 35.520秒 (持续35.520秒)",
-        "start_seconds": 0.0,
-        "duration_seconds": 35.52
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Healing",
-          "Calm"
-        ],
-        "Genres": null,
-        "Themes": [
-          "Autumn"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7498275132852488211",
-      "rank": 19,
-      "title": "搀扶（施正泽 Remix）",
-      "author": "施正泽",
-      "album": "",
-      "heat": 16134623,
-      "user_count": 466268,
-      "duration": 89,
-      "duration_formatted": "89秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7498275132852488211.jpg",
-        "audio": "music/7498275132852488211.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7498275132852488211_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "27.264秒 - 53.183秒 (持续25.919秒)",
-        "start_seconds": 27.264,
-        "duration_seconds": 25.919
+        "time_range": "101.184秒 - 148.608秒 (持续47.424秒)",
+        "start_seconds": 101.184,
+        "duration_seconds": 47.424
       },
       "tags": {
         "Languages": [
           "Chinese"
         ],
-        "Moods": [
-          "Sorrow"
-        ],
-        "Genres": [
-          "Pop"
-        ],
-        "Themes": [
-          "Low",
-          "Love"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7363794259227822116",
-      "rank": 20,
-      "title": "妈妈陪我长大了（剪辑版）",
-      "author": "陈小满 & 庄淇文29",
-      "album": "",
-      "heat": 16114245,
-      "user_count": 1719908,
-      "duration": 27,
-      "duration_formatted": "27秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7363794259227822116.jpg",
-        "audio": "music/7363794259227822116.mp3",
-        "lyrics": "lyrics/7363794259227822116.lrc",
-        "chorus": "chorus/7363794259227822116_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7363794259227822116_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7363794259227822116.json",
-        "chorus_raw_lyrics": "raw_lyrics/7363794259227822116_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "143.040秒 - 169.536秒 (持续26.496秒)",
-        "start_seconds": 143.04,
-        "duration_seconds": 26.496
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Autumn"
-        ],
-        "SingingVersions": [
-          "republished version"
-        ]
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEAAbUiEEgQzKT4fEsihBaDmHxmplWB6BANsA6"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7377913833476802572",
-      "rank": 21,
-      "title": "时尚动感放克律动  Funk Caravan Main",
-      "author": "MangoAudio",
-      "album": "时尚动感放克律动  Funk Caravan Main",
-      "heat": 16103395,
-      "user_count": 2146280,
-      "duration": 132,
-      "duration_formatted": "132秒",
-      "is_original": false,
-      "is_commerce_music": true,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7377913833476802572.jpg",
-        "audio": "music/7377913833476802572.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7377913833476802572_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "32.064秒 - 63.936秒 (持续31.872秒)",
-        "start_seconds": 32.064,
-        "duration_seconds": 31.872
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Happy",
-          "Dynamic"
-        ],
-        "Genres": [
-          "R&B/Soul"
-        ],
-        "Themes": [
-          "Summer",
-          "Dance"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7443058102645180453",
-      "rank": 22,
-      "title": " 错爱（磨尖的粉笔 Remix）（剪辑版）",
-      "author": "磨尖的粉笔",
-      "album": "",
-      "heat": 16053858,
-      "user_count": 434616,
-      "duration": 43,
-      "duration_formatted": "43秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:07",
-      "files": {
-        "cover_image": "images/7443058102645180453.jpg",
-        "audio": "music/7443058102645180453.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7443058102645180453_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "66.240秒 - 109.632秒 (持续43.392秒)",
-        "start_seconds": 66.24,
-        "duration_seconds": 43.392
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "BGM",
-          "Others"
-        ],
-        "Themes": [
-          "Sunny",
-          "Relaxing"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7491130229642512401",
-      "rank": 23,
-      "title": "第57次取消发送（加速版）",
-      "author": "菲菲公主",
-      "album": "第57次取消发送",
-      "heat": 16049103,
-      "user_count": 139925,
-      "duration": 155,
-      "duration_formatted": "155秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7491130229642512401.jpg",
-        "audio": "music/7491130229642512401.mp3",
-        "lyrics": "lyrics/7491130229642512401.lrc",
-        "chorus": "chorus/7491130229642512401_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7491130229642512401_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7491130229642512401.json",
-        "chorus_raw_lyrics": "raw_lyrics/7491130229642512401_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "48.768秒 - 67.391秒 (持续18.623秒)",
-        "start_seconds": 48.768,
-        "duration_seconds": 18.623
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Miss"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Love",
-          "Low"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oYIzefITkB9TAmGRCAekLiFGAQI4BAiXB1UQVa"
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7212858922800711713",
-      "rank": 24,
-      "title": "小可爱萌萌哒（剪辑版）",
-      "author": "李佳语",
-      "album": "",
-      "heat": 16032694,
-      "user_count": 77990,
-      "duration": 29,
-      "duration_formatted": "29秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7212858922800711713.jpg",
-        "audio": "music/7212858922800711713.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7212858922800711713_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "19.392秒 - 48.768秒 (持续29.376秒)",
-        "start_seconds": 19.392,
-        "duration_seconds": 29.376
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Happy",
-          "Cute"
-        ],
-        "Genres": null,
-        "Themes": [
-          "Food"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7463499670775891977",
-      "rank": 25,
-      "title": "探故知",
-      "author": "_砚安",
-      "album": "",
-      "heat": 16016068,
-      "user_count": 410181,
-      "duration": 51,
-      "duration_formatted": "51秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7463499670775891977.jpg",
-        "audio": "music/7463499670775891977.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "",
-        "start_seconds": null,
-        "duration_seconds": null
-      },
-      "tags": {
-        "Languages": null,
-        "Moods": null,
-        "Genres": null,
-        "Themes": null,
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7364578014729226241",
-      "rank": 26,
-      "title": "Hide Away (Alan Walker Remix)",
-      "author": "Daya & Alan Walker",
-      "album": "Hide Away (Alan Walker Remix)",
-      "heat": 15999243,
-      "user_count": 845176,
-      "duration": 30,
-      "duration_formatted": "30秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7364578014729226241.jpg",
-        "audio": "music/7364578014729226241.mp3",
-        "lyrics": "lyrics/7364578014729226241.lrc",
-        "chorus": "chorus/7364578014729226241_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7364578014729226241_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7364578014729226241.json",
-        "chorus_raw_lyrics": "raw_lyrics/7364578014729226241_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "30.336秒 - 59.903秒 (持续29.567秒)",
-        "start_seconds": 30.336,
-        "duration_seconds": 29.567
-      },
-      "tags": {
-        "Languages": [
-          "English"
-        ],
-        "Moods": [
-          "Dynamic"
-        ],
-        "Genres": [
-          "Electronic",
-          "EDM"
-        ],
-        "Themes": [
-          "Danceable",
-          "Party"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ocfsEWx5bxlTAA3jVNAtEgtGQAiMA0BYENBhAi"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7489016280318838794",
-      "rank": 27,
-      "title": "春禾",
-      "author": "Youzee Music",
-      "album": "",
-      "heat": 15985119,
-      "user_count": 28830,
-      "duration": 158,
-      "duration_formatted": "158秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7489016280318838794.jpg",
-        "audio": "music/7489016280318838794.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7489016280318838794_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "40.128秒 - 64.128秒 (持续24.000秒)",
-        "start_seconds": 40.128,
-        "duration_seconds": 24.0
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "BGM",
-          "Others"
-        ],
-        "Themes": [
-          "Spring",
-          "Travel"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7477237961878046732",
-      "rank": 28,
-      "title": "游京DJ",
-      "author": "瑞悦儿",
-      "album": "",
-      "heat": 15965986,
-      "user_count": 102845,
-      "duration": 34,
-      "duration_formatted": "34秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7477237961878046732.jpg",
-        "audio": "music/7477237961878046732.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "",
-        "start_seconds": null,
-        "duration_seconds": null
-      },
-      "tags": {
-        "Languages": null,
-        "Moods": null,
-        "Genres": null,
-        "Themes": null,
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7472683447744564003",
-      "rank": 29,
-      "title": "月亮翻过小山坡（架子鼓版）",
-      "author": "王海颖、孙圳翰",
-      "album": "月亮翻过小山坡（架子鼓版）",
-      "heat": 15911154,
-      "user_count": 9748336,
-      "duration": 24,
-      "duration_formatted": "24秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7472683447744564003.jpg",
-        "audio": "music/7472683447744564003.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "",
-        "start_seconds": null,
-        "duration_seconds": null
-      },
-      "tags": {
-        "Languages": null,
         "Moods": [
           "Memory"
         ],
@@ -1496,107 +2091,60 @@
           "Pop"
         ],
         "Themes": [
-          "Sunny"
+          "Rainy"
         ],
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": ""
+        "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUe8vLvaIQBQAwPZveeTgAxFzAujQGG0BA0nCU"
       },
       "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
+        "is_full_audio": false,
+        "audio_type": "chorus",
         "has_chorus_segment": false
       }
     },
     {
-      "id": "7500602994050222089",
-      "rank": 30,
-      "title": "空灵之波（剪辑版）",
-      "author": "WindFi风歌",
-      "album": "",
-      "heat": 15908097,
-      "user_count": 219106,
-      "duration": 54,
-      "duration_formatted": "54秒",
+      "id": "7377935002954319891",
+      "rank": 41,
+      "title": "节奏感欢快高兴",
+      "author": "sick bubble",
+      "album": "节奏感欢快高兴",
+      "heat": 15610129,
+      "user_count": 2766070,
+      "duration": 126,
+      "duration_formatted": "126秒",
       "is_original": false,
-      "is_commerce_music": false,
+      "is_commerce_music": true,
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
+      "update_time": "2025-05-22 21:20",
       "files": {
-        "cover_image": "images/7500602994050222089.jpg",
-        "audio": "music/7500602994050222089.mp3",
+        "cover_image": "images/7377935002954319891.jpg",
+        "audio": "music/7377935002954319891.mp3",
         "lyrics": "",
-        "chorus": "chorus/7500602994050222089_chorus.mp3"
+        "chorus": "chorus/7377935002954319891_chorus.mp3"
       },
       "high_peak": {
-        "time_range": "31.872秒 - 85.823秒 (持续53.951秒)",
-        "start_seconds": 31.872,
-        "duration_seconds": 53.951
+        "time_range": "0.000秒 - 71.232秒 (持续71.232秒)",
+        "start_seconds": 0.0,
+        "duration_seconds": 71.232
       },
       "tags": {
         "Languages": [
           "non_vocal"
         ],
         "Moods": [
-          "Healing",
-          "Chill",
-          "Calm"
+          "Happy",
+          "Dynamic"
         ],
         "Genres": [
-          "Easy Listening"
+          "Classical"
         ],
-        "Themes": null,
-        "SingingVersions": [
-          "High Quality"
-        ]
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "6990639268368484354",
-      "rank": 31,
-      "title": "爆炸",
-      "author": "BCD Studio",
-      "album": "Take it easy",
-      "heat": 15895452,
-      "user_count": 1604540,
-      "duration": 3,
-      "duration_formatted": "3秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": true,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/6990639268368484354.jpg",
-        "audio": "music/6990639268368484354.mp3",
-        "lyrics": "",
-        "chorus": "chorus/6990639268368484354_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "0.000秒 - 5.000秒 (持续5.000秒)",
-        "start_seconds": 0.0,
-        "duration_seconds": 5.0
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": null,
-        "Genres": null,
         "Themes": [
-          "Sound Effect"
+          "Summer",
+          "Dance"
         ],
         "SingingVersions": [
           "Seed"
@@ -1606,378 +2154,51 @@
         "lyric_url": ""
       },
       "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "6842162303987615757",
-      "rank": 32,
-      "title": "未闻花名十孔口琴版",
-      "author": "蓝馍馍",
-      "album": "",
-      "heat": 15894342,
-      "user_count": 147846,
-      "duration": 37,
-      "duration_formatted": "37秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": true,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/6842162303987615757.jpg",
-        "audio": "music/6842162303987615757.mp3",
-        "lyrics": "",
-        "chorus": "chorus/6842162303987615757_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "0.000秒 - 36.864秒 (持续36.864秒)",
-        "start_seconds": 0.0,
-        "duration_seconds": 36.864
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Happy"
-        ],
-        "Genres": [
-          "Easy Listening",
-          "Pop"
-        ],
-        "Themes": [
-          "Sunny",
-          "Spring",
-          "Summer"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
         "is_full_audio": true,
         "audio_type": "full",
         "has_chorus_segment": true
       }
     },
     {
-      "id": "7499634980970792998",
-      "rank": 33,
-      "title": "Hening di Dalam Bayang（剪辑版）",
-      "author": "一树星火",
+      "id": "7274280016233793551",
+      "rank": 42,
+      "title": "仓央嘉措吉他曲",
+      "author": "邱伍里",
       "album": "",
-      "heat": 15838680,
-      "user_count": 401619,
-      "duration": 20,
-      "duration_formatted": "20秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7499634980970792998.jpg",
-        "audio": "music/7499634980970792998.mp3",
-        "lyrics": "lyrics/7499634980970792998.lrc",
-        "chorus": "chorus/7499634980970792998_chorus.mp3",
-        "raw_lyrics": "raw_lyrics/7499634980970792998.json"
-      },
-      "high_peak": {
-        "time_range": "121.920秒 - 141.504秒 (持续19.584秒)",
-        "start_seconds": 121.92,
-        "duration_seconds": 19.584
-      },
-      "tags": {
-        "Languages": [
-          "Korean"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "Pop"
-        ],
-        "Themes": [
-          "Sunny"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/okCRADvIaAFWAAlftgsajDoe1BZHLCr2EIJBAU"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7485233384424851519",
-      "rank": 34,
-      "title": "虚拟（疯狂的海海 Remix）（剪辑版）",
-      "author": "疯狂的海海",
-      "album": "",
-      "heat": 15786252,
-      "user_count": 37206,
-      "duration": 31,
-      "duration_formatted": "31秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7485233384424851519.jpg",
-        "audio": "music/7485233384424851519.mp3",
-        "lyrics": "lyrics/7485233384424851519.lrc",
-        "chorus": "chorus/7485233384424851519_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7485233384424851519_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7485233384424851519.json",
-        "chorus_raw_lyrics": "raw_lyrics/7485233384424851519_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "80.640秒 - 111.552秒 (持续30.912秒)",
-        "start_seconds": 80.64,
-        "duration_seconds": 30.912
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Miss"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Love"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oYhIiFxmVGAAqIEPDxLeBCAteqSAE6EBzAGfaB"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "6974646674715183139",
-      "rank": 35,
-      "title": "萱草花-钢琴版",
-      "author": "叮哈哈",
-      "album": "",
-      "heat": 15771096,
-      "user_count": 1339824,
-      "duration": 107,
-      "duration_formatted": "107秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": true,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/6974646674715183139.jpg",
-        "audio": "music/6974646674715183139.mp3",
-        "lyrics": "",
-        "chorus": "chorus/6974646674715183139_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "17.664秒 - 68.928秒 (持续51.264秒)",
-        "start_seconds": 17.664,
-        "duration_seconds": 51.264
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Memory"
-        ],
-        "Genres": [
-          "Easy Listening"
-        ],
-        "Themes": [
-          "Spring",
-          "Sunny"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7017766182325323778",
-      "rank": 36,
-      "title": "都不懂",
-      "author": "yihuik苡慧",
-      "album": "都不懂",
-      "heat": 15748260,
-      "user_count": 32995,
-      "duration": 152,
-      "duration_formatted": "152秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": true,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7017766182325323778.jpg",
-        "audio": "music/7017766182325323778.mp3",
-        "lyrics": "lyrics/7017766182325323778.lrc",
-        "chorus": "chorus/7017766182325323778_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7017766182325323778_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7017766182325323778.json",
-        "chorus_raw_lyrics": "raw_lyrics/7017766182325323778_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "98.496秒 - 131.712秒 (持续33.216秒)",
-        "start_seconds": 98.496,
-        "duration_seconds": 33.216
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Chill",
-          "Romantic"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop"
-        ],
-        "Themes": [
-          "Spring",
-          "Summer",
-          "Love"
-        ],
-        "SingingVersions": [
-          "Cover"
-        ]
-      },
-      "music_info": {
-        "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/8f0af17d31cc483693b83bc131b553ae"
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7501629600271992833",
-      "rank": 37,
-      "title": "别分离就是了",
-      "author": "赵美竹",
-      "album": "都不要分开了",
-      "heat": 15717117,
-      "user_count": 4827,
-      "duration": 60,
-      "duration_formatted": "60秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7501629600271992833.jpg",
-        "audio": "music/7501629600271992833.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "36.096秒 - 66.431秒 (持续30.335秒)",
-        "start_seconds": 36.096,
-        "duration_seconds": 30.335
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Dynamic"
-        ],
-        "Genres": [
-          "DJ",
-          "Others"
-        ],
-        "Themes": [
-          "Low",
-          "Danceable"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7214030409419229243",
-      "rank": 38,
-      "title": "母亲节快乐(纯音乐)",
-      "author": "郭丹妮",
-      "album": "",
-      "heat": 15690646,
-      "user_count": 537684,
-      "duration": 97,
-      "duration_formatted": "97秒",
+      "heat": 15581463,
+      "user_count": 10551638,
+      "duration": 147,
+      "duration_formatted": "147秒",
       "is_original": true,
       "is_commerce_music": false,
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
+      "update_time": "2025-05-22 21:20",
       "files": {
-        "cover_image": "images/7214030409419229243.jpg",
-        "audio": "music/7214030409419229243.mp3",
+        "cover_image": "images/7274280016233793551.jpg",
+        "audio": "music/7274280016233793551.mp3",
         "lyrics": "",
-        "chorus": "chorus/7214030409419229243_chorus.mp3"
+        "chorus": "chorus/7274280016233793551_chorus.mp3"
       },
       "high_peak": {
-        "time_range": "49.344秒 - 69.887秒 (持续20.543秒)",
-        "start_seconds": 49.344,
-        "duration_seconds": 20.543
+        "time_range": "7.680秒 - 63.168秒 (持续55.488秒)",
+        "start_seconds": 7.68,
+        "duration_seconds": 55.488
       },
       "tags": {
         "Languages": [
           "non_vocal"
         ],
         "Moods": [
-          "Miss",
-          "Memory",
-          "Chill",
-          "Calm"
+          "Sorrow"
         ],
         "Genres": [
-          "Easy Listening"
+          "Others",
+          "BGM"
         ],
         "Themes": [
-          "Spring"
+          "Autumn"
         ],
         "SingingVersions": [
           "High Quality"
@@ -1993,69 +2214,13 @@
       }
     },
     {
-      "id": "7470425414512969744",
-      "rank": 39,
-      "title": "西厢寻他（0.8x）片段",
-      "author": "slow_77",
-      "album": "西厢寻他（0.8x）",
-      "heat": 15661711,
-      "user_count": 216554,
-      "duration": 40,
-      "duration_formatted": "40秒",
-      "is_original": false,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7470425414512969744.jpg",
-        "audio": "music/7470425414512969744.mp3",
-        "lyrics": "lyrics/7470425414512969744.lrc",
-        "chorus": "chorus/7470425414512969744_chorus.mp3",
-        "chorus_lyrics": "chorus_lyrics/7470425414512969744_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7470425414512969744.json",
-        "chorus_raw_lyrics": "raw_lyrics/7470425414512969744_chorus.json"
-      },
-      "high_peak": {
-        "time_range": "83.136秒 - 125.568秒 (持续42.432秒)",
-        "start_seconds": 83.136,
-        "duration_seconds": 42.432
-      },
-      "tags": {
-        "Languages": [
-          "Chinese"
-        ],
-        "Moods": [
-          "Sorrow"
-        ],
-        "Genres": [
-          "Chinese Pop",
-          "Pop",
-          "Chinese Style"
-        ],
-        "Themes": [
-          "No Theme"
-        ],
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oArFMfAbCGbIrf9hEVIAhe1evzcAoLIGAmYIOf"
-      },
-      "audio_info": {
-        "is_full_audio": false,
-        "audio_type": "chorus",
-        "has_chorus_segment": true
-      }
-    },
-    {
       "id": "7252254284351473721",
-      "rank": 40,
+      "rank": 43,
       "title": "哎呀我滴天呐（剪辑版）",
       "author": "雪人",
       "album": "",
-      "heat": 15654102,
-      "user_count": 4270412,
+      "heat": 15565669,
+      "user_count": 4272587,
       "duration": 27,
       "duration_formatted": "27秒",
       "is_original": true,
@@ -2063,7 +2228,7 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
+      "update_time": "2025-05-22 21:20",
       "files": {
         "cover_image": "images/7252254284351473721.jpg",
         "audio": "music/7252254284351473721.mp3",
@@ -2102,111 +2267,13 @@
       }
     },
     {
-      "id": "7123789566997252127",
-      "rank": 41,
-      "title": "蜜桃物语",
-      "author": "仁辰 & 于行",
+      "id": "7331297409526958120",
+      "rank": 44,
+      "title": "Gimme（嗓音的故事）（剪辑版）",
+      "author": "人面兽心&花凯",
       "album": "",
-      "heat": 15639519,
-      "user_count": 7672176,
-      "duration": 170,
-      "duration_formatted": "170秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7123789566997252127.jpg",
-        "audio": "music/7123789566997252127.mp3",
-        "lyrics": "",
-        "chorus": "chorus/7123789566997252127_chorus.mp3"
-      },
-      "high_peak": {
-        "time_range": "139.200秒 - 168.768秒 (持续29.568秒)",
-        "start_seconds": 139.2,
-        "duration_seconds": 29.568
-      },
-      "tags": {
-        "Languages": [
-          "non_vocal"
-        ],
-        "Moods": [
-          "Chill"
-        ],
-        "Genres": [
-          "BGM",
-          "Others"
-        ],
-        "Themes": [
-          "Sunny",
-          "Food",
-          "Vlog"
-        ],
-        "SingingVersions": [
-          "republished version"
-        ]
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": true
-      }
-    },
-    {
-      "id": "7179897900678252546",
-      "rank": 42,
-      "title": "好想我回来啊",
-      "author": "华晨宇",
-      "album": "希忘Hope",
-      "heat": 15603642,
-      "user_count": 21501,
-      "duration": 28,
-      "duration_formatted": "28秒",
-      "is_original": true,
-      "is_commerce_music": false,
-      "is_aed_music": false,
-      "has_copyright": true,
-      "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
-      "files": {
-        "cover_image": "images/7179897900678252546.jpg",
-        "audio": "music/7179897900678252546.mp3",
-        "lyrics": ""
-      },
-      "high_peak": {
-        "time_range": "",
-        "start_seconds": null,
-        "duration_seconds": null
-      },
-      "tags": {
-        "Languages": null,
-        "Moods": null,
-        "Genres": null,
-        "Themes": null,
-        "SingingVersions": null
-      },
-      "music_info": {
-        "lyric_url": ""
-      },
-      "audio_info": {
-        "is_full_audio": true,
-        "audio_type": "full",
-        "has_chorus_segment": false
-      }
-    },
-    {
-      "id": "7493914689551763472",
-      "rank": 43,
-      "title": "脆弱的女人（1.2x）",
-      "author": "卡西恩",
-      "album": "脆弱的女人",
-      "heat": 15581834,
-      "user_count": 45121,
+      "heat": 15544031,
+      "user_count": 79218,
       "duration": 19,
       "duration_formatted": "19秒",
       "is_original": true,
@@ -2214,43 +2281,98 @@
       "is_aed_music": false,
       "has_copyright": true,
       "can_background_play": true,
-      "update_time": "2025-05-22 20:08",
+      "update_time": "2025-05-22 21:20",
       "files": {
-        "cover_image": "images/7493914689551763472.jpg",
-        "audio": "music/7493914689551763472.mp3",
-        "lyrics": "lyrics/7493914689551763472.lrc",
-        "chorus_lyrics": "chorus_lyrics/7493914689551763472_chorus.lrc",
-        "raw_lyrics": "raw_lyrics/7493914689551763472.json",
-        "chorus_raw_lyrics": "raw_lyrics/7493914689551763472_chorus.json"
+        "cover_image": "images/7331297409526958120.jpg",
+        "audio": "music/7331297409526958120.mp3",
+        "lyrics": "lyrics/7331297409526958120.lrc",
+        "chorus": "chorus/7331297409526958120_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7331297409526958120_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7331297409526958120.json",
+        "chorus_raw_lyrics": "raw_lyrics/7331297409526958120_chorus.json"
       },
       "high_peak": {
-        "time_range": "101.184秒 - 148.608秒 (持续47.424秒)",
-        "start_seconds": 101.184,
-        "duration_seconds": 47.424
+        "time_range": "4.608秒 - 23.808秒 (持续19.200秒)",
+        "start_seconds": 4.608,
+        "duration_seconds": 19.2
       },
       "tags": {
         "Languages": [
-          "Chinese"
+          "English"
         ],
         "Moods": [
-          "Memory"
+          "Dynamic"
         ],
         "Genres": [
-          "Chinese Pop",
-          "Pop"
+          "DJ",
+          "Others"
         ],
         "Themes": [
-          "Rainy"
+          "Dance"
         ],
         "SingingVersions": null
       },
       "music_info": {
-        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUe8vLvaIQBQAwPZveeTgAxFzAujQGG0BA0nCU"
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/6a5818cd6721434bbd29c0bf28913961"
       },
       "audio_info": {
         "is_full_audio": false,
         "audio_type": "chorus",
-        "has_chorus_segment": false
+        "has_chorus_segment": true
+      }
+    },
+    {
+      "id": "7335395405296831242",
+      "rank": 45,
+      "title": "Take me hand（Zy版全网听）",
+      "author": "Zy",
+      "album": "Take Me Hand",
+      "heat": 15531938,
+      "user_count": 544826,
+      "duration": 27,
+      "duration_formatted": "27秒",
+      "is_original": false,
+      "is_commerce_music": false,
+      "is_aed_music": false,
+      "has_copyright": true,
+      "can_background_play": true,
+      "update_time": "2025-05-22 21:20",
+      "files": {
+        "cover_image": "images/7335395405296831242.jpg",
+        "audio": "music/7335395405296831242.mp3",
+        "lyrics": "lyrics/7335395405296831242.lrc",
+        "chorus": "chorus/7335395405296831242_chorus.mp3",
+        "chorus_lyrics": "chorus_lyrics/7335395405296831242_chorus.lrc",
+        "raw_lyrics": "raw_lyrics/7335395405296831242.json",
+        "chorus_raw_lyrics": "raw_lyrics/7335395405296831242_chorus.json"
+      },
+      "high_peak": {
+        "time_range": "105.408秒 - 131.520秒 (持续26.112秒)",
+        "start_seconds": 105.408,
+        "duration_seconds": 26.112
+      },
+      "tags": {
+        "Languages": [
+          "English"
+        ],
+        "Moods": [
+          "Chill"
+        ],
+        "Genres": [
+          "Pop"
+        ],
+        "Themes": [
+          "Autumn"
+        ],
+        "SingingVersions": null
+      },
+      "music_info": {
+        "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8zgf5S1HQDQAe0vsS2fIAoKmA3gYPMdCA1eEO"
+      },
+      "audio_info": {
+        "is_full_audio": false,
+        "audio_type": "chorus",
+        "has_chorus_segment": true
       }
     }
   ]

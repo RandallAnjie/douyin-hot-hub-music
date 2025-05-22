@@ -1,0 +1,52 @@
+{
+  "id": "7499726912275023924",
+  "rank": 8,
+  "title": "Heldatn Forkint",
+  "author": "GETLIR",
+  "album": "",
+  "heat": 16474247,
+  "user_count": 55329,
+  "duration": 130,
+  "duration_formatted": "130秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:13",
+  "files": {
+    "cover_image": "images/7499726912275023924.jpg",
+    "audio": "music/7499726912275023924.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7499726912275023924_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "19.200秒 - 37.248秒 (持续18.048秒)",
+    "start_seconds": 19.2,
+    "duration_seconds": 18.048
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Dynamic"
+    ],
+    "Genres": [
+      "Electronic"
+    ],
+    "Themes": [
+      "Dance",
+      "Transition"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7294074640125233163",
+  "rank": 13,
+  "title": "520（纯音乐）（剪辑版）",
+  "author": "Eliezer",
+  "album": "",
+  "heat": 16275715,
+  "user_count": 184406,
+  "duration": 28,
+  "duration_formatted": "28秒",
+  "is_original": true,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:18",
+  "files": {
+    "cover_image": "images/7294074640125233163.jpg",
+    "audio": "music/7294074640125233163.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7294074640125233163_chorus.mp3"
+  },
+  "high_peak": {
+    "time_range": "42.432秒 - 70.655秒 (持续28.223秒)",
+    "start_seconds": 42.432,
+    "duration_seconds": 28.223
+  },
+  "tags": {
+    "Languages": [
+      "non_vocal"
+    ],
+    "Moods": [
+      "Miss",
+      "Memory"
+    ],
+    "Genres": null,
+    "Themes": [
+      "Autumn"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}

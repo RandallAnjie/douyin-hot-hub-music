@@ -1,0 +1,42 @@
+{
+  "id": "7503529187983018767",
+  "rank": 21,
+  "title": "零距离的思念（剪辑版）",
+  "author": "TINY7",
+  "album": "Chose one me",
+  "heat": 16095969,
+  "user_count": 21426,
+  "duration": 27,
+  "duration_formatted": "27秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-22 21:19",
+  "files": {
+    "cover_image": "images/7503529187983018767.jpg",
+    "audio": "music/7503529187983018767.mp3",
+    "lyrics": ""
+  },
+  "high_peak": {
+    "time_range": "",
+    "start_seconds": null,
+    "duration_seconds": null
+  },
+  "tags": {
+    "Languages": null,
+    "Moods": null,
+    "Genres": null,
+    "Themes": null,
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": ""
+  },
+  "audio_info": {
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": false
+  }
+}
