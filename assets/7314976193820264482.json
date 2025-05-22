@@ -5,7 +5,7 @@
   "author": "追乐者",
   "album": "",
   "heat": 15767790,
-  "user_count": 2006445,
+  "user_count": 2007077,
   "duration": 101,
   "duration_formatted": "101秒",
   "is_original": true,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-22 22:39",
+  "update_time": "2025-05-23 00:09",
   "files": {
     "cover_image": "images/7314976193820264482.jpg",
-    "audio": "assets/music/7314976193820264482.mp3",
-    "lyrics": ""
+    "audio": "music/7314976193820264482.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7314976193820264482_chorus.mp3"
   },
   "high_peak": {
     "time_range": "0.000秒 - 23.424秒 (持续23.424秒)",
@@ -44,8 +45,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
