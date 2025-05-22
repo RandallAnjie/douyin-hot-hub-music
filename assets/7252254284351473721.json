@@ -1,11 +1,11 @@
 {
   "id": "7252254284351473721",
-  "rank": 41,
+  "rank": 40,
   "title": "哎呀我滴天呐（剪辑版）",
   "author": "雪人",
   "album": "",
   "heat": 15654102,
-  "user_count": 4262431,
+  "user_count": 4264069,
   "duration": 27,
   "duration_formatted": "27秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-22 16:08",
+  "update_time": "2025-05-22 17:07",
   "files": {
     "cover_image": "images/7252254284351473721.jpg",
     "audio": "music/7252254284351473721.mp3",

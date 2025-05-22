@@ -1,11 +1,11 @@
 {
   "id": "7123789566997252127",
-  "rank": 42,
+  "rank": 41,
   "title": "蜜桃物语",
   "author": "仁辰 & 于行",
   "album": "",
   "heat": 15639519,
-  "user_count": 7670423,
+  "user_count": 7669872,
   "duration": 170,
   "duration_formatted": "170秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-22 16:08",
+  "update_time": "2025-05-22 17:07",
   "files": {
     "cover_image": "images/7123789566997252127.jpg",
     "audio": "music/7123789566997252127.mp3",
