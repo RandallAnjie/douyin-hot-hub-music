@@ -1,11 +1,11 @@
 {
   "id": "7501150240558467109",
-  "rank": 11,
+  "rank": 14,
   "title": "坏女孩（DJ版）（焱焱Dz Remix）（剪辑版）",
   "author": "焱焱Dz",
   "album": "",
   "heat": 16343467,
-  "user_count": 71887,
+  "user_count": 72609,
   "duration": 31,
   "duration_formatted": "31秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-23 19:05",
+  "update_time": "2025-05-23 20:07",
   "files": {
     "cover_image": "images/7501150240558467109.jpg",
     "audio": "music/7501150240558467109.mp3",
@@ -46,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogO0DABEEgAiAA8NfWBQEPAi6PZZRb9ZLJJsh7"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ogO0DABEEgAiAA8NfWBQEPAi6PZZRb9ZLJJsh7"
   },
   "audio_info": {
     "is_full_audio": false,

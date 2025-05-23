@@ -1,0 +1,55 @@
+{
+  "id": "7492750438677170979",
+  "rank": 4,
+  "title": "没有我你怎么办（主歌）",
+  "author": "郑杰伦",
+  "album": "没有我你怎么办",
+  "heat": 15179306,
+  "user_count": 29169,
+  "duration": 38,
+  "duration_formatted": "38秒",
+  "is_original": false,
+  "is_commerce_music": false,
+  "is_aed_music": false,
+  "has_copyright": true,
+  "can_background_play": true,
+  "update_time": "2025-05-23 20:07",
+  "files": {
+    "cover_image": "images/7492750438677170979.jpg",
+    "audio": "music/7492750438677170979.mp3",
+    "lyrics": "lyrics/7492750438677170979.lrc",
+    "chorus": "chorus/7492750438677170979_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7492750438677170979_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7492750438677170979.json",
+    "chorus_raw_lyrics": "raw_lyrics/7492750438677170979_chorus.json"
+  },
+  "high_peak": {
+    "time_range": "68.160秒 - 103.295秒 (持续35.135秒)",
+    "start_seconds": 68.16,
+    "duration_seconds": 35.135
+  },
+  "tags": {
+    "Languages": [
+      "Chinese"
+    ],
+    "Moods": [
+      "Sorrow"
+    ],
+    "Genres": [
+      "Chinese Pop",
+      "Pop"
+    ],
+    "Themes": [
+      "Love"
+    ],
+    "SingingVersions": null
+  },
+  "music_info": {
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
+  },
+  "audio_info": {
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": true
+  }
+}
