@@ -5,7 +5,7 @@
   "author": "磨尖的粉笔",
   "album": "",
   "heat": 15906104,
-  "user_count": 440765,
+  "user_count": 440811,
   "duration": 43,
   "duration_formatted": "43秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-24 03:06",
+  "update_time": "2025-05-24 04:07",
   "files": {
     "cover_image": "images/7443058102645180453.jpg",
-    "audio": "music/7443058102645180453.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7443058102645180453_chorus.mp3"
+    "audio": "assets/music/7443058102645180453.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "66.240秒 - 109.632秒 (持续43.392秒)",
@@ -48,6 +47,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }
