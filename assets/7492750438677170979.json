@@ -5,7 +5,7 @@
   "author": "郑杰伦",
   "album": "没有我你怎么办",
   "heat": 15179306,
-  "user_count": 36428,
+  "user_count": 36449,
   "duration": 38,
   "duration_formatted": "38秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-25 04:04",
+  "update_time": "2025-05-25 05:04",
   "files": {
     "cover_image": "images/7492750438677170979.jpg",
     "audio": "music/7492750438677170979.mp3",
@@ -45,7 +45,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
   },
   "audio_info": {
     "is_full_audio": false,
