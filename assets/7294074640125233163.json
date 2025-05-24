@@ -5,7 +5,7 @@
   "author": "Eliezer",
   "album": "",
   "heat": 16275715,
-  "user_count": 183340,
+  "user_count": 183326,
   "duration": 28,
   "duration_formatted": "28秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-25 03:04",
+  "update_time": "2025-05-25 04:18",
   "files": {
     "cover_image": "images/7294074640125233163.jpg",
-    "audio": "music/7294074640125233163.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7294074640125233163_chorus.mp3"
+    "audio": "assets/music/7294074640125233163.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "42.432秒 - 70.655秒 (持续28.223秒)",
@@ -47,6 +46,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }
