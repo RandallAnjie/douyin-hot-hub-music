@@ -5,7 +5,7 @@
   "author": "李群然",
   "album": "",
   "heat": 16307643,
-  "user_count": 38763,
+  "user_count": 38771,
   "duration": 39,
   "duration_formatted": "39秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-26 05:18",
+  "update_time": "2025-05-26 06:06",
   "files": {
     "cover_image": "images/7457400072759248937.jpg",
     "audio": "music/7457400072759248937.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7457400072759248937_chorus.mp3"
+    "lyrics": "lyrics/7457400072759248937.lrc",
+    "chorus": "chorus/7457400072759248937_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7457400072759248937_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7457400072759248937.json",
+    "chorus_raw_lyrics": "raw_lyrics/7457400072759248937_chorus.json"
   },
   "high_peak": {
     "time_range": "3.264秒 - 42.048秒 (持续38.784秒)",
