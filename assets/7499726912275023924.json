@@ -5,7 +5,7 @@
   "author": "GETLIR",
   "album": "",
   "heat": 16474247,
-  "user_count": 72049,
+  "user_count": 72226,
   "duration": 130,
   "duration_formatted": "130秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-25 08:19",
+  "update_time": "2025-05-25 09:33",
   "files": {
     "cover_image": "images/7499726912275023924.jpg",
-    "audio": "music/7499726912275023924.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7499726912275023924_chorus.mp3"
+    "audio": "assets/music/7499726912275023924.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "19.200秒 - 37.248秒 (持续18.048秒)",
@@ -47,8 +46,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
