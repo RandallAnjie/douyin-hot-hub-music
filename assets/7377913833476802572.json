@@ -5,7 +5,7 @@
   "author": "MangoAudio",
   "album": "时尚动感放克律动  Funk Caravan Main",
   "heat": 16141258,
-  "user_count": 2180173,
+  "user_count": 2180164,
   "duration": 132,
   "duration_formatted": "132秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-26 04:05",
+  "update_time": "2025-05-26 05:31",
   "files": {
     "cover_image": "images/7377913833476802572.jpg",
-    "audio": "music/7377913833476802572.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7377913833476802572_chorus.mp3"
+    "audio": "assets/music/7377913833476802572.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "32.064秒 - 63.936秒 (持续31.872秒)",
@@ -46,8 +45,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
