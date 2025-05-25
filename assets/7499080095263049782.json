@@ -5,7 +5,7 @@
   "author": "xone",
   "album": "",
   "heat": 15837202,
-  "user_count": 78206,
+  "user_count": 78230,
   "duration": 28,
   "duration_formatted": "28秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-25 07:06",
+  "update_time": "2025-05-25 08:19",
   "files": {
     "cover_image": "images/7499080095263049782.jpg",
     "audio": "music/7499080095263049782.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIA5rAbQaW7MRIJcAvruiyAEAABiPBoTcFgNE"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIA5rAbQaW7MRIJcAvruiyAEAABiPBoTcFgNE"
   },
   "audio_info": {
     "is_full_audio": false,
