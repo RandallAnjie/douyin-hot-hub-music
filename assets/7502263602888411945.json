@@ -5,7 +5,7 @@
   "author": "张杰",
   "album": "千万次想象",
   "heat": 17249639,
-  "user_count": 358073,
+  "user_count": 358118,
   "duration": 33,
   "duration_formatted": "33秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-27 02:05",
+  "update_time": "2025-05-27 03:04",
   "files": {
     "cover_image": "images/7502263602888411945.jpg",
-    "audio": "music/7502263602888411945.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7502263602888411945_chorus.mp3"
+    "audio": "assets/music/7502263602888411945.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "50.112秒 - 84.288秒 (持续34.176秒)",
@@ -49,6 +48,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }
