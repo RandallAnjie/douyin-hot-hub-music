@@ -5,7 +5,7 @@
   "author": "焱焱Dz",
   "album": "",
   "heat": 16343467,
-  "user_count": 87960,
+  "user_count": 87982,
   "duration": 31,
   "duration_formatted": "31秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-27 05:04",
+  "update_time": "2025-05-27 06:04",
   "files": {
     "cover_image": "images/7501150240558467109.jpg",
     "audio": "music/7501150240558467109.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7501150240558467109_chorus.mp3"
+    "lyrics": "lyrics/7501150240558467109.lrc",
+    "chorus": "chorus/7501150240558467109_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7501150240558467109_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7501150240558467109.json",
+    "chorus_raw_lyrics": "raw_lyrics/7501150240558467109_chorus.json"
   },
   "high_peak": {
     "time_range": "229.440秒 - 260.351秒 (持续30.911秒)",
