@@ -5,7 +5,7 @@
   "author": "Zy",
   "album": "Take Me Hand",
   "heat": 15531938,
-  "user_count": 550828,
+  "user_count": 550830,
   "duration": 27,
   "duration_formatted": "27秒",
   "is_original": false,
@@ -13,15 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-27 01:12",
+  "update_time": "2025-05-27 02:14",
   "files": {
     "cover_image": "images/7335395405296831242.jpg",
     "audio": "music/7335395405296831242.mp3",
-    "lyrics": "lyrics/7335395405296831242.lrc",
-    "chorus": "chorus/7335395405296831242_chorus.mp3",
-    "chorus_lyrics": "chorus_lyrics/7335395405296831242_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/7335395405296831242.json",
-    "chorus_raw_lyrics": "raw_lyrics/7335395405296831242_chorus.json"
+    "lyrics": "",
+    "chorus": "chorus/7335395405296831242_chorus.mp3"
   },
   "high_peak": {
     "time_range": "105.408秒 - 131.520秒 (持续26.112秒)",
@@ -44,7 +41,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8zgf5S1HQDQAe0vsS2fIAoKmA3gYPMdCA1eEO"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8zgf5S1HQDQAe0vsS2fIAoKmA3gYPMdCA1eEO"
   },
   "audio_info": {
     "is_full_audio": false,
