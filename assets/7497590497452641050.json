@@ -5,7 +5,7 @@
   "author": "黄子弘凡",
   "album": "那些喊给天空的",
   "heat": 17842921,
-  "user_count": 721028,
+  "user_count": 723424,
   "duration": 26,
   "duration_formatted": "26秒",
   "is_original": false,
@@ -13,10 +13,10 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-27 09:32",
+  "update_time": "2025-05-27 10:33",
   "files": {
     "cover_image": "images/7497590497452641050.jpg",
-    "audio": "music/7497590497452641050.mp3",
+    "audio": "assets/music/7497590497452641050.mp3",
     "lyrics": ""
   },
   "high_peak": {
