@@ -5,7 +5,7 @@
   "author": "卡西恩",
   "album": "脆弱的女人",
   "heat": 15615969,
-  "user_count": 62631,
+  "user_count": 63120,
   "duration": 19,
   "duration_formatted": "19秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-27 20:09",
+  "update_time": "2025-05-27 21:15",
   "files": {
     "cover_image": "images/7493914689551763472.jpg",
     "audio": "music/7493914689551763472.mp3",
@@ -44,7 +44,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUe8vLvaIQBQAwPZveeTgAxFzAujQGG0BA0nCU"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUe8vLvaIQBQAwPZveeTgAxFzAujQGG0BA0nCU"
   },
   "audio_info": {
     "is_full_audio": false,
