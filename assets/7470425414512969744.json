@@ -5,7 +5,7 @@
   "author": "slow_77",
   "album": "西厢寻他（0.8x）",
   "heat": 15738364,
-  "user_count": 237810,
+  "user_count": 237945,
   "duration": 40,
   "duration_formatted": "40秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-27 11:24",
+  "update_time": "2025-05-27 12:10",
   "files": {
     "cover_image": "images/7470425414512969744.jpg",
     "audio": "music/7470425414512969744.mp3",
@@ -46,7 +46,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oArFMfAbCGbIrf9hEVIAhe1evzcAoLIGAmYIOf"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oArFMfAbCGbIrf9hEVIAhe1evzcAoLIGAmYIOf"
   },
   "audio_info": {
     "is_full_audio": false,
