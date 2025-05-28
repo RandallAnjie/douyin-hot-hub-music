@@ -5,7 +5,7 @@
   "author": "xone",
   "album": "",
   "heat": 15837202,
-  "user_count": 79688,
+  "user_count": 79705,
   "duration": 28,
   "duration_formatted": "28秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-28 13:26",
+  "update_time": "2025-05-28 14:07",
   "files": {
     "cover_image": "images/7499080095263049782.jpg",
     "audio": "music/7499080095263049782.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7499080095263049782_chorus.mp3"
+    "lyrics": "lyrics/7499080095263049782.lrc",
+    "chorus": "chorus/7499080095263049782_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7499080095263049782_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7499080095263049782.json",
+    "chorus_raw_lyrics": "raw_lyrics/7499080095263049782_chorus.json"
   },
   "high_peak": {
     "time_range": "166.656秒 - 191.231秒 (持续24.575秒)",
