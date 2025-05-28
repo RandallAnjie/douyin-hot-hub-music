@@ -5,7 +5,7 @@
   "author": "sick bubble",
   "album": "节奏感欢快高兴",
   "heat": 15610129,
-  "user_count": 2792683,
+  "user_count": 2792688,
   "duration": 126,
   "duration_formatted": "126秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 04:17",
+  "update_time": "2025-05-29 05:11",
   "files": {
     "cover_image": "images/7377935002954319891.jpg",
-    "audio": "assets/music/7377935002954319891.mp3",
-    "lyrics": ""
+    "audio": "music/7377935002954319891.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7377935002954319891_chorus.mp3"
   },
   "high_peak": {
     "time_range": "0.000秒 - 71.232秒 (持续71.232秒)",
@@ -47,8 +48,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
