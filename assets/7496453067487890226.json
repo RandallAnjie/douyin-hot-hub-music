@@ -5,7 +5,7 @@
   "author": "一颗狼星",
   "album": "天另一侧",
   "heat": 17540859,
-  "user_count": 7701,
+  "user_count": 7776,
   "duration": 33,
   "duration_formatted": "33秒",
   "is_original": false,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-28 12:08",
+  "update_time": "2025-05-28 13:11",
   "files": {
     "cover_image": "images/7496453067487890226.jpg",
-    "audio": "music/7496453067487890226.mp3",
+    "audio": "assets/music/7496453067487890226.mp3",
     "lyrics": "lyrics/7496453067487890226.lrc",
-    "chorus": "chorus/7496453067487890226_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7496453067487890226_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7496453067487890226.json",
     "chorus_raw_lyrics": "raw_lyrics/7496453067487890226_chorus.json"
@@ -47,11 +46,11 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4oiEJBoAgAE9AZWAiQ4fAWCtHaBLi4fcCkzYt"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4oiEJBoAgAE9AZWAiQ4fAWCtHaBLi4fcCkzYt"
   },
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": true
+    "has_chorus_segment": false
   }
 }
