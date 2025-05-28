@@ -5,7 +5,7 @@
   "author": "一颗狼星",
   "album": "天另一侧",
   "heat": 17540859,
-  "user_count": 8789,
+  "user_count": 8824,
   "duration": 33,
   "duration_formatted": "33秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 01:04",
+  "update_time": "2025-05-29 02:06",
   "files": {
     "cover_image": "images/7496453067487890226.jpg",
     "audio": "music/7496453067487890226.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4oiEJBoAgAE9AZWAiQ4fAWCtHaBLi4fcCkzYt"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o4oiEJBoAgAE9AZWAiQ4fAWCtHaBLi4fcCkzYt"
   },
   "audio_info": {
     "is_full_audio": false,

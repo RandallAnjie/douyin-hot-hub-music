@@ -5,7 +5,7 @@
   "author": "蓝爵醺调",
   "album": "",
   "heat": 15693483,
-  "user_count": 56898,
+  "user_count": 56909,
   "duration": 24,
   "duration_formatted": "24秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 01:06",
+  "update_time": "2025-05-29 02:07",
   "files": {
     "cover_image": "images/7501619625590327331.jpg",
     "audio": "music/7501619625590327331.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIZAAAgsCsAEAA6oenNFEOIJEBufHADm8gDct7"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIZAAAgsCsAEAA6oenNFEOIJEBufHADm8gDct7"
   },
   "audio_info": {
     "is_full_audio": false,
