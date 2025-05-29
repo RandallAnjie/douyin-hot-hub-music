@@ -5,7 +5,7 @@
   "author": "郑杰伦",
   "album": "没有我你怎么办",
   "heat": 15179306,
-  "user_count": 63793,
+  "user_count": 64181,
   "duration": 38,
   "duration_formatted": "38秒",
   "is_original": false,
@@ -13,15 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 20:07",
+  "update_time": "2025-05-29 21:12",
   "files": {
     "cover_image": "images/7492750438677170979.jpg",
     "audio": "music/7492750438677170979.mp3",
-    "lyrics": "lyrics/7492750438677170979.lrc",
-    "chorus": "chorus/7492750438677170979_chorus.mp3",
-    "chorus_lyrics": "chorus_lyrics/7492750438677170979_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/7492750438677170979.json",
-    "chorus_raw_lyrics": "raw_lyrics/7492750438677170979_chorus.json"
+    "lyrics": "",
+    "chorus": "chorus/7492750438677170979_chorus.mp3"
   },
   "high_peak": {
     "time_range": "68.160秒 - 103.295秒 (持续35.135秒)",
@@ -45,7 +42,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
   },
   "audio_info": {
     "is_full_audio": false,

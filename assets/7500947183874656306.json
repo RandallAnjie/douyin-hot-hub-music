@@ -5,7 +5,7 @@
   "author": "DJ达苏deep",
   "album": "",
   "heat": 15699384,
-  "user_count": 752402,
+  "user_count": 752626,
   "duration": 30,
   "duration_formatted": "30秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 20:15",
+  "update_time": "2025-05-29 21:54",
   "files": {
     "cover_image": "images/7500947183874656306.jpg",
     "audio": "music/7500947183874656306.mp3",
@@ -48,7 +48,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUromAaQqEMkiPEWrAoxCaIijA2ABA5PktwqC"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oUromAaQqEMkiPEWrAoxCaIijA2ABA5PktwqC"
   },
   "audio_info": {
     "is_full_audio": false,

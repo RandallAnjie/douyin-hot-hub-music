@@ -5,7 +5,7 @@
   "author": "桂林玉儿",
   "album": "",
   "heat": 15863025,
-  "user_count": 624601,
+  "user_count": 624561,
   "duration": 26,
   "duration_formatted": "26秒",
   "is_original": false,
@@ -13,15 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 20:07",
+  "update_time": "2025-05-29 21:40",
   "files": {
     "cover_image": "images/7482324352224430132.jpg",
     "audio": "music/7482324352224430132.mp3",
-    "lyrics": "lyrics/7482324352224430132.lrc",
-    "chorus": "chorus/7482324352224430132_chorus.mp3",
-    "chorus_lyrics": "chorus_lyrics/7482324352224430132_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/7482324352224430132.json",
-    "chorus_raw_lyrics": "raw_lyrics/7482324352224430132_chorus.json"
+    "lyrics": "",
+    "chorus": "chorus/7482324352224430132_chorus.mp3"
   },
   "high_peak": {
     "time_range": "26.688秒 - 52.608秒 (持续25.920秒)",
@@ -48,7 +45,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8MMXCYfXa3AwD0aQAASQ8kjEfbuQQFRYBpzAf"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8MMXCYfXa3AwD0aQAASQ8kjEfbuQQFRYBpzAf"
   },
   "audio_info": {
     "is_full_audio": false,
