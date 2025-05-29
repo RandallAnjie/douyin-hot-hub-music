@@ -5,7 +5,7 @@
   "author": "张瑞军",
   "album": "",
   "heat": 15860084,
-  "user_count": 502810,
+  "user_count": 503043,
   "duration": 46,
   "duration_formatted": "46秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-30 00:08",
+  "update_time": "2025-05-30 01:05",
   "files": {
     "cover_image": "images/7502745091225012276.jpg",
     "audio": "music/7502745091225012276.mp3",
@@ -47,7 +47,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ooQ9k7ApEiK0vAAgzc0WmBnAEEjKhQAfQBLiAs"
+    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/ooQ9k7ApEiK0vAAgzc0WmBnAEEjKhQAfQBLiAs"
   },
   "audio_info": {
     "is_full_audio": false,
