@@ -5,7 +5,7 @@
   "author": "桂林玉儿",
   "album": "",
   "heat": 15863025,
-  "user_count": 624781,
+  "user_count": 624690,
   "duration": 26,
   "duration_formatted": "26秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 16:20",
+  "update_time": "2025-05-29 17:05",
   "files": {
     "cover_image": "images/7482324352224430132.jpg",
-    "audio": "assets/music/7482324352224430132.mp3",
+    "audio": "music/7482324352224430132.mp3",
     "lyrics": "lyrics/7482324352224430132.lrc",
+    "chorus": "chorus/7482324352224430132_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7482324352224430132_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7482324352224430132.json",
     "chorus_raw_lyrics": "raw_lyrics/7482324352224430132_chorus.json"
@@ -52,6 +53,6 @@
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": false
+    "has_chorus_segment": true
   }
 }

@@ -5,7 +5,7 @@
   "author": "郑杰伦",
   "album": "没有我你怎么办",
   "heat": 15179306,
-  "user_count": 62400,
+  "user_count": 62681,
   "duration": 38,
   "duration_formatted": "38秒",
   "is_original": false,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 16:05",
+  "update_time": "2025-05-29 17:05",
   "files": {
     "cover_image": "images/7492750438677170979.jpg",
-    "audio": "assets/music/7492750438677170979.mp3",
+    "audio": "music/7492750438677170979.mp3",
     "lyrics": "lyrics/7492750438677170979.lrc",
+    "chorus": "chorus/7492750438677170979_chorus.mp3",
     "chorus_lyrics": "chorus_lyrics/7492750438677170979_chorus.lrc",
     "raw_lyrics": "raw_lyrics/7492750438677170979.json",
     "chorus_raw_lyrics": "raw_lyrics/7492750438677170979_chorus.json"
@@ -44,11 +45,11 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/osCNzAD5TAefTAxfnsOkEioEA8zFEaQNBEAFOt"
   },
   "audio_info": {
     "is_full_audio": false,
     "audio_type": "chorus",
-    "has_chorus_segment": false
+    "has_chorus_segment": true
   }
 }

@@ -5,7 +5,7 @@
   "author": "Ray Saetta",
   "album": "",
   "heat": 17054519,
-  "user_count": 168599,
+  "user_count": 169035,
   "duration": 27,
   "duration_formatted": "27秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 16:12",
+  "update_time": "2025-05-29 17:05",
   "files": {
     "cover_image": "images/7503070175798282255.jpg",
     "audio": "music/7503070175798282255.mp3",
@@ -46,7 +46,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMALZfA9EEDqsWAAFVotgDkBIE2WDyAfgCwFAZ"
+    "lyric_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oMALZfA9EEDqsWAAFVotgDkBIE2WDyAfgCwFAZ"
   },
   "audio_info": {
     "is_full_audio": false,
