@@ -5,7 +5,7 @@
   "author": "南小尧",
   "album": "",
   "heat": 15847632,
-  "user_count": 44388,
+  "user_count": 44485,
   "duration": 174,
   "duration_formatted": "174秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-29 10:35",
+  "update_time": "2025-05-29 11:24",
   "files": {
     "cover_image": "images/7501890620568782875.jpg",
     "audio": "music/7501890620568782875.mp3",
@@ -47,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIjpgPD4IFF3I9CVuAEEA2aABzeJfz3XQQfBAJ"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIjpgPD4IFF3I9CVuAEEA2aABzeJfz3XQQfBAJ"
   },
   "audio_info": {
     "is_full_audio": true,
