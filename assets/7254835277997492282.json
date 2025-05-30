@@ -5,7 +5,7 @@
   "author": "马成林",
   "album": "",
   "heat": 16431534,
-  "user_count": 199689,
+  "user_count": 199714,
   "duration": 187,
   "duration_formatted": "187秒",
   "is_original": true,
@@ -13,11 +13,12 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-30 17:07",
+  "update_time": "2025-05-30 18:05",
   "files": {
     "cover_image": "images/7254835277997492282.jpg",
-    "audio": "assets/music/7254835277997492282.mp3",
-    "lyrics": ""
+    "audio": "music/7254835277997492282.mp3",
+    "lyrics": "",
+    "chorus": "chorus/7254835277997492282_chorus.mp3"
   },
   "high_peak": {
     "time_range": "0.000秒 - 18.816秒 (持续18.816秒)",
@@ -44,8 +45,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": false,
-    "audio_type": "chorus",
-    "has_chorus_segment": false
+    "is_full_audio": true,
+    "audio_type": "full",
+    "has_chorus_segment": true
   }
 }
