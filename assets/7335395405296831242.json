@@ -5,7 +5,7 @@
   "author": "Zy",
   "album": "Take Me Hand",
   "heat": 15531938,
-  "user_count": 558340,
+  "user_count": 558540,
   "duration": 27,
   "duration_formatted": "27秒",
   "is_original": false,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-30 13:08",
+  "update_time": "2025-05-30 14:21",
   "files": {
     "cover_image": "images/7335395405296831242.jpg",
     "audio": "music/7335395405296831242.mp3",
@@ -44,7 +44,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8zgf5S1HQDQAe0vsS2fIAoKmA3gYPMdCA1eEO"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/o8zgf5S1HQDQAe0vsS2fIAoKmA3gYPMdCA1eEO"
   },
   "audio_info": {
     "is_full_audio": false,
