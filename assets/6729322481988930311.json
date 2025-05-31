@@ -5,7 +5,7 @@
   "author": "汪苏泷",
   "album": "",
   "heat": 15819724,
-  "user_count": 260859,
+  "user_count": 260954,
   "duration": 33,
   "duration_formatted": "33秒",
   "is_original": true,
@@ -13,15 +13,12 @@
   "is_aed_music": true,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-31 10:34",
+  "update_time": "2025-05-31 11:29",
   "files": {
     "cover_image": "images/6729322481988930311.jpg",
     "audio": "music/6729322481988930311.mp3",
-    "lyrics": "lyrics/6729322481988930311.lrc",
-    "chorus": "chorus/6729322481988930311_chorus.mp3",
-    "chorus_lyrics": "chorus_lyrics/6729322481988930311_chorus.lrc",
-    "raw_lyrics": "raw_lyrics/6729322481988930311.json",
-    "chorus_raw_lyrics": "raw_lyrics/6729322481988930311_chorus.json"
+    "lyrics": "",
+    "chorus": "chorus/6729322481988930311_chorus.mp3"
   },
   "high_peak": {
     "time_range": "0.000秒 - 28.416秒 (持续28.416秒)",
