@@ -5,7 +5,7 @@
   "author": "人面兽心&花凯",
   "album": "",
   "heat": 15544031,
-  "user_count": 88279,
+  "user_count": 88283,
   "duration": 19,
   "duration_formatted": "19秒",
   "is_original": true,
@@ -13,7 +13,7 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-06-01 00:06",
+  "update_time": "2025-06-01 01:05",
   "files": {
     "cover_image": "images/7331297409526958120.jpg",
     "audio": "music/7331297409526958120.mp3",
@@ -45,7 +45,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/6a5818cd6721434bbd29c0bf28913961"
+    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/6a5818cd6721434bbd29c0bf28913961"
   },
   "audio_info": {
     "is_full_audio": false,
