@@ -5,7 +5,7 @@
   "author": "王力宏",
   "album": "心跳",
   "heat": 16837821,
-  "user_count": 4672691,
+  "user_count": 4673213,
   "duration": 16,
   "duration_formatted": "16秒",
   "is_original": false,
@@ -13,11 +13,14 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-31 11:22",
+  "update_time": "2025-05-31 12:06",
   "files": {
     "cover_image": "images/7482371896877665043.jpg",
     "audio": "music/7482371896877665043.mp3",
-    "lyrics": ""
+    "lyrics": "lyrics/7482371896877665043.lrc",
+    "chorus_lyrics": "chorus_lyrics/7482371896877665043_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7482371896877665043.json",
+    "chorus_raw_lyrics": "raw_lyrics/7482371896877665043_chorus.json"
   },
   "high_peak": {
     "time_range": "96.384秒 - 147.455秒 (持续51.071秒)",
@@ -41,7 +44,7 @@
     "SingingVersions": null
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEgCriAzglNavQABAE21rS26pmiAAt3IT4WWE"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oEgCriAzglNavQABAE21rS26pmiAAt3IT4WWE"
   },
   "audio_info": {
     "is_full_audio": false,
