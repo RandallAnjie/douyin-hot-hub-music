@@ -5,7 +5,7 @@
   "author": "仁辰 & 于行",
   "album": "",
   "heat": 15770376,
-  "user_count": 7752421,
+  "user_count": 7753770,
   "duration": 170,
   "duration_formatted": "170秒",
   "is_original": true,
@@ -13,12 +13,11 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-31 08:17",
+  "update_time": "2025-05-31 09:33",
   "files": {
     "cover_image": "images/7123789566997252127.jpg",
-    "audio": "music/7123789566997252127.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7123789566997252127_chorus.mp3"
+    "audio": "assets/music/7123789566997252127.mp3",
+    "lyrics": ""
   },
   "high_peak": {
     "time_range": "139.200秒 - 168.768秒 (持续29.568秒)",
@@ -49,8 +48,8 @@
     "lyric_url": ""
   },
   "audio_info": {
-    "is_full_audio": true,
-    "audio_type": "full",
-    "has_chorus_segment": true
+    "is_full_audio": false,
+    "audio_type": "chorus",
+    "has_chorus_segment": false
   }
 }
