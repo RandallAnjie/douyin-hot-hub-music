@@ -5,7 +5,7 @@
   "author": "xone",
   "album": "",
   "heat": 15837202,
-  "user_count": 81018,
+  "user_count": 81042,
   "duration": 28,
   "duration_formatted": "28秒",
   "is_original": false,
@@ -13,12 +13,15 @@
   "is_aed_music": false,
   "has_copyright": true,
   "can_background_play": true,
-  "update_time": "2025-05-31 16:06",
+  "update_time": "2025-05-31 17:26",
   "files": {
     "cover_image": "images/7499080095263049782.jpg",
     "audio": "music/7499080095263049782.mp3",
-    "lyrics": "",
-    "chorus": "chorus/7499080095263049782_chorus.mp3"
+    "lyrics": "lyrics/7499080095263049782.lrc",
+    "chorus": "chorus/7499080095263049782_chorus.mp3",
+    "chorus_lyrics": "chorus_lyrics/7499080095263049782_chorus.lrc",
+    "raw_lyrics": "raw_lyrics/7499080095263049782.json",
+    "chorus_raw_lyrics": "raw_lyrics/7499080095263049782_chorus.json"
   },
   "high_peak": {
     "time_range": "166.656秒 - 191.231秒 (持续24.575秒)",
@@ -44,7 +47,7 @@
     ]
   },
   "music_info": {
-    "lyric_url": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIA5rAbQaW7MRIJcAvruiyAEAABiPBoTcFgNE"
+    "lyric_url": "https://sf5-hl-ali-cdn-tos.douyinstatic.com/obj/tos-cn-v-2774c002/oIA5rAbQaW7MRIJcAvruiyAEAABiPBoTcFgNE"
   },
   "audio_info": {
     "is_full_audio": false,
